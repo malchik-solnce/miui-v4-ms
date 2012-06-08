@@ -580,7 +580,7 @@
     <string name="wifi_config_info">Настройки Wi-Fi</string>
     <string name="config_list_label">Конфигурация сетей</string>
     <string name="display_settings_title">Экран</string>
-    <string name="sound_settings">Параметры звука</string>
+    <string name="sound_settings">Установки звука</string>
     <string name="silent_mode_title">Режим без звука</string>
     <string name="ringtone_title">Мелодия телефона</string>
     <string name="ringtone_summary" />
@@ -623,7 +623,7 @@
     <string name="sync_settings">Аккаунты</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
-    <string name="display_settings">Установки экрана</string>
+    <string name="display_settings">Параметры экрана</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
@@ -1609,7 +1609,7 @@
     <string name="common_settings">Общие настройки</string>
     <string name="launcher_settings_title">Рабочий стол</string>
     <string name="battery_settings">Сведения о батареи</string>
-    <string name="battery_settings_title">Батарея</string>
+    <string name="battery_settings_title">Сведения о батареи</string>
     <string name="battery_indicator_style">Стиль индикатора батареи</string>
     <string name="power_usage_history">Использование батареи</string>
     <string name="default_usb_mode">По умолчанию тип подключения USB</string>

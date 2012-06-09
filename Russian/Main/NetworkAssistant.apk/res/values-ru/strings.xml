@@ -38,8 +38,8 @@
     <string name="menu_hide_wifi">Скрыть Wi-Fi-трафик</string>
     <string name="menu_display_system_app">Показать системные приложения</string>
     <string name="menu_hide_system_app">Скрыть системные приложения</string>
-    <string name="adjust_traffic_title">Регулировка трафика</string>
-    <string name="month_traffic_settings_title">Настройки месячного трафика</string>
+    <string name="adjust_traffic_title">Настройка трафика</string>
+    <string name="month_traffic_settings_title">Ежемесячный трафик</string>
     <string name="sort_dialog_title">Сортировка</string>
     <string name="current_warning_value">Предупреждать при достижении: %s</string>
     <string name="batch_connect_control">Управление подключениями</string>
@@ -51,7 +51,7 @@
     <string name="adjust_traffic_auto_adjust_title">Авторегулировка трафика</string>
     <string name="adjust_traffic_auto_adjust_hint">Система регулярно запрашивает и регулирует Передачу данных от операторов. Вам необходимо ввести информацию о операторах</string>
     <string name="manual_input_used_traffic_title">Введите допустимый объем входящего трафика</string>
-    <string name="manual_input_used_traffic_hint">Объем входящего трафика</string>
+    <string name="manual_input_used_traffic_hint">Использовано трафика</string>
     <string name="save">Сохранить</string>
     <string name="daily_limit_dialog_hint">Дневной лимит трафика (0 - отсутствие лимита)</string>
     <string name="input_hint">Введите</string>
@@ -72,7 +72,7 @@
     <string name="unknown_free_traffic_title">Неизвестный разрешенный трафик</string>
     <string name="unknown_free_traffic_hint">Если вы не знаете свой обьем трафика, пожалуйста обратитесь за помощью к оператору</string>
     <string name="i_known_button">OK</string>
-    <string name="traffic_none">Нет данных</string>
+    <string name="traffic_none">0MB</string>
     <string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
     <string name="control_app_internet">Контроль сети</string>
     <string name="fire_rule_program_list">Список приложений</string>
@@ -87,10 +87,9 @@
     <string name="app_detail_internet_background_traffic">Трафик: %1$s Фоновый трафик: %2$s</string>
     <string name="stop_app_button">Закрыть</string>
     <string name="detail_app_button">Информация</string>
-	<string name="plate_traffic_already_used">Использованно (%s)</string>
-    <string name="plate_traffic_remain">Осталось (%s)</string>
-    <string name="plate_traffic_exceed">Превышено (%s)</string>
-	<string name="traffic_remain">Оставшийся</string>
+	<string name="traffic_already_used">Использовано</string>
+	<string name="traffic_remain">Осталось</string>
+    <string name="traffic_exceed">Превышение</string>
     <string name="apply_rules_failed_known">OK</string>
     <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз (%s)</string>
     <string name="traffic_total">Всего: %s</string>

@@ -623,6 +623,10 @@
     <string name="edit_photo">Редактировать фото</string>
     <string name="edit_hint">Изменить</string>
     <string name="date_picker_label">Напомнить за 3 дня до и в сам день рождения</string>
+	<string name="next_birthday">Следующий День рождения: %s</string>  
+    <string name="today">Сегодня</string>	
+    <string name="click_close">Коснитесь, чтобы закрыть</string>
+    <string name="close">Закрыть</string>
 	<string name="pkgLabel">Контакты и Вызовы</string>
     <string name="btn_finished">Готово</string>
     <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>

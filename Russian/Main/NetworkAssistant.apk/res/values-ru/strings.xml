@@ -117,10 +117,7 @@
     <string name="this_month">Месяц</string>
     <string name="loading_app">Загрузка...</string>
     <string name="cannot_find_sms_cmd">"Не удается найти SMS команд"</string>
-    <string name="sms_template_match_fail">Match SMS template fail</string>
+    <string name="sms_template_match_fail">Шаблоны SMS не соответствуют</string>
     <string name="traffic_settings_error">Eсть ошибка в настройках Вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
     <string name="app_traffic_detail">Трафик (%s)</string>
-    <string name="sms_match_fail">Ошибка в соответствии с SMS</string>
-    <string name="traffic_already_used">Использованно</string>
-    <string name="traffic_exceed">Превышено</string>
 </resources>

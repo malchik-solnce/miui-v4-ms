@@ -1671,7 +1671,7 @@
     <string name="master_clear_personal_data_sdcard">Вы действительно хотите удалить ваши личные данные и отформатировать SD-Карту? Операция не может быть отменена</string>
     <string name="master_clear_all">Вы уверены, что хотите удалить все данные до заводских настроек? Операция не может быть отменена</string>
     <string name="master_clear_erase_application_progress">Удаление приложений в процессе...</string>
-    <string name="bluetooth_default_name">MIUI Смарт</string>
+    <string name="bluetooth_default_name">MIUI v4 MS</string>
     <string name="data_summary">Выберите подписку для данных вызовов</string>
     <string name="data_title">Данные вызова</string>
     <string name="notification_pulse_summary">Мигание LED индикатора при новых уведомлениях</string>

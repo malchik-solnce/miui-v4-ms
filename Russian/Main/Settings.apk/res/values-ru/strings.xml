@@ -132,7 +132,7 @@
     <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
     <string name="bluetooth_auto_connect">Автоматическое подключение</string>
     <string name="bluetooth_connection_permission_request">Запрос на подключение по каналу Bluetooth</string>
-    <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\".</string>
+    <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
     <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s пытается получить доступ к вашим контактам и журналу вызовов. Предоставить доступ для %2$s?</string>
@@ -143,7 +143,7 @@
     <string name="choose_timezone">Выбрать часовой пояс</string>
     <string name="default_date_format">Месяц/день/год</string>
     <string name="normal_date_format">По умолчанию (%s)</string>
-    <string name="display_preview_label">Предварительный просмотр:</string>
+    <string name="display_preview_label">Предвпросмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
     <string name="intent_sender_data_label">Данные:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
@@ -163,12 +163,12 @@
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Внимание!</string>
     <string name="proxy_error_dismiss">ОК</string>
-    <string name="proxy_error_invalid_host">Введено недействительное имя хоста.</string>
+    <string name="proxy_error_invalid_host">Введено недействительное имя хоста</string>
     <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
-    <string name="proxy_error_empty_port">Необходимо заполнить поле порта.</string>
+    <string name="proxy_error_empty_port">Необходимо заполнить поле порта</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
-    <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
-    <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений.</string>
+    <string name="proxy_error_invalid_port">Указанный порт недействителен</string>
+    <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений</string>
     <string name="radio_info_signal_location_label">Местоположение:</string>
     <string name="radio_info_neighboring_location_label">Соседний CID:</string>
     <string name="radio_info_data_attempts_label">Попыток данных:</string>
@@ -282,10 +282,10 @@
 
 Шифрование займет не менее одного часа. Перед его запуском необходимо подключить зарядное устройство и не отключать его до окончания операции. В случае прерывания шифрования будут потеряны все данные или часть из них."</string>
     <string name="crypt_keeper_button_text">Зашифровать телефон</string>
-    <string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку.</string>
-    <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку.</string>
+    <string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку</string>
+    <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку</string>
     <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
-    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана.</string>
+    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_confirm_title">Подтвердить шифрование</string>
     <string name="crypt_keeper_final_desc">Выполнить шифрование данных телефона? Эта операция необратима, и в случае ее прерывания данные будут потеряны. Шифрование займет не менее одного часа. Во время шифрования устройство будет перезагружено несколько раз.</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>

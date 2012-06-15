@@ -302,7 +302,7 @@
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
-    <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
+    <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Стандартная</string>
@@ -1672,6 +1672,7 @@
     <string name="master_clear_all">Вы уверены, что хотите удалить все данные до заводских настроек? Операция не может быть отменена</string>
     <string name="master_clear_erase_application_progress">Удаление приложений в процессе...</string>
     <string name="bluetooth_default_name">MIUI v4 MS</string>
+	<string name="bluetooth_profile_name">"%1$s's MIUI v4 MS"</string>
     <string name="data_summary">Выберите подписку для данных вызовов</string>
     <string name="data_title">Данные вызова</string>
     <string name="notification_pulse_summary">Мигание LED индикатора при новых уведомлениях</string>
@@ -1720,4 +1721,5 @@
     <string name="wifi_p2p_on_summary">Включите WiFi-direct</string>
     <string name="wifi_p2p_settings">Настройки WiFi-direct</string>
     <string name="set_dds_error">Ошибка в подписке набора данных</string>
+	<string name="usage_log">Статистика использования приложения</string>
 </resources>

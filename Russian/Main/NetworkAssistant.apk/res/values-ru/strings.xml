@@ -87,11 +87,10 @@
 	<string name="plate_traffic_already_used">Использовано (%s)</string> 
     <string name="plate_traffic_remain">Осталось (%s)</string> 
     <string name="plate_traffic_exceed">Превышено (%s)</string>
-	<string name="traffic_already_used">Использовано</string>
 	<string name="traffic_remain">Осталось</string>
-    <string name="traffic_exceed">Превышено</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз (%s)</string>
+    <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз 
+(%s)</string>
     <string name="traffic_total">Всего: %s</string>
     <string name="traffic_used_status">Использовано: %s</string>
     <string name="unknown_traffic_hint">Лимит трафика не установлен, хотите установить прямо сейчас?</string>
@@ -116,8 +115,9 @@
     <string name="today">Сегодня</string>
     <string name="this_month">Месяц</string>
     <string name="loading_app">Загрузка...</string>
-    <string name="cannot_find_sms_cmd">"Не удается найти SMS команд"</string>
+    <string name="cannot_find_sms_cmd">Не удается найти SMS команд</string>
     <string name="sms_template_match_fail">Ошибка соответствия SMS шаблонов</string>
     <string name="traffic_settings_error">Eсть ошибка в настройках вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
     <string name="app_traffic_detail">Трафик (%s)</string>
+	<string name="sms_match_fail">Ошибка соответствия SMS</string>
 </resources>

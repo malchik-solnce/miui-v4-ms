@@ -415,19 +415,15 @@
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="report">Сообщить</string>
     <string name="gigabyteShort">ГБ</string>
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
-    <string name="common_last_name_prefixes" />
-    <string name="common_name_conjunctions" />
-    <string name="dial_number_using">"Вызвать
-используя %s"</string>
+    <string name="dial_number_using">"Вызвать используя %s"</string>
     <string name="text_pastelist">Буфер обмена</string>
     <string name="select">Выбрать</string>
 	<string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
+	<string name="solar_calendar">Григорианский календарь</string> 
 	<string name="resource_selected_number">Выбрано %d ресурс(ов)</string>
     <string name="resource_delete_all">Вы уверены, что хотите удалить %d выбранных ресурсов?</string>
-    <string name="processing">Обработка ...</string>
+    <string name="processing">Обработка...</string>
     <string name="resource_can_not_selected">%s нельзя выбрать!</string>
     <string name="resource_system_title">Системные ресурсы</string>
     <string name="resource_downloaded_title">Загруженные ресурсы</string>

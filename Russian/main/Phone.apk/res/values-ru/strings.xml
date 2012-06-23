@@ -936,5 +936,16 @@
   <string name="auto_ip_add_exception_numbers_miui">Добавление номера</string>  
   <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>  
   <string name="auto_ip_exception_summary_miui"> %d всего</string>  
-  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string> 
+  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
+  <string name="auto_answer_summary_not_enabled">Не включен</string>
+  <string name="auto_ip_summary_not_enabled">Не включен</string>
+  <string name="auto_answer_summary_delay">(задержка:%ss)</string>
+  <string name="answer_state_setting_title">Настройки паматров входящих вызовов</string>
+  <string name="answer_state_setting_summary">Настройки переворот - тишина, датчика и т.д.</string>
+  <string name="answer_state_setting_title_miui">Настройки паматров входящих вызовов</string>
+  <string name="incall_screen_background_title_miui">Фон экрана в вызове</string>
+  <string name="incall_screen_background_summary_miui">"Использовать обои локскрина,если нет аватара"</string>
+  <string name="reject_via_sms_miui">Ответ по SMS</string>
+  <string name="reject_via_sms_summary_miui">Ответ SMS-сообщением звонящиму, при отклонении вызова</string>
+  <string name="reject_via_sms_title_miui">Параметры ответа по SMS</string>
 </resources>

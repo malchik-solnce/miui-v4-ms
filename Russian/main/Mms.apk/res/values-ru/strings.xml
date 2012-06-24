@@ -283,7 +283,7 @@
   <string name="error_state">Данные были изменены</string>
   <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
   <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
-  <string name="conversation">Сообщение</string>
+  <string name="conversation">Сообщения</string>
   <string name="bookmark">Избранное</string>
   <string name="festival">Шутки</string>
   <string name="add_smiley">Смайл</string>
@@ -377,7 +377,7 @@
   <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
   <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
   <string name="pref_title_hide_festival">Скрыть вкладку рекомендуемые</string>
-    <string name="pref_summary_hide_festival">Скрыть вкладку Шутки</string>
+  <string name="pref_summary_hide_festival">Скрыть вкладку Шутки</string>
   <string name="pref_key_append_signature_title">Подпись</string>
   <string name="pref_key_append_signature_summary">Добавить подпись к сообщению</string>
   <string name="pref_key_edit_signature_title">Изменить подпись</string>

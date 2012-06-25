@@ -43,6 +43,7 @@
     <string name="call_record_or">или</string>
     <string name="dialog_play">Играть</string>
     <string name="dialog_send">Отправить</string>
-    <string name="dialog_delete">Удалить</string>
-    <string name="accept">Done</string>
+    <string name="dialog_delete">Удаление записи</string>
+	<string name="alert_message_delete_record">Удалить выбранную запись?</string>
+    <string name="accept">Готово</string>
 </resources>

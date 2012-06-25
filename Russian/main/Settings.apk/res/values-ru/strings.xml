@@ -615,12 +615,12 @@
     <string name="dock_audio_summary_car">Настройки док-станции автомобиля</string>
     <string name="dock_audio_summary_none">Телефон не подключен к док-станции</string>
     <string name="dock_audio_summary_unknown">Настройки подключенной док-станции</string>
-    <string name="dock_not_found_title">Док-станция не найдена.</string>
+    <string name="dock_not_found_title">Док-станция не найдена</string>
     <string name="dock_not_found_text">Чтобы настроить док-станцию, установите в нее телефон</string>
     <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
     <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении телефона</string>
-    <string name="sync_settings">Аккаунты</string>
+    <string name="sync_settings">Мои аккаунты</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
     <string name="display_settings">Параметры экрана</string>

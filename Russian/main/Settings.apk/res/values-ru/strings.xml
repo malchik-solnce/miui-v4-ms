@@ -1634,10 +1634,10 @@
     <string name="breathing_light_color_summary">Цвет LED при получении нового уведомления</string>
     <string name="breathing_light_freq_title">Частота мигания</string>
     <string name="breathing_light_freq_summary">Пауза между миганиями</string>
-    <string name="led_settings">LED оповещения</string>
-    <string name="led_colors_summary">LED цвет уведомлений</string>
+    <string name="led_settings">Индикация</string>
+    <string name="led_colors_summary">Цвет уведомлений</string>
     <string name="led_frequence_summary">Установите интервал между миганием LED</string>
-    <string name="led_pulse_summary">Пульсирующий LED о новых уведомлениях</string>
+    <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
     <string name="show_rounded_corners">Показывать закругленными углами</string>
     <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
     <string name="pref_operational_key">Оперативный ключ</string>
@@ -1722,6 +1722,8 @@
     <string name="wifi_p2p_settings">Настройки WiFi-direct</string>
     <string name="set_dds_error">Ошибка в подписке набора данных</string>
 	<string name="usage_log">Статистика использования приложения</string>
+	<string name="usb_msd_title">Подключение USB</string>
+    <string name="usb_msd_summary">Передача файлов на Windows и Mac</string>
 	<string name="screen_button_key">Виртуальные кнопки</string>
     <string name="screen_button_custom">Настройка расположения кнопок</string>
     <string name="volume_voice_description">Громкость разговора</string>

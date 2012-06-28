@@ -3,22 +3,22 @@
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="application_name">Браузер</string>
   <string name="choose_upload">Выберите файл для загрузки</string>
-  <string name="uploads_disabled">Добавление файлов отключено.</string>
+  <string name="uploads_disabled">Добавление файлов отключено</string>
   <string name="new_tab">Новая вкладка</string>
   <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
   <string name="tab_bookmarks">Закладки</string>
   <string name="tab_most_visited">Часто посещаемые</string>
   <string name="tab_history">История</string>
   <string name="tab_snapshots">Сохраненные страницы</string>
-  <string name="added_to_bookmarks">Добавлено в закладки.</string>
-  <string name="removed_from_bookmarks">Удалено из закладок.</string>
+  <string name="added_to_bookmarks">Добавлено в закладки</string>
+  <string name="removed_from_bookmarks">Удалено из закладок</string>
   <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
   <string name="username">Имя</string>
   <string name="password">Пароль</string>
   <string name="action">Вход</string>
   <string name="bookmarks_search">Браузер</string>
-  <string name="cancel">Отмена</string>
-  <string name="ok">ОК</string>
+  <string name="cancel">Нет</string>
+  <string name="ok">Да</string>
   <string name="title_bar_loading">Загрузка…</string>
   <string name="page_info">Информация о странице</string>
   <string name="page_info_view">Информация о странице</string>
@@ -64,9 +64,9 @@
   <string name="remove_from_bookmarks">Удалить из закладок</string>
   <string name="remove_history_item">Удалить из истории</string>
   <string name="set_as_homepage">Сделать главной страницей</string>
-  <string name="bookmark_saved">Сохранено в закладках.</string>
-  <string name="bookmark_not_saved">Не удалось сохранить закладку.</string>
-  <string name="homepage_set">Главная страница установлена.</string>
+  <string name="bookmark_saved">Сохранено в закладках</string>
+  <string name="bookmark_not_saved">Не удалось сохранить закладку</string>
+  <string name="homepage_set">Главная страница установлена</string>
   <string name="bookmark_needs_title">Необходимо указать имя закладки</string>
   <string name="bookmark_needs_url">Необходимо указать место закладки</string>
   <string name="bookmark_url_not_valid">Неправильный URL</string>
@@ -136,7 +136,7 @@
   <string name="autologin_bar_login_text">Войти</string>
   <string name="autologin_bar_hide_text">Скрыть</string>
   <string name="autologin_bar_error">Не удалось войти.</string>
-  <string name="autofill_profile_editor_heading">Введите текст для автозаполнения.</string>
+  <string name="autofill_profile_editor_heading">Введите текст для автозаполнения</string>
   <string name="autofill_profile_editor_name">Полное имя:</string>
   <string name="autofill_profile_editor_email_address">Эл. почта:</string>
   <string name="autofill_profile_editor_company_name">Название компании:</string>
@@ -238,10 +238,6 @@
   <string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
   <string name="pref_data_title">Настройки контента</string>
   <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
   <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
@@ -401,4 +397,5 @@
   <string name="search_bing">Bing</string>
   <string name="search_google">Google</string>
   <string name="search_yahoo">Yahoo</string>
+  <string name="help_page">Помощь</string>
 </resources>

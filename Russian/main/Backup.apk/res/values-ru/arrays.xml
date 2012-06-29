@@ -11,9 +11,6 @@
         <item>Браузер</item>
         <item>Фотографии</item>
         <item>Приложение Файлы</item>
-        <item>Галерея</item>	
-        <item>Суперпользователь</item>	
-        <item>Камера</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакты</item>
@@ -22,11 +19,12 @@
         <item>Сообщения MMS</item>
         <item>Настройки системы</item>
         <item>Настройки Wi-Fi</item>
-        <item>Иконки на рабочем столе</item>
+        <item>Расположение стола</item>
         <item>Настройки будильника</item>
         <item>Заметки</item>
         <item>Черный список</item>
-        <item>Аккаунт</item>
+		<item>Текущая тема</item>
+        <item>Суперпользователь</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Данные)</item>

@@ -18,8 +18,8 @@
     <string name="default_record_name">без имени</string>
     <string name="menu_view_record_list">Открыть список записей</string>
     <string name="menu_setting">Настройки</string>
-    <string name="delete_dialog_title">Хотите удалить текущую запись?</string>
-    <string name="overwrite_dialog_title">%s уже существует. Вы хотите перезаписать запись?</string>
+	<string name="delete_dialog_message">Хотите удалить текущую запись?</string>
+    <string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать запись?</string>
     <string name="preferences_title">Настройки</string>
     <string name="pref_title_record_type">Тип файла</string>
     <string name="prefDialogTitle_recordType">Пожалуйста, выберите тип файла</string>
@@ -44,6 +44,9 @@
     <string name="dialog_play">Играть</string>
     <string name="dialog_send">Отправить</string>
     <string name="dialog_delete">Удаление записи</string>
-	<string name="alert_message_delete_record">Удалить выбранную запись?</string>
+	<string name="dialog_warning">Внимание!</string>
+    <string name="alert_message_delete_record">Удалить выбранную запись?</string>
+    <string name="delete_dialog_title">Хотите удалить текущую запись?</string>
+    <string name="overwrite_dialog_title">%s уже существует. Вы хотите перезаписать запись?</string>
     <string name="accept">Готово</string>
 </resources>

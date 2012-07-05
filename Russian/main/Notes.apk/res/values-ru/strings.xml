@@ -84,7 +84,7 @@
     <string name="preferences_menu_change_account">Сменить аккаунт</string>
     <string name="preferences_menu_remove_account">Удалить синхронизацию аккаунта</string>
     <string name="preferences_menu_cancel">Отмена</string>
-    <string name="preferences_button_sync_immediately">Синхр. сейчас</string>
+    <string name="preferences_button_sync_immediately">Синхронизация</string>
     <string name="preferences_button_sync_cancel">Отмена синхронизации</string>
     <string name="preferences_dialog_change_account_title">Аккаунт: %1$s</string>
     <string name="preferences_dialog_change_account_warn_msg">Вся информация будет удалена</string>
@@ -94,13 +94,13 @@
     <string name="preferences_toast_success_set_accout">%1$s был установлен в качестве синхронизации аккаунта</string>
     <string name="preferences_bg_random_appear_title">Разноцветные заметки</string>
     <string name="button_delete">Удалить</string>
-    <string name="call_record_folder_name">Отменить заметку</string>
+    <string name="call_record_folder_name">Call Notes</string>
     <string name="hint_foler_name">Введите имя</string>
     <string name="search_label">Поиск заметок</string>
     <string name="search_hint">Поиск заметок</string>
     <string name="search_setting_description">Текст в заметках</string>
     <string name="search">Заметки</string>
-	<string name="select_text">Выделить текст</string>
+    <string name="select_text">Выделить текст</string>
     <string name="button_set">Задать</string>
     <string name="button_clear">Отмена</string>
     <string name="noteedit_use_alert_time_error">Неудалось установить время</string>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control-Panel</string>
+    <string name="show_battery_title">Показывать батарею</string>
+    <string name="show_battery_summary">Выключите, чтобы скрыть батарею</string>
+    <string name="statusbar_layout">Расположение часов</string>
+    <string name="misc_options">Прочие параметры</string>
+    <string name="show_nav_bar">Показывать панель навигации</string>
+    <string name="show_nav_bar_summary">Выключите, чтобы скрыть панель навигации</string>
+    <string name="notify_adb">Уведомления</string>
+    <string name="notify_adb_summary">Отображение уведомлений при включенной отладке</string>
+    <string name="show_carrier_title">Показывать логотип</string>
+    <string name="show_carrier_summary">Выключите, чтобы скрыть лого</string>
+    <string name="custom_carrier">Пользовательский логотип</string>
+    <string name="custom_carrier_summary">Укажите ваше название логотипа</string>
+    <string name="custom_carrier_text">Текст логотипа</string>
+    <string name="custom_carrier_logo">Показывать графический логотип</string>
+    <string name="custom_carrier_logo_summary">Показывать логотип изображением вместо текста</string>
+    <string name="notification_bar_date_format">Формат даты пенели уведомлений</string>
+    <string name="lockscreen_date_format">Формат даты локскрина</string>
+    <string name="date_format_options">Варианты формата даты</string>
+    <string name="show_alarm_title">Показывать значок будильника</string>
+    <string name="show_alarm_summary">Выключите, чтобы скрыть значок будильника</string>
+    <string name="carrier_options">Параметры логотипа</string>
+    <string name="clock_colour">Выберите цвет часов</string>
+    <string name="battery_colour">Выберите цвет верхнего бара</string>
+    <string name="battery_indicator_style">Стиль индикатора батареи</string>
+    <string name="carrier_colour">Выберите цвет текста логотипа</string>
+    <string name="title">Варианты строки состояния</string>
+    <string name="battery_options">Варианты батареи</string>
+    <string name="nav_bar_options">Варианты панели навигации</string>
+    <string name="about_title">О программе</string>
+    <string name="about_summary">Подробнее о приложении</string>
+    <string name="clock_format">Формат часов</string>
+    <string name="ui_overscroll_title">Варианты прокрутки</string>
+    <string name="pref_overscroll_title">Эффект прокрутки</string>
+    <string name="pref_overscroll_summary">Выберите тип прокрутки обьектов</string>
+    <string name="pref_overscroll_weight_title">Сила прокрутки</string>
+    <string name="pref_overscroll_weight_summary">Выберите силу прокручиваемых объектов</string>
+    <string name="date_help">"Вот некоторые примеры фомата даты:- 
+Для месяца Сентябрь:
+M -> 9
+MM -> 09
+MMM -> Сен
+MMMM -> Сентябрь
+Для 7 минут следующего часа:
+m -> 7 
+mm -> 07 
+Пример для Апреля 6, 2011 15:23
+MM/dd/yy HH:mma -> 04/06/11 15:23am
+MMM dd,yy hh:mm -> Апр 6,11 3:23
+MMMM dd,HH:mm -> April 6,15:23
+E,MMMM dd,yy hh:mm -> Пон, Апрель 6,11 3:23
+EEEE, MMMM dd -> Понедельник, Апрель 6
+'Дата: 'd/M/yy -> Дата: 6/4/11"</string>
+    <string name="choose_color">Выбор цветов</string>
+    <string name="choose_wallpaper_color">Выберите цвет обоев</string>
+    <string name="use_custom_title">Выберите цвет строки состояния</string>
+    <string name="use_custom_summary">Включите, чтобы выбрать другой цвет строки состояния</string>
+    <string name="choose_statusbar_color">Выберите цвет строки состояния</string>
+    <string name="dialog_resetSettings">Это заменит все настройки по умолчанию. Вы уверены, что хотите продолжить?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="app_drawer">Меню приложений</string>
+    <string name="app_drawer_title">Варианты меню</string>
+    <string name="pref_default_appsPerRow">4</string>
+    <string name="pref_title_hiddenApps">Скрыть приложения</string>
+    <string name="pref_summary_hiddenApps">Выберите приложения, чтобы скрыть из меню приложений</string>
+    <string name="pref_title_pulldownLocation">Положение отпуска</string>
+    <string name="pref_summary_pulldownLocation">Выберите положение меню приложений</string>
+    <string name="gravity_left">Слева</string>
+    <string name="gravity_right">Справа</string>
+    <string name="gravity_center">В центре</string>
+    <string name="start">Включить</string>
+    <string name="stop">Отключить</string>
+    <string name="done">Готово</string>
+    <string name="cancel">Отмена</string>
+    <string name="check_all">Выбрать все</string>
+    <string name="uncheck_all">Снять все</string>
+    <string name="loading_apps">Загрузка приложений. Пожалуйста, подождите...</string>
+    <string name="show_headset_title">Показывать значок гарнитуры</string>
+    <string name="show_headset_summary">Выключите, чтобы скрыть значок гарнитуры</string>
+    <string name="show_signal_title">Показывать значок сигнала</string>
+    <string name="show_signal_summary">Выключите, чтобы скрыть значок сигнала</string>
+    <string name="drawer_colour">Выберите фон меню приложений</string>
+    <string name="version_help">Версия 1.0.0</string>
+    <string name="startonBoot">Автозапуск</string>
+    <string name="pref_summary_startonBoot">Выберите для включения меню прил-ний в автозапуск</string>
+    <string name="dpi_title">Параметры DPI</string>
+</resources>

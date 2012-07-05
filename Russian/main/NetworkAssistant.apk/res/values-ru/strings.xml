@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="empty" />
     <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
@@ -9,6 +9,9 @@
     <string name="mobile_traffic">2G/3G: %s</string>
     <string name="wifi_traffic">Wi-Fi: %s</string>
     <string name="warning_settings_toast">%1$d%% %2$d MB</string>
+	<string name="widget_color_exceed_warn">\#F9882C</string>
+    <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
+    <string name="widget_color_used_all">\#C00203</string>
     <string name="app_name">Монитор</string>
     <string name="used_flux">Трафик</string>
     <string name="sorted_flux">Статистика</string>
@@ -25,7 +28,7 @@
     <string name="pref_connect_settings_exceed_limit_hint">Сообщить и отключить Интернет, когда превышен ежемесячный лимит трафика</string>
     <string name="pref_connect_settings_enable_backgroung">Включить фоновые службы</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети, когда приложение работает в фоновом режиме</string>
-    <string name="warning_title">Внимание</string>
+    <string name="warning_title">Внимание!</string>
     <string name="close_txt">Закрыть</string>
     <string name="cancel_txt">Отмена</string>
     <string name="disable_background_connect_warning">При ограничении объема трафика, некоторые приложения и услуги не смогут работать через 2G/3G. Закрыть соединение?</string>
@@ -84,19 +87,20 @@
     <string name="app_detail_internet_background_traffic">Трафик: %1$s Фоновый трафик: %2$s</string>
     <string name="stop_app_button">Закрыть</string>
     <string name="detail_app_button">Информация</string>
-	<string name="plate_traffic_already_used">Использовано (%s)</string> 
-    <string name="plate_traffic_remain">Осталось (%s)</string> 
+    <string name="plate_traffic_already_used">Использовано (%s)</string>
+    <string name="plate_traffic_remain">Осталось (%s)</string>
     <string name="plate_traffic_exceed">Превышено (%s)</string>
-	<string name="traffic_remain">Осталось</string>
+    <string name="traffic_remain">Осталось</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз 
-(%s)</string>
+    <string name="apply_rules_failed">"Не удалось включить брандмауэр, попробуйте еще раз
+(%s)"</string>
     <string name="traffic_total">Всего: %s</string>
     <string name="traffic_used_status">Использовано: %s</string>
     <string name="unknown_traffic_hint">Лимит трафика не установлен, хотите установить прямо сейчас?</string>
     <string name="finish_traffic_settings_hint">Настройки сохранены!</string>
     <string name="finish_traffic_settings_title">Настроить</string>
-    <string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете настроить ниже</string>
+    <string name="finish_traffic_settings_message">"Использовано %s трафика. Данные верны? 
+Если нет, то вы можете настроить ниже"</string>
     <string name="dialog_button_adjust">Настройка</string>
     <string name="settings_page_adjust_summary_no_carrier">Оператор не установлен, авторегулировка трафика отключена</string>
     <string name="settings_page_traffic_summary">Доступно: %1$s, Предел: %2$s, Последний: %3$d</string>
@@ -119,8 +123,8 @@
     <string name="sms_template_match_fail">Ошибка соответствия SMS шаблонов</string>
     <string name="traffic_settings_error">Eсть ошибка в настройках вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
     <string name="app_traffic_detail">Трафик (%s)</string>
-	<string name="sms_match_fail">Ошибка соответствия SMS</string>
-	<string name="pref_network_status_bar">Панель уведомлений</string>
+    <string name="sms_match_fail">Ошибка соответствия SMS</string>
+    <string name="pref_network_status_bar">Панель уведомлений</string>
     <string name="pref_network_speed_settings">Показывать скорость сети в статус-баре</string>
     <string name="pref_network_speed_internal_title">Интервал обновления</string>
     <string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d секунд</string>

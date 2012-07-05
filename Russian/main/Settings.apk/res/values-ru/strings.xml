@@ -232,7 +232,7 @@
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
     <string name="airplane_mode">Режим полета</string>
-    <string name="radio_controls_title">Ещё...</string>
+    <string name="radio_controls_title">Дополнительно...</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
     <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>
     <string name="roaming">Интернет-роуминг</string>
@@ -631,7 +631,7 @@
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="screen_timeout">Спящий режим</string>
     <string name="screen_timeout_summary">После %1$s бездействия</string>
-    <string name="wallpaper_settings_title">Обои</string>
+    <string name="wallpaper_settings_title">Обои экрана</string>
     <string name="wallpaper_settings_fragment_title">Установка обоев</string>
     <string name="screensaver_settings_title">Заставка</string>
     <string name="screensaver_settings_summary_on">Активация в спящем режиме при зарядке</string>
@@ -882,8 +882,8 @@
     <string name="lockpattern_need_to_unlock_wrong">Повторить попытку:</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
-    <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\".</string>
-    <string name="lockpattern_recording_inprogress">По завершении отпустите палец.</string>
+    <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\"</string>
+    <string name="lockpattern_recording_inprogress">По завершении отпустите палец</string>
     <string name="lockpattern_recording_incorrect_too_short">Соедините точки (как минимум %d). Повторите попытку:</string>
     <string name="lockpattern_pattern_entered_header">Графический ключ разблокировки записан!</string>
     <string name="lockpattern_need_to_confirm">Для подтверждения начертите графический ключ повторно:</string>

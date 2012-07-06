@@ -24,15 +24,6 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-	<string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 секунд</item>
@@ -42,16 +33,6 @@
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
-    </string-array>
-	<string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Немедленно</item>
@@ -64,17 +45,6 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-	<string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>
@@ -82,11 +52,11 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Очень медленно</item>
-        <item>Медленно</item>
-        <item>Нормально</item>
-        <item>Бстро</item>
-        <item>Очень быстро</item>
+        <item>Очень медленная</item>
+        <item>Медлення</item>
+        <item>Нормальная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Очень слабо</item>
@@ -146,7 +116,7 @@
         <item>Приглашен</item>
         <item>Неудачно</item>
         <item>Доступен</item>
-        <item>Out-of-range</item>
+        <item>Вне зане доступа</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 минуты</item>

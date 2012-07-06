@@ -88,7 +88,7 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="moving_data_to_sdcard_message">"Выполняется перенос данных
 пожалуйста подождите..."</string>
     <string name="moving_data_to_sdcard_progress_format">Перенесено: %1$dКб из %2$dКб</string>
-    <string name="finish_download">Скачивание завершено</string>
+    <string name="finish_download">Загрузка завершена</string>
     <string name="install_whole_rom">Мы рекомендуем вам скачать полный пакет для обновления системы</string>
     <string name="check_update_policy">Настройки</string>
     <string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
@@ -103,7 +103,9 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="stable_version">Стабильная версия</string>
     <string name="test_version">Dev версия</string>
     <string name="update_stable_version_only">Стабильная версия</string>
+	<string name="current_version_update_monthly_build">Текущая версия</string>
     <string name="page_error_title">Нет доступа</string>
     <string name="page_error">Нет доступа к MIUI из-за проблем с GPRS/3G или недоступности сервера</string>
     <string name="page_reload">Повторить</string>
+	
 </resources>

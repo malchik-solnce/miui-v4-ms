@@ -218,7 +218,7 @@
     <string name="sdcard_settings_read_only_status">SD-карта установлена только для чтения</string>
     <string name="skip_label">Далее</string>
     <string name="next_label">Далее</string>
-    <string name="language_picker_title">Язык</string>
+    <string name="language_picker_title">Язык телефона</string>
     <string name="activity_picker_label">Выбор действия</string>
     <string name="debug_intent_sender_label">Пожелания отправителя</string>
     <string name="device_info_label">Сведения об устройстве</string>
@@ -270,7 +270,7 @@
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
     <string name="location_settings_title">Мое местоположение</string>
-    <string name="security_settings_title">Безопасность</string>
+    <string name="security_settings_title">Безопасность телефона</string>
     <string name="security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="security_passwords_title">Пароли</string>

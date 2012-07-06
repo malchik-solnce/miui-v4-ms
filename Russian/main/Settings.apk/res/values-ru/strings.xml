@@ -232,7 +232,7 @@
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
     <string name="airplane_mode">Режим полета</string>
-    <string name="radio_controls_title">Дополнительно...</string>
+    <string name="radio_controls_title">Дополнительно</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
     <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>
     <string name="roaming">Интернет-роуминг</string>
@@ -1031,7 +1031,7 @@
     <string name="language_keyboard_settings_title">Язык и ввод</string>
     <string name="language_settings_category">Языковые настройки</string>
     <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
-    <string name="phone_language">Язык</string>
+    <string name="phone_language">Язык телефона</string>
     <string name="phone_language_summary" />
     <string name="auto_replace">Автокоррекция</string>
     <string name="auto_replace_summary">Исправлять опечатки</string>
@@ -1146,7 +1146,7 @@
     <string name="accessibility_touch_exploration_warning">Эта функция меняет способ сенсорной навигации устройства. Включить?</string>
     <string name="accessibility_service_default_description">Нет описания</string>
     <string name="settings_button">Настройки</string>
-    <string name="power_usage_summary_title">Батарея</string>
+    <string name="power_usage_summary_title">Состояние батареи</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
     <string name="power_usage_not_available">Уровень заряда неизвестен</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>

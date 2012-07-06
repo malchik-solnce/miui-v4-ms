@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Суперпользователь</string>
-  <string name="Generic_Copyright">Разработано командой LBE</string>
+  <string name="Generic_Copyright">Разработчик Team LBE</string>
   <string name="Generic_Version">Версия: %1$s</string>
-  <string name="Generic_Configuration">Настройки</string>
+  <string name="Generic_Configuration">Параметры</string>
   <string name="Generic_UserApp">Загруженные приложения (%d)</string>
   <string name="Generic_SystemApp">Системные приложения (%d)</string>
   <string name="Generic_SystemApp_Label">[Системные приложения]</string>
@@ -12,7 +12,7 @@
   <string name="Generic_ShowSystemApp">Показать системные приложения</string>
   <string name="Generic_HideSystemApp">Скрыть системные приложения</string>
   <string name="Generic_Loading">Загрузка...</string>
-  <string name="Generic_Operating">Работа...</string>
+  <string name="Generic_Operating">В процессе...</string>
   <string name="Generic_Canceling">Отмена...</string>
   <string name="Generic_InvalidInput">Неверный ввод</string>
   <string name="Generic_Service_Enabled">Сервис включен</string>
@@ -28,10 +28,10 @@
   <string name="Generic_Update">Обновление приложения</string>
   <string name="Generic_Shortcut">Контекстное меню</string>
   <string name="HIPS_Action_Accept">Разрешить</string>
-  <string name="HIPS_Action_Prompt">Спрашивать</string>
+  <string name="HIPS_Action_Prompt">Спросить</string>
   <string name="HIPS_Action_Reject">Запретить</string>
   <string name="HIPS_Action_Accept_Colored"><font color="#478800">Разрешить</font></string>
-  <string name="HIPS_Action_Prompt_Colored"><font color="#FF8A00">Спрашивать</font></string>
+  <string name="HIPS_Action_Prompt_Colored"><font color="#FF8A00">Спросить</font></string>
   <string name="HIPS_Action_Reject_Colored"><font color="#DF0000">Запретить</font></string>
   <string name="HIPS_Action_Accept_Count">Разрешенные: %1$d</string>
   <string name="HIPS_Action_Reject_Count">Запрещенные: %1$d</string>
@@ -39,13 +39,9 @@
   <string name="HIPS_Group_PIM">Персональная информация</string>
   <string name="HIPS_Group_Location">Позиционирование</string>
   <string name="HIPS_Group_PhoneID">Идентификация телефона</string>
-  <string name="HIPS_Group_Internet">Интерент-доступ</string>
+  <string name="HIPS_Group_Internet">Доступ к Интернету</string>
   <string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
   <string name="HIPS_Group_ROOT">Суперпользователь</string>
-  <string name="HIPS_Perm_Title">Разрешения</string>
-  <string name="HIPS_Perm_Network">Интернет</string>
-  <string name="HIPS_Perm_Network_Desc">Интернет</string>
-  <string name="HIPS_Perm_Network_Hint">%1$s приложений могут получить доступ к Интернет</string>
   <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
   <string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s приложения, имеющие доступ для отправки SMS</string>
@@ -57,7 +53,7 @@
   <string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
   <string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и.т.д</string>
-  <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости</string>
+  <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости.</string>
   <string name="HIPS_Perm_Location">Местоположение</string>
   <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>
@@ -167,15 +163,19 @@
   <string name="Privacy_App_Launch">Запуск</string>
   <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>
+  <string name="HIPS_Perm_Title">Разрешения</string>
+  <string name="HIPS_Perm_Network">Интернет</string>
+  <string name="HIPS_Perm_Network_Desc">Интернет</string>
+  <string name="HIPS_Perm_Network_Hint">%1$s приложений могут получить доступ к Интернет</string>
+  <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
+  <string name="HIPS_SecurityPrompt_Next">Далее</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$d получать права суперпользователя?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$s получать права суперпользователя?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперпользователя могут привести к нестабильной работе системы</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Ваши личные данные (аккаунты, пароли и сообщения) могут стать общедоступны</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно повреждение оборудования</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
-  <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
-  <string name="HIPS_SecurityPrompt_Next">Далее</string>
   <string name="Dashboard_Perm_AutoStart_Switch">Управление автозагрузкой</string>
   <string name="Dashboard_Perm_AutoStart">Управление автозагрузкой</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>
@@ -183,5 +183,5 @@
   <string name="SysOpt_Boost_Receiver">Фоновые</string>
   <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
   <string name="SysOpt_Boost_AutoStart">Разрешения автозагрузки</string>
-  <string name="Su_Enable_Dialog">%1$s пытается получить доступ с правами суперпользователя, который по умолчанию отключен для обеспечения безопасности системы. Если вам необходимо включить эту функцию, перейдите в настройки Менеджера дооступа</string>
+  <string name="Su_Enable_Dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений</string>
 </resources>

@@ -82,12 +82,12 @@
   <string name="unknown_artist_name">Неизвестный артист</string>
   <string name="global_search_hint">Нажмите для начала поиска</string>
   <string name="widget_global_search">Поиск</string>
-  <string name="gadget_clock_12_label">Часы</string>
-  <string name="gadget_clock_22_label">Часы</string>
-  <string name="gadget_clock_24_label">Часы</string>
-  <string name="gadget_photo_44_label">Фоторамка</string>
-  <string name="gadget_photo_22_label">Фоторамка</string>
-  <string name="gadget_photo_24_label">Фоторамка</string>
+  <string name="gadget_clock_12_label">Часы 1x2</string>
+  <string name="gadget_clock_22_label">Часы 2x2</string>
+  <string name="gadget_clock_24_label">Часы 2x4</string>
+  <string name="gadget_photo_44_label">Фоторамка 4x4</string>
+  <string name="gadget_photo_22_label">Фоторамка 2x2</string>
+  <string name="gadget_photo_24_label">Фоторамка 2x4</string>
   <string name="gadget_load_error">Ошибка загрузки виджета...</string>
   <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
   <string name="guide_tips_editing_mode">Нажмите на иконку виджета и перетащите на рабочий стол</string>
@@ -103,5 +103,5 @@
   <string name="gadget_weather_title_24">Погода 2X4</string>
   <string name="gadget_weather_title_14">Погода 1X4</string> 
   <string name="gadget_weather_to">в</string> 
-  <string name="gadget_weather_app_not_installed">Пожалуйста, установите Погоду MIUI</string>
+  <string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
 </resources>

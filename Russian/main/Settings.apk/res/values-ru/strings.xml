@@ -1731,4 +1731,6 @@
     <string name="volume_bluetooth_description">Громкость Bluetooth</string>
     <string name="volume_restore">Восстановить громкость</string>
     <string name="volume_restore_alert">Все настройки будут сброшены в начальные, вы уверены?</string>
+	<string name="enable_snapshot_screenlock">НАЗАД - для скриншота на экране блокировки</string>
+	
 </resources>

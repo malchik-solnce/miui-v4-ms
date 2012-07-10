@@ -52,7 +52,7 @@
         <item>http://vk.com/</item>
         <item>Яндекс</item>
         <item>http://www.yandex.ru/</item>
-        <item>DimonVideo.Ru</item>
+        <item>DimonVideo</item>
         <item>http://dimonvideo.ru/smart/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
@@ -63,16 +63,20 @@
         <item>eBay</item>
         <item>http://www.ebay.com/</item>
     </string-array>
-    <string-array name="bookmarks_zh">
-        <item>百度</item>
-        <item>http://m.baidu.com/?from=1269a/</item>
-        <item>谷歌</item>
-        <item>http://www.google.com.hk/</item>
-        <item>新浪</item>
-        <item>http://3g.sina.com.cn/</item>
-        <item>QQ</item>
-        <item>http://3g.qq.com/</item>
-        <item>网易</item>
-        <item>http://3g.163.com/</item>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Прокрутка страницы</item>
+        <item>Переключение вкладок</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Кнопки назад или вперед</item>
+        <item>Переключение вкладок</item>
     </string-array>
 </resources>

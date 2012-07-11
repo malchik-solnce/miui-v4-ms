@@ -187,4 +187,19 @@
   <string name="wangpan_root_path">My Drive</string>
   <string name="wifi_notication">Все задачи готовы для повторной загрузки *Wi-Fi*</string>
   <string name="xiaomi_account">Xiaomi аккаунт</string>
+  <string name="clean_message">Удаление %1$s</string>
+  <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
+  <string name="clean_trash_box">Очистить корзину</string>
+  <string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
+  <string name="close">Закрыть</string>
+  <string name="data_capacity">Объем: %1$s</string>
+  <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
+  <string name="rename_success">《%1$s》 успешно переименован</string>
+  <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
+  <string name="space_usage">Занято</string>
+  <string name="start_use_xiaomi_account">Вход</string>
+  <string name="trash_box_capacity">Объем корзины: %1$s</string>
+  <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
+  <string name="trash_box_message1">"Вы можете удалить не нужные файлы для освобождения места"</string>
+  <string name="trash_box_message2">"Вы можете удалить не нужные файлы или очистить корзину для освобождения места"</string>
 </resources>

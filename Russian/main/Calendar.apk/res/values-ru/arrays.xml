@@ -44,9 +44,9 @@
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Региональные настройки по умолчанию</item>
-        <item>суббота</item>
-        <item>воскресенье</item>
-        <item>понедельник</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Маршалловы о-ва</item>

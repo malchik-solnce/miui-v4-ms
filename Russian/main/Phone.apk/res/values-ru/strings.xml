@@ -995,7 +995,7 @@
     <string name="call_ind_services">Call Independent Services</string>
     <string name="call_number">К:</string>
     <string name="call_waiting_tone_summary_miui">Play tone when a call is waiting (press volume key to silence it)</string>
-    <string name="callind">Call Feature Settings</string>
+    <string name="callind">Настройки вызова</string>
     <string name="callind_multi_sim">Выберите подписку</string>
     <string name="cancel_call">Отмена</string>
     <string name="card_01">Карта 1</string>
@@ -1014,12 +1014,12 @@
     <string name="card_title_cugcall">CUG Call</string>
     <string name="card_title_deflectedcall">Deflected Call</string>
     <string name="card_title_forwardcheckreceived">Forward Check Received</string>
-    <string name="card_title_forwarded_MTcall">Forwarded Incoming Call</string>
-    <string name="card_title_in_progress">Current call</string>
-    <string name="card_title_incoming_barred">Incoming Calls Barred</string>
-    <string name="card_title_multipartycall">MultiParty Call</string>
-    <string name="card_title_outgoing_barred">Outgoing Calls Barred</string>
-    <string name="card_title_unconditionalCF">Call Forward Unconditional is enabled</string>
+    <string name="card_title_forwarded_MTcall">Переадресование входящего вызова</string>
+    <string name="card_title_in_progress">Текущий вызов</string>
+    <string name="card_title_incoming_barred">Входящие вызовы запрещены</string>
+    <string name="card_title_multipartycall">Конференц вызов</string>
+    <string name="card_title_outgoing_barred">Запрет исходящих вызовов</string>
+    <string name="card_title_unconditionalCF">Безусловная переадресация включена</string>
     <string name="config_sub_title">Настройка подписки</string>
     <string name="count_down">Секунд:</string>
     <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается</string>
@@ -1033,11 +1033,11 @@
     <string name="fdn_unavailable">FDN Service is not available</string>
     <string name="label_nsdp">SIM network subset unlock PIN</string>
     <string name="label_subscription">for Subscription</string>
-    <string name="mobile_network_setting">Mobile Network Settings</string>
-    <string name="network_manage_settings">Network Settings</string>
-    <string name="network_settings_sel_sub">Select Subscription</string>
-    <string name="new_cards_available">New card available. Please configure subscriptions.</string>
-    <string name="phone_numbers">Enter Phone Numbers</string>
+    <string name="mobile_network_setting">Настройки мобильной сети</string>
+    <string name="network_manage_settings">Параметры сети</string>
+    <string name="network_settings_sel_sub">Выберите подписку</string>
+    <string name="new_cards_available">Новая карта. Пожалуйста, настройте подписку.</string>
+    <string name="phone_numbers">Введите номера телефонов</string>
     <string name="pin2_attempts">"
 Осталось попыток :"</string>
     <string name="pin2_unblocked">PIN2 Unblocked!</string>

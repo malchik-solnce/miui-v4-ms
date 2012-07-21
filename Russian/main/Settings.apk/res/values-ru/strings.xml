@@ -137,7 +137,7 @@
     <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s пытается получить доступ к вашим контактам и журналу вызовов. Предоставить доступ для %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
-    <string name="date_and_time">Настройки даты &amp; времени</string>
+    <string name="date_and_time">Настройки даты и времени</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
@@ -580,7 +580,7 @@
     <string name="wifi_config_info">Настройки Wi-Fi</string>
     <string name="config_list_label">Конфигурация сетей</string>
     <string name="display_settings_title">Экран</string>
-    <string name="sound_settings">Установки звука</string>
+    <string name="sound_settings">Настройки звука</string>
     <string name="silent_mode_title">Режим без звука</string>
     <string name="ringtone_title">Мелодия телефона</string>
     <string name="ringtone_summary" />
@@ -911,7 +911,7 @@
 Чтобы начать, нажмите \"Далее\"."</string>
     <string name="manageapplications_settings_title">Управление приложениями</string>
     <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
-    <string name="applications_settings">Приложения</string>
+    <string name="applications_settings">Менеджер приложений</string>
     <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
     <string name="applications_settings_header">Настройки приложения</string>
     <string name="install_applications">Неизвестные источники</string>
@@ -1604,8 +1604,8 @@
     <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
     <string name="pref_volume_wake_summary">Нажатие увеличения / уменьшения громкости для просыпания устройства</string>
     <string name="status_bar_settings">Панель уведомлений</string>
-    <string name="complete_settings">Все настройки</string>
-    <string name="common_settings">Общие настройки</string>
+    <string name="complete_settings">Полные</string>
+    <string name="common_settings">Быстрые</string>
     <string name="launcher_settings_title">Рабочий стол</string>
     <string name="battery_settings">Сведения о батареи</string>
     <string name="battery_settings_title">Сведения о батареи</string>
@@ -1619,7 +1619,7 @@
     <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
-    <string name="security_privacy_settings_title">Безопасность</string>
+    <string name="security_privacy_settings_title">Конфидициальность</string>
     <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
     <string name="unlock_set_enter_system">Отключить локскрин</string>
     <string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться</string>

@@ -1732,5 +1732,6 @@
     <string name="volume_restore">Восстановить громкость</string>
     <string name="volume_restore_alert">Все настройки будут сброшены в начальные, вы уверены?</string>
 	<string name="enable_snapshot_screenlock">НАЗАД - для скриншота на экране блокировки</string>
-	
+	<string name="input_settings">Настройки ввода</string>
+	<string name="show_magnifier_when_input">Показывать лупу</string>
 </resources>

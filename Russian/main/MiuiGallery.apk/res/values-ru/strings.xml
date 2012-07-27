@@ -70,7 +70,7 @@
     <string name="set_image">Установить картинку как</string>
     <string name="camera_setas_wallpaper">Обои</string>
     <string name="delete">Удалить</string>
-    <string name="confirm_delete">Удалить</string>
+    <string name="confirm_delete">Удалить выбранные файлы?</string>
     <string name="cancel">Отмена</string>
     <string name="share">Отправить</string>
     <string name="select_all">Выбрать все</string>
@@ -116,7 +116,7 @@
     <string name="sync_picasa_albums">Обновить</string>
     <string name="sd_explorer">Карта памяти</string>
 	<string name="cloud_albums">Облачные альбомы</string>
-    <string name="home_my_captured_items">мои снимки</string>
+    <string name="home_my_captured_items">Мои снимки</string>
     <string name="all_media">Все фото</string>
     <string name="done">Готово</string>
     <string name="sequence_in_set">%1$d из %2$d:</string>
@@ -215,7 +215,7 @@
     <string name="running_face_detection">Начало идентификации лица, пожалуйста, подождите...</string>
     <string name="deleting_files">Удаление файлов...</string>
     <string name="loading_files">Загрузка...</string>
-    <string name="open_map">Open map</string>
+    <string name="open_map">Открыть карту</string>
     <string name="unknown_location">Неопределено</string>
     <string name="sending_image_title">Отправить (%s)</string>
     <string name="sending_video_title">Отправить (%s)</string>
@@ -231,7 +231,7 @@
     <string name="slideshow_interval">Интервал слайд-шоу</string>
     <string name="slideshow_interval_dialog_title">Промежуток времени в секундах</string>
     <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
-    <string name="slideshow_repeat_mode">Повторять при завершении</string>
+    <string name="slideshow_repeat_mode">Повтор при завершении</string>
     <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
     <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно сканирует медиа-файлы и заново создаст эскизы позже.</string>
     <string name="cleaning_cache">Очистка кэша...</string>

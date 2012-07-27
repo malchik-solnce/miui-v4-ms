@@ -111,5 +111,4 @@
     <string name="page_error_title">Нет доступа</string>
     <string name="page_error">Нет доступа к MIUI из-за проблем с GPRS/3G или недоступности сервера</string>
     <string name="page_reload">Повторить</string>
-	
 </resources>

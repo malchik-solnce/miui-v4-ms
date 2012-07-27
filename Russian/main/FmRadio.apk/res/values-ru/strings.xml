@@ -75,7 +75,7 @@
     <string name="RSSI">Выбрать Seek RSSI (int)</string>
     <string name="SNR">Выбрать Seek SNR (int)</string>
     <string name="CNT">Установить Seek CNT (int)</string>
-    <string name="AF_Threshold">Установить AF Threshold (INT)</string>
+    <string name="AF_Threshold">Установить порог AF (INT)</string>
     <string name="AF_Valid_Threshold">Установить действующий AF порог (int)</string>
     <string name="Current_Threshold">Получить текущий порог (int)</string>
     <string name="speaker">Динамик</string>

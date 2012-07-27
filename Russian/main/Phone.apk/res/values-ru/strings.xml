@@ -737,7 +737,7 @@
     <string name="command_error_sms_fail_retry_miui">Не удалось отправить SMS, пожалуйста, повторите попытку позже</string>
     <string name="command_error_unsupported_mode_miui">Предпочтительный тип сети не поддерживается</string>
     <string name="command_error_unsupported_request_miui">Эта операция не поддерживается</string>
-    <string name="confirm_delete_message_title_miui">Вы удалите %d выбранных приставок сообщений</string>
+    <string name="confirm_delete_message_title_miui">Вы уверены, что хотите удалить выбранную региональную приставку?</string>
     <string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
     <string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
     <string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>

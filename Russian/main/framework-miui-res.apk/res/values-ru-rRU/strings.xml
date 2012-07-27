@@ -412,7 +412,7 @@
     <string name="ringtone_silent">Без звука</string>
     <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЫЭЮЯ"</string>
     <string name="ringtone_unknown">Неизвестный звонок</string>
-    <string name="wifi_tether_configure_ssid_default">Android AP</string>
+    <string name="wifi_tether_configure_ssid_default">MIUI v4 MS</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="report">Сообщить</string>
     <string name="gigabyteShort">ГБ</string>
@@ -428,7 +428,6 @@
     <string name="resource_can_not_selected">%s нельзя выбрать!</string>
     <string name="resource_system_title">Системные ресурсы</string>
     <string name="resource_downloaded_title">Загруженные ресурсы</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
 	<string name="day_of_month">" %d"</string>
     <string name="month_of_january">Янв</string>
     <string name="month_of_february">Фев</string>

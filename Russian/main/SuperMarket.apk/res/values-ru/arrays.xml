@@ -322,10 +322,10 @@
         <item>Ваша учетная запись</item>
         <item>Вы должны платить за услуги</item>
         <item>Средства разработки</item>
-        <item>硬件控件</item>
-        <item>您的位置</item>
-        <item>您的信息</item>
-        <item>网络通信</item>
+        <item>Аппаратное управление</item>
+        <item>Ваше положение</item>
+        <item>Ваша информация</item>
+        <item>Сетевые коммуникации</item>
         <item>您的个人信息</item>
         <item>手机通话</item>
         <item>存储</item>
@@ -333,7 +333,7 @@
         <item>其他</item>
     </string-array>
     <string-array name="permission_group_description">
-        <item>访问可用的帐户。</item>
+        <item>Доступ к Аккаунтам</item>
         <item>允许应用程序执行可能需要您付费的操作。</item>
         <item>只有应用程序开发人员才会用到的功能。</item>
         <item>直接访问手机上的硬件。</item>

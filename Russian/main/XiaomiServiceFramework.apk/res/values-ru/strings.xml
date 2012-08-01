@@ -66,7 +66,7 @@
   <string name="remove_account_notice">Что бы вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
   <string name="data_keep_in_phone">Оставить на Мое устройство</string>
   <string name="data_wipe_from_phone">Удалить из Мое устройство</string>
-  <string name="login_notice">Вход...</string>
+  <string name="login_notice">Вход, подождите...</string>
   <string name="login_retry">Повтор</string>
   <string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации сообщений, контактов и других данных</string>
   <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
@@ -90,4 +90,13 @@
   <string name="sub_sync_big_photo_item_summary">Рекомендуется включить, иначе будет потреблять трафик</string>
   <string name="sync_on">ВКЛ</string>
   <string name="sync_off">ВЫКЛ</string>
+  <string name="activate_fail_notification_title">Ошибка активации</string>
+  <string name="activating">Активация...</string>
+  <string name="btn_activate">Активировать</string>
+  <string name="check_phone_error_title">Ошибка синхронизации</string>
+  <string name="check_phone_io_error">Ошибка сети</string>
+  <string name="no_sim">Нет SIM-карты, невозможно синхронизировать</string>
+  <string name="send_sms_for_sync_title">Не активирован</string>
+  <string name="sim_changed_notification_content">SIM не активирована, пожалуйста активируйте</string>
+  <string name="sim_changed_reactivate_notice">SIM-карта не активна. Нужна отправка сообщения для активации сервиса, активировать сейчас?</string>
 </resources>

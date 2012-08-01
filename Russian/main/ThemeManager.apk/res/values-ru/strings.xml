@@ -59,8 +59,8 @@
   <string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
   <string name="apply_font_btn_reboot">Применить и перезагрузить</string>
   <string name="apply_font_btn_exclude">Без шрифта</string>
-  <string name="title_online">Онлайн</string>
-  <string name="title_local">Локально</string>
+  <string name="title_online">ОНЛАЙН</string>
+  <string name="title_local">ТЕЛЕФОН</string>
   <string name="title_component">Компоненты</string>
   <string name="change_wallpaper">Обои</string>
   <string name="title_system_resource">Системные ресурсы</string>

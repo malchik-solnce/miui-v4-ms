@@ -227,4 +227,7 @@
   <string name="shake_sensitivity_helper">Перемещение влево для увеличения чувствительности, право для понижения</string>
   <string name="shake_sensitivity_settings">Чувствительность встряхивания</string>
   <string name="shake_sensitivity_summary">Отрегулируйте чувствительность встряски</string>
+  <string name="file_not_found">Файла не существует</string>
+  <string name="music_browser_label">Музыка</string>
+  <string name="not_selected">Пожалуйста, выберите песню</string>
 </resources>

@@ -1032,11 +1032,11 @@
     <string name="language_settings_category">Языковые настройки</string>
     <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
     <string name="phone_language">Язык телефона</string>
-    <string name="phone_language_summary" />
+    <string name="phone_language_summary">Выберите язык телефона</string>
     <string name="auto_replace">Автокоррекция</string>
     <string name="auto_replace_summary">Исправлять опечатки</string>
     <string name="auto_caps">Заглавные автоматически</string>
-    <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений.</string>
+    <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений</string>
     <string name="auto_punctuate">Автопунктуация</string>
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
     <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
@@ -1577,7 +1577,7 @@
     <string name="key_settings_title">Кнопки управления</string>
     <string name="key_settings">Кнопки управления</string>
     <string name="back_long_press">Кнопка НАЗАД</string>
-    <string name="enable_back_long_press">По долгому нажатию - завершить приложение</string>
+    <string name="enable_back_long_press">Завершение по удержанию</string>
     <string name="back_long_press_timeout">Задержка нажатия</string>
     <string name="power_key">Кнопка включения</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
@@ -1640,7 +1640,7 @@
     <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
     <string name="show_rounded_corners">Показывать закругленными углами</string>
     <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
-    <string name="pref_operational_key">Оперативный ключ</string>
+    <string name="pref_operational_key">Остальные кнопки</string>
     <string name="pref_button_light">Подсветка</string>
     <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
     <string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN SIM/RUIM. Включена блокировка SIM/RUIM</string>
@@ -1734,4 +1734,11 @@
 	<string name="enable_snapshot_screenlock">НАЗАД - для скриншота на экране блокировки</string>
 	<string name="input_settings">Настройки ввода</string>
 	<string name="show_magnifier_when_input">Показывать лупу</string>
+    <string name="font_size_huge">Огромный</string>
+    <string name="font_size_large">Большой</string>
+    <string name="font_size_medium">Средний</string>
+    <string name="font_size_normal">Нормальный</string>
+    <string name="font_size_preview">MIUI v4 MS</string>
+    <string name="font_size_small">Маленький</string>
+    <string name="font_size_summary">Настройка размера шрифта в приложениях (Телефон, Сообщения, Контакты и других)</string>
 </resources>

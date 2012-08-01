@@ -17,7 +17,7 @@
   <string name="menu_search">Поиск</string>
   <string name="menu_workspace_preview">Просмотр</string>
   <string name="menu_back_desktop">Домой</string>
-  <string name="menu_settings">Настройки системы</string>
+  <string name="menu_settings">Параметры системы</string>
   <string name="permlab_install_shortcut">Установка ярлыков</string>
   <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
   <string name="permlab_uninstall_shortcut">Удалить ярлыки</string>
@@ -58,7 +58,7 @@
   <string name="preferences_title">Параметры рабочего стола</string>
   <string name="preferences_general_title">Основные настройки</string>
   <string name="pref_keep_in_memory_title">Держать в памяти</string>
-  <string name="pref_keep_in_memory_summary">Держать Лончер в памяти. Приложение не будет отключаться</string>
+  <string name="pref_keep_in_memory_summary">Держать в памяти. Приложение не будет отключаться</string>
   <string name="pref_render_in_truecolor_title">Качественные цвета</string>
   <string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
   <string name="pref_enable_drawing_cache_title">Кэш Графики</string>
@@ -75,7 +75,7 @@
   <string name="transformation_type_leftpage">Перелистывание</string>
   <string name="transformation_type_stack">Каскад</string>
   <string name="transformation_type_rotate">Вращение</string>
-  <string name="pref_wallpaper_scroll_type_title">Тип прокрутки обоев</string>
+  <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
   <string name="widget_gadget_player">Музыка</string>
   <string name="buffering">Буферизация…</string>
   <string name="emptyplaylist">Плейлист пуст</string>
@@ -105,4 +105,5 @@
   <string name="gadget_weather_to">в</string> 
   <string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
   <string name="pref_cell_layout_size">Сетка рабочего стола</string>
+  <string name="gadget_weather_time_format">d MM, EEEE</string>
 </resources>

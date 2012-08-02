@@ -94,7 +94,7 @@
     <string name="preferences_toast_success_set_accout">%1$s был установлен в качестве синхронизации аккаунта</string>
     <string name="preferences_bg_random_appear_title">Разноцветные заметки</string>
     <string name="button_delete">Удалить</string>
-    <string name="call_record_folder_name">Call Notes</string>
+    <string name="call_record_folder_name">Голосовые заметки</string>
     <string name="hint_foler_name">Введите имя</string>
     <string name="search_label">Поиск заметок</string>
     <string name="search_hint">Поиск заметок</string>
@@ -114,4 +114,19 @@
     <string name="preferences_set_password_summary">Требуется глобальный пароль при запуске приложения Заметки</string>
 	<string name="button_new_note">Новая заметка</string>
     <string name="default_folder_name">Заметки</string>
+	<string name="alert_edit_action_delete">Удалить</string>
+    <string name="alert_edit_action_update">Обновить</string>
+    <string name="attachment_camera">Камера</string>
+    <string name="attachment_contact">Контакт</string>
+    <string name="attachment_gallery">Галерея</string>
+    <string name="image_edit_action_delete">Удалить</string>
+    <string name="image_edit_action_replace">Заменить</string>
+    <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
+    <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
+    <string name="image_edit_action_replace_menu_title">Замена</string>
+    <string name="image_edit_action_view">Просмотр</string>
+    <string name="snippet_image_stub">[Картинка]</string>
+	<string name="time_picker_dialog_title">Установка времени напоминания</string>
+    <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
+    <string name="toast_message_replace_image_fail">Не удалось заменить изображение!</string>
 </resources>

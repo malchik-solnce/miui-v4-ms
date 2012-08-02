@@ -34,7 +34,7 @@
   <string name="restore_telephony_hit">Примечание: Процесс восстановления перезагрузит приложение</string>
   <string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
   <string name="settings_summary">- Настройки телефона и сообщений</string>
-  <string name="account_summary">- Настройки аккаунта</string>
+  <string name="account_summary">- Настройки темы</string>
     <string name="cloud_app_name">Облако</string>
     <string name="cloud_home_title">Онлайн</string>
     <string name="prompt_reading">Чтение...</string>
@@ -165,4 +165,16 @@
   <string name="data_no_enough_space_warning">Не хватает места для восстановления, возможны ошибки, продолжить?</string>
   <string name="delete_backup">Удалить бэкап</string>
   <string name="sdcard_no_enough_space_warning">Не хватает 30 МБ памяти на SD-карте, продолжить?</string>
+  <string name="already_enable_encrypt">Включить шифрование</string>
+  <string name="enable_encrypt">Включить сейчас</string>
+  <string name="enable_encrypt_fail">Включение шифрования не удалось</string>
+  <string name="enable_encrypt_indicator">Резервные копировании не зашифрованы, нажмите кнопку для включения шифрования</string>
+  <string name="enable_encrypt_ok">OK</string>
+  <string name="enable_encrypt_summery1">"Система зашифрует ваш локальный бэкап на основе аккаунта Xiaomi, вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использованияс других устройств для восстановления резервной копии"</string>
+  <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования других устройств для восстановления резервной копии."</string>
+  <string name="enable_encrypt_title">Шифрование включено</string>
+  <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s, пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных</string>
+  <string name="exchange_account">Сменить аккаунт</string>
+  <string name="no_encrypt_password">Нет шифрования пароля</string>
+  <string name="read_encrypt_fail">Не удалось расшифровать</string>
 </resources>

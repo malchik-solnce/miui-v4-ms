@@ -1027,7 +1027,7 @@
     <string name="process_provider_in_use_description">Провайдер %1$s используется.</string>
     <string name="runningservicedetails_stop_dlg_title">Остановить системную службу?</string>
     <string name="runningservicedetails_stop_dlg_text">Отключение этой системной службы может повлиять на функциональность телефона. Чтобы восстановить работу устройства, потребуется перезагрузить его.</string>
-    <string name="language_settings">Языки и ввод</string>
+    <string name="language_settings">Язык телефона и ввода</string>
     <string name="language_keyboard_settings_title">Язык и ввод</string>
     <string name="language_settings_category">Языковые настройки</string>
     <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
@@ -1561,7 +1561,7 @@
     <string name="privacy_protect_title">Управление доступом</string>
     <string name="privacy_mode_enable_title">Включить режим конфиденциальности</string>
     <string name="ac_enable_title">Ограничение доступа</string>
-    <string name="ac_set_apps_title">Скрыть приложения</string>
+    <string name="ac_set_apps_title">Защита приложений</string>
     <string name="ac_privacy_mode_title">Режим гостя</string>
     <string name="access_control_password_title">Ограничение доступа</string>
     <string name="access_control_apps_title">Управление доступом к приложениям</string>
@@ -1619,7 +1619,7 @@
     <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
-    <string name="security_privacy_settings_title">Конфидициальность</string>
+    <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
     <string name="unlock_set_enter_system">Отключить локскрин</string>
     <string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться</string>
@@ -1652,7 +1652,7 @@
     <string name="default_input_method">Выбор метода ввода по умолчанию</string>
     <string name="volume_category_title">Громкость</string>
     <string name="vibrate_category_title">Вибрация</string>
-    <string name="vibrate_in_normal_title">Вибрация в обычном режиме</string>
+    <string name="vibrate_in_normal_title">Вибрация в Обычном режиме</string>
     <string name="remove_from_frequently_fragment">Удалить \"%s\" из Общих настроек?</string>
     <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
     <string name="frequently_fragment_delete">Удалить</string>

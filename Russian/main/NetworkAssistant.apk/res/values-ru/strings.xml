@@ -22,7 +22,7 @@
     <string name="pref_traffic_settings">Настройки трафика</string>
     <string name="pref_traffic_adjust_title">Регулировка трафика</string>
     <string name="pref_traffic_daily_limit_settings">Настройки дневного лимита</string>
-    <string name="pref_connect_settings_title">Сетевые настройки приложения</string>
+    <string name="pref_connect_settings_title">Настройки приложения</string>
     <string name="pref_connect_settings_notify_in_statusbar">Показывать уведомления в панели уведомлений</string>
     <string name="pref_connect_settings_exceed_limit">Отключить передачу данных</string>
     <string name="pref_connect_settings_exceed_limit_hint">Сообщить и отключить Интернет, когда превышен ежемесячный лимит трафика</string>

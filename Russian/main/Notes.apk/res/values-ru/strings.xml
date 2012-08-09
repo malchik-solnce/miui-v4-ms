@@ -52,7 +52,7 @@
     <string name="menu_move_parent_folder">Назад</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
     <string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
-    <string name="alert_title_delete">Удалить выбранные заметки</string>
+    <string name="alert_title_delete">Удаление заметок</string>
     <string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>
     <string name="alert_message_delete_note">Заметка будет удалена</string>
     <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>

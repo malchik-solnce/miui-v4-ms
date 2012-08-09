@@ -13,7 +13,7 @@
   <string name="category_theme">Темы</string>
   <string name="category_video">Видео</string>
   <string name="category_zip">Архивы</string>
-  <string name="confirm">OК</string>
+  <string name="confirm">Да</string>
   <string name="confirm_know">OK</string>
   <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
   <string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -49,7 +49,7 @@
   <string name="operation_create_folder">Новая папка</string>
   <string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
   <string name="operation_delete">Удалить</string>
-  <string name="operation_delete_confirm_message">Подтвердить удаление?</string>
+  <string name="operation_delete_confirm_message">Подтверждаете удаление?</string>
   <string name="operation_deleting">Удаление...</string>
   <string name="operation_favorite">Добавить в Избранное</string>
   <string name="operation_hide_sys">Скрыть системные</string>

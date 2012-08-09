@@ -69,7 +69,7 @@
     <string name="select_group">Выбрать группы</string>
     <string name="set_image">Установить картинку как</string>
     <string name="camera_setas_wallpaper">Обои</string>
-    <string name="delete">Удалить</string>
+    <string name="delete">Удаление</string>
     <string name="confirm_delete">Удалить выбранные файлы?</string>
     <string name="cancel">Отмена</string>
     <string name="share">Отправить</string>
@@ -77,10 +77,10 @@
     <string name="deselect_all">Отменить все</string>
     <string name="slideshow">Слайд-шоу</string>
     <string name="details">Сведения</string>
-    <string name="details_title">Элемент %1$d из %2$d:</string>
+    <string name="details_title">Файл %1$d из %2$d:</string>
     <string name="close">Закрыть</string>
     <string name="switch_to_camera">Переключиться на камеру</string>
-    <string name="show_on_map">Показать на карте</string>
+    <string name="show_on_map">На карте</string>
     <string name="rotate_left">Повернуть влево</string>
     <string name="rotate_right">Повернуть вправо</string>
     <string name="no_such_item">Элемент не найден</string>

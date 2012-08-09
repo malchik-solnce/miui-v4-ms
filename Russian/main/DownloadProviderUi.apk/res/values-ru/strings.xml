@@ -23,7 +23,7 @@
     <string name="dialog_file_already_exists">Не могу скачать, файл уже существует</string>
     <string name="dialog_media_not_found">Не могу скачать, внешний носитель не доступен</string>
     <string name="download_no_application_title">Не могу открыть файл</string>
-    <string name="remove_download">Удалить</string>
+    <string name="remove_download">Удаление</string>
     <string name="delete_download">Удалить</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="cancel_running_download">Отмена</string>
@@ -52,7 +52,7 @@
     <string name="paused_unknown">Остановлено</string>
     <string name="confirm_delete_downloads_message">Вы хотите удалить %d загрузок, продолжить?</string>
     <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
-    <string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
+    <string name="delete_the_downloaded_file">Так же далить файлы</string>
     <string name="downloads_operating">Загрузка...</string>
     <string name="confirm_disable_download_only_in_wifi_message">Выключение Загружать только по Wi-Fi может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить это?</string>
     <string name="select_operation_items">Пожалуйста выберите</string>

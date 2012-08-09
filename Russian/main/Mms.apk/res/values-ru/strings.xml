@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="conversation_style">bubble</string>
-    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
     <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
     <string name="confirm_delete_all_SIM_messages">С SIM-карты будут удалены все сообщения</string>
@@ -266,7 +264,7 @@
     <string name="search_empty">Ничего не найдено</string>
     <string name="search_history">Результатов для \"%2$s\": %1$s</string>
     <string name="confirm_clear_search_title">Очистить</string>
-    <string name="confirm_clear_search_text">История поиска будет удалена.</string>
+    <string name="confirm_clear_search_text">История поиска будет удалена</string>
     <string name="pref_mms_clear_search_history_title">Очистить историю поиска</string>
     <string name="pref_mms_clear_search_history_summary">Не показывать предыдущие сообщения в поле поиска</string>
     <string name="save">Сохранить</string>
@@ -284,7 +282,7 @@
     <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
     <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
     <string name="conversation">Сообщения</string>
-    <string name="bookmark">Избранное</string>
+    <string name="bookmark">Избранные</string>
     <string name="festival">Шутки</string>
     <string name="add_smiley">Смайл</string>
     <string name="add_phrase">Фраза</string>
@@ -414,7 +412,7 @@
     <string name="guild_add_recipients">Нажмите для добавления получателей из адресной книги</string>
     <string name="guild_add_attachments">Нажмите для добавления вложения или смайла в сообщение</string>
     <string name="privacy_mode_hint">Не удается отправить сообщение в режиме защиты</string>
-    <string name="wap_push_title">"[Push-сообщение] "</string>
+    <string name="wap_push_title">"Push-сообщение "</string>
     <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
     <string name="add_timing">Время</string>
     <string name="menu_view_original_message">Показать оригинальное сообщение</string>

@@ -655,4 +655,5 @@
     <string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
 	<string name="batch_delete_msg">"Удалить (%d) выбранных контактов? Контакты в облаке тоже будут удалены!"</string>
     <string name="menu_batch_delete">Групповое удаление контактов</string>
+	<string name="select_show_contacts">Отображение контактов</string>
 </resources>

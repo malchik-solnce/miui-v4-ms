@@ -290,4 +290,7 @@
 	<string name="all_albums_loading">Загрузка…</string>
 	<string name="bigscrren_slide_exit">Выход из слайдшоу через ТВ</string>
 	<string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
+	<string name="cloud_gallery_setting">Настройки облачной галереи</string>
+    <string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
+    <string name="sync_history_power_on_summary">Рекомендуется включить, иначе расход батареи может увеличиться</string>
 </resources>

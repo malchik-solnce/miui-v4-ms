@@ -659,4 +659,11 @@
 	<string name="contacts_unavailable_add_xiaomi_account">Синхронизировать контакты Xiaomi</string>
     <string name="pref_key_rebuild_t9_index_message">Обновление индекса контактов для поиска с помощью T9</string>
     <string name="pref_key_rebuild_t9_index_title">Обновить индекс</string>
+	<string name="listTotalAllContactsZero">Контактов нет</string>
+    <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
+    <string name="listTotalAllContactsZeroGroup">Нет контактов в %s</string>
+    <string name="listSingleContact">Одиночный контакт</string>
+    <string name="listCustomView">Контакты в пользовательском виде</string>
+    <string name="listAllContactsInAccount">Контактов в %s</string>
+    <string name="listTotalPhoneContactsZero">Нет контактов с номерами телефонов</string>
 </resources>

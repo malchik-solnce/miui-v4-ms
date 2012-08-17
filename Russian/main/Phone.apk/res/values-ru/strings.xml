@@ -398,7 +398,7 @@
     <string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
     <string name="incall_error_emergency_only">Нет регистрации в сети</string>
     <string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
-    <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан.</string>
+    <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
     <string name="incall_error_call_failed">Вызов не осуществляется</string>
     <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
     <string name="incall_status_dialed_fc">Запуск последовательности кодов функций...</string>
@@ -691,6 +691,9 @@
 ^2"</string>
     <string name="call_log_number_limit_miui">Ограничение списка вызова</string>
     <string name="call_log_number_limit_summary_miui">Ограничение количества номеров в списке вызовов</string>
+	<string name="call_log_number_limit_setting_title">Настройки ограничений</string>
+    <string name="call_log_number_limit_setting_switcher">Ограничить</string>
+    <string name="call_log_number_limit_setting_switcher_summary">Ограничить количество хранящихся вызовов. Рекомендуется включить.</string>
     <string name="call_log_number_limit_key_title">Максимально</string>
     <string name="call_log_number_limit_title">Количество записей</string>
     <string name="call_log_number_limit_subsummary">%d записей</string>

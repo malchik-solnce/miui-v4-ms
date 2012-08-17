@@ -1110,4 +1110,5 @@
     <string name="turn_off_auto_select_confirm_message_miui">Сигнал и сеть могут быть недоступны, вы уверены, что хотите отключить эту опцию?</string>
     <string name="turn_off_auto_select_title_miui">Отключить автовыбор сети</string>
     <string name="turn_off_auto_select_warning_message_miui">После отключения этой опции, будет использоваться сеть выбранная вручную, без регистрации в других сетях</string>
+	<string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
 </resources>

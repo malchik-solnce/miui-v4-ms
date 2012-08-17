@@ -17,6 +17,8 @@
     <string name="component_category_title">Редактировать</string>
     <string name="component_category_style_title">Стили</string>
     <string name="component_category_wallpaper_title">Обои</string>
+    <string name="component_category_finest_title">Основные</string>
+    <string name="component_category_more_title">Еще</string>
     <string name="component_category_ringtone_title">Звуки</string>
     <string name="theme_component_title_framework">Система</string>
     <string name="theme_component_title_mms">Стиль переписки</string>

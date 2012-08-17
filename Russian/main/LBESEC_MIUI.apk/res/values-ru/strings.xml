@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Суперпользователь</string>
-  <string name="Generic_Copyright">Разработано Team LBE</string>
+  <string name="Generic_Copyright">Разработано группой LBE</string>
   <string name="Generic_Version">Версия: %1$s</string>
   <string name="Generic_Configuration">Параметры</string>
   <string name="Generic_UserApp">Загруженные приложения (%d)</string>
@@ -125,7 +125,7 @@
   <string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
   <string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
   <string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject">Отказано (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Отказать (%d)</string>
   <string name="Dashboard_Perm">Разрешения</string>
   <string name="Dashboard_App">Приложения</string>
   <string name="Dashboard_Log">Журнал</string>
@@ -177,7 +177,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
   <string name="Dashboard_Perm_AutoStart_Switch">Управление автозагрузкой</string>
-  <string name="Dashboard_Perm_AutoStart">Управление автозагрузкой</string>
+  <string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>
   <string name="SysOpt_Boost_Boot">Загрузка</string>
   <string name="SysOpt_Boost_Receiver">Фоновые</string>

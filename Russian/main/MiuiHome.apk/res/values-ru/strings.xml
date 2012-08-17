@@ -106,4 +106,6 @@
   <string name="gadget_weather_app_not_installed">Установить Погоду MIUI</string>
   <string name="pref_cell_layout_size">Сетка рабочего стола</string>
   <string name="gadget_weather_time_format">EEEE, d MMMM</string>
+  <string name="upside_apps_title">Выбор приложения</string>
+  <string name="upside_edit_bottom_empty_tip">Нажмите для изменения</string>
 </resources>

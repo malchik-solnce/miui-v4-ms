@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Темы</string>
+    <string name="app_name">Темы</string>
     <string name="theme_activity_lable">Темы</string>
     <string name="theme_changing_dialog_title">Установка новой темы, подождите…</string>
     <string name="theme_changed_message">Тема успешно установлена!</string>
     <string name="theme_changed_failed_message">Установка не удалась!</string>
     <string name="backup_preference_title">Сохранить тему</string>
     <string name="backup_theme_dialog_ok">Сохранить</string>
-    <string name="backup_theme_dialog_message">"Резервное копирование текущей темы в
-%1$s"</string>
+    <string name="backup_theme_dialog_message">Тема будет сохранена %1$s</string>
     <string name="backup_theme_progress_message">Бэкап темы, подождите…</string>
     <string name="backup_theme_success_message">Бэкап успешно завершен</string>
-	<string name="backup_theme_name">Сохраненная</string>
+	<string name="backup_theme_name">Моя тема</string>
     <string name="theme_description_title_default">По умолчанию</string>
     <string name="theme_description_title_customized">Пользователя</string>
     <string name="component_category_title">Редактировать</string>
-    <string name="component_category_style_title">Стили</string>
-    <string name="component_category_wallpaper_title">Обои</string>
-    <string name="component_category_finest_title">Основные</string>
-    <string name="component_category_more_title">Еще</string>
-    <string name="component_category_ringtone_title">Звуки</string>
+	<string name="component_category_finest_title">Основные</string>
+    <string name="component_category_more_title">Дополнительные</string>
     <string name="theme_component_title_framework">Система</string>
     <string name="theme_component_title_mms">Стиль переписки</string>
     <string name="theme_component_title_wallpaper">Обои</string>
@@ -66,8 +62,8 @@
     <string name="title_local">ТЕЛЕФОН</string>
     <string name="title_online">ОНЛАЙН</string>
     <string name="title_component">КОМПОНЕНТЫ</string>
-    <string name="title_system_resource">Системные ресурсы</string>
-    <string name="title_download_resource">Загруженные ресурсы</string>
+    <string name="title_system_resource">Системные</string>
+    <string name="title_download_resource">Загруженные</string>
     <string name="resource_preview">Просмотр</string>
     <string name="wallpaper_set_as_both">Применить на обои и локскрин</string>
     <string name="wallpaper_set_as_destop">Применить как обои</string>
@@ -76,4 +72,7 @@
     <string name="wallpaper_decoded_error">Не удалось декодировать</string>
     <string name="close">Закрыть</string>
     <string name="download_success">Успешно загружено</string>
+	<string name="component_category_ringtone_title">Звуки</string>
+	<string name="component_category_style_title">Стили</string>
+    <string name="component_category_wallpaper_title">Обои</string>
 </resources>

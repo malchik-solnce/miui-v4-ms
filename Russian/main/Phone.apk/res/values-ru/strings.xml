@@ -95,6 +95,7 @@
     <string name="labelNwService">Настройки сетевой службы</string>
     <string name="labelCallerId">Показ номера</string>
     <string name="sum_hide_caller_id">Количество скрытых в исходящих звонках</string>
+	<string name="sum_loading_settings">Загрузка настроек…</string>
     <string name="sum_show_caller_id">Количество отображаемых в исходящих звонках</string>
     <string name="sum_default_caller_id">Использовать настройки оператора сети для отображения моего номера в исходящих вызовах</string>
     <string name="labelCW">Удержание вызова</string>
@@ -138,6 +139,7 @@
     <string name="change_num">Обновить</string>
     <string name="vm_save_number">Сохранить номер голосовой почты</string>
     <string name="vm_changed">Номер голосовой почты изменен</string>
+	<string name="vibrate_on_ring_title">Вибрация при звонке</string>
     <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
 Если проблема не будет решена, свяжитесь со своим оператором"</string>
     <string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
@@ -273,6 +275,7 @@
     <string name="gsm_umts_network_preferences_dialogtitle">Настройки сети GSM/UMTS</string>
     <string name="prefer_2g">Только сети 2G</string>
     <string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
+	<string name="preference_category_ringtone">Рингтон</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
     <string name="cdma_system_select_dialogtitle">Выбор системы</string>
@@ -383,10 +386,12 @@
     <string name="card_title_in_call">Поступающий вызов</string>
     <string name="card_title_my_phone_number">Мой номер: %s</string>
     <string name="notification_missedCallTitle">Пропущенный вызов</string>
+	<string name="notification_missedCall_call_back">Перезвонить</string>
+    <string name="notification_missedCall_message">Сообщение</string>
     <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
     <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
     <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
-    <string name="notification_ongoing_call_format">Активный вызов (%s)</string>
+    <string name="notification_ongoing_call">Активный вызов</string>
     <string name="notification_on_hold">На удержании</string>
     <string name="notification_incoming_call">Входящий вызов</string>
     <string name="notification_voicemail_title">Новое сообщение голосовой почты</string>
@@ -484,8 +489,7 @@
     <string name="voicemail_settings_for">Настройки (%s)</string>
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="dial_button_label">Набор номера</string>
-    <string name="calling_via_template">"Звонок через ^1
-^2"</string>
+    <string name="calling_via_template">Звонок через %s</string>
     <string name="slide_to_answer">Перетащите вкладку вправо, чтобы ответить</string>
     <string name="slide_to_silence">Перетащите вкладку влево, чтобы отключить звук</string>
     <string name="slide_to_decline">Перетащите вкладку влево, чтобы отклонить вызов</string>
@@ -595,6 +599,7 @@
     <string name="advanced_settings_container">Расширенные настройки</string>
     <string name="auth_username">AuthUserName</string>
     <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
+	<string name="notification_action_end_call">Положить трубку</string>
     <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
     <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню</string>
     <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже</string>
@@ -775,6 +780,7 @@
     <string name="disable_miui">Отключить</string>
     <string name="disable_sim_pin_miui">Отключить запрос PIN SIM-карты</string>
     <string name="dtmf_tone_entries_long_miui">Долгие</string>
+	<string name="dtmf_tone_enable_title">Звук нажатия клавиатуры</string>
     <string name="dtmf_tone_entries_normal_miui">Обычные</string>
     <string name="dtmf_tones_summary_miui">Установка длины тонов DTMF</string>
     <string name="dtmf_tones_title_miui">Тональный набор</string>
@@ -790,6 +796,7 @@
     <string name="enforce_proximity_title_miui">Датчик приближения</string>
     <string name="enter_pin2_text_miui">PIN2</string>
     <string name="fdn_change_pin_sum_miui">Изменить PIN-код для доступа СНО</string>
+	<string name="fdn_check_failure">"Параметр фикс. набор телефонного номера в приложении включен. В результате, некоторые смежные функции могут не работать."</string>
     <string name="fdn_disabled_miui">Разрешенные номера отключены</string>
     <string name="fdn_enabled_miui">Разрешенные номера включены</string>
     <string name="fdn_enable_puk2_requested_miui">Неверный пароль. Измените код PIN2 и повторите попытку</string>
@@ -833,7 +840,7 @@
     <string name="new_pin2_hint_miui">Новый PIN2</string>
     <string name="new_pin_hint_miui">Новый PIN-код</string>
     <string name="not_connected_miui">Не подключено</string>
-    <string name="notification_ongoing_calling_format_miui">Вызываю (%s)</string>
+    <string name="notification_ongoing_calling_format_miui">Вызываю</string>
     <string name="number_format_error_message_miui">%s поддерживает только номера</string>
     <string name="number_type_jituan_miui">Номер группы</string>
     <string name="number_type_miui">Тип номера</string>
@@ -863,6 +870,7 @@
     <string name="other_settings_miui">Другие настройки вызовов</string>
     <string name="pin2_changed_miui">PIN2 успешно изменен</string>
     <string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
+	<string name="pin2_or_fdn_invalid">"FDN не был обновлен. Неправильный PIN2 или номер телефона был отклонен"</string>
     <string name="pin2_lock_warning_miui">Обратите внимание, что PIN2 будет заблокирован при неудачной попытке!</string>
     <string name="pin_attempts_miui">Осталось %d попыток</string>
     <string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
@@ -921,6 +929,7 @@
     <string name="turnover_mute_title_miui">Переворот - тишина</string>
     <string name="turnover_mute_summary_miui">Переверните для выключения звука, когда телефон лежит горизонтально</string>
     <string name="voicemail_miui">Голосовая почта</string>
+	<string name="voicemail_notification_ringtone_title">Мелодия</string>
     <string name="voicemail_provider_miui">Служба голосовой почты</string>
     <string name="voicemail_provider_sum_miui">Выберите услугу голосовой почты</string>
     <string name="voicemail_settings_miui">Настройки голосовой почты</string>

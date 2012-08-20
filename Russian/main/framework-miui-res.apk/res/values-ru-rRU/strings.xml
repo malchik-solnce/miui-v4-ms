@@ -460,4 +460,9 @@
     <string name="android_lockscreen_glogin_submit_button">@android:string/lockscreen_glogin_submit_button</string>
     <string name="android_lockscreen_glogin_too_many_attempts">@android:string/lockscreen_glogin_too_many_attempts</string>
     <string name="android_today">@android:string/today</string>
+	<string name="android_terabyteShort">@android:string/terabyteShort</string>
+	<string name="android_petabyteShort">@android:string/petabyteShort</string>
+	<string name="android_fileSizeSuffix">@android:string/fileSizeSuffix</string>
+	<string name="android_config_defaultDreamComponent">@android:string/config_defaultDreamComponent</string>
+	<string name="android_byteShort">@android:string/byteShort</string>
 </resources>

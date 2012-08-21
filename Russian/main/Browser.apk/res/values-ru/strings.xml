@@ -223,10 +223,10 @@
   <string name="pref_development_hardware_accel_skia">Включить аппаратное ускорение</string>
   <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
   <string name="pref_development_cpu_upload_path">Вкл. путь Cpu загрузки</string>
-  <string name="js_engine_flags">Set JS flags</string>
+  <string name="js_engine_flags">Установить флаги JS</string>
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_error_console">Показать консоль JavaScript</string>
-  <string name="pref_development_reset_prelogin">Сбросить prelogin</string>
+  <string name="pref_development_reset_prelogin">Сброс предлогин</string>
   <string name="pref_default_text_encoding">Кодировка текста</string>
   <string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
   <string name="pref_accessibility_title">Специальные возможности</string>

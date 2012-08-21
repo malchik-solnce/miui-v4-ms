@@ -153,6 +153,9 @@
     <string name="size_below">%1$s или менее</string>
     <string name="size_above">%1$s или более</string>
     <string name="size_between">%1$s – %2$s</string>
+    <string name="tab_all_text">Установить все</string>
+    <string name="tab_lockscreen_text">Обои локскрина</string>
+    <string name="tab_wallpaper_text">Обои стола</string>
     <string name="Import">Импорт</string>
     <string name="import_complete">Импорт завершен</string>
     <string name="import_fail">Сбой импорта</string>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
+    <string name="usb_msd_driver_installer_summary">Вы можете установить драйвера для ОС Windows и MAC здесь</string>
+    <string name="usb_msd_driver_installer_title">Установка драйверов (MSD)</string>
+    <string name="config_mass_storage_function_name">mass_storage</string>
+    <string name="config_mtp_function_name">mtp</string>
+    <string name="config_ptp_function_name">ptp</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
 	<string name="no_application">Ничего</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="null_string" />
+    <string name="null_string" />
     <string name="camera_label">Камера</string>
     <string name="camcorder_label">Видеокамера</string>
     <string name="wait">Пожалуйста, подождите...</string>

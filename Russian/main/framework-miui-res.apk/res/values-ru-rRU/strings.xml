@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="activating">Активация...</string>
+    <string name="perm_tigger_toggle_dspt">Разрешить программам вызвать переключение в строке состояния</string>
+    <string name="perm_tigger_toggle_lab">Переключение триггера из статус-бара</string>
+	<string name="activating">Активация...</string>
 	<string name="no_sim">Нет SIM-карты</string>
 	<string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
     <string name="reboot_confirm">Телефон будет перезагружен</string>

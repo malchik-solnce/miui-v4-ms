@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="category_default_number_text">(0)</string>
   <string name="added_favorite">Добавлено в избранное</string>
   <string name="app_name">Файлы</string>
   <string name="cancel">Отмена</string>
@@ -42,14 +43,14 @@
   <string name="no_wifi">Нет Wi-Fi сети</string>
   <string name="notif_server_starting">Синхронизация включена</string>
   <string name="notif_title">Обмен файлами включен</string>
-  <string name="operation_cancel">Отмена</string>
+  <string name="operation_cancel">Нет</string>
   <string name="operation_cancel_selectall">Снять выделение</string>
   <string name="operation_copy">Копировать</string>
   <string name="operation_copy_path">Копировать путь</string>
   <string name="operation_create_folder">Новая папка</string>
   <string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
   <string name="operation_delete">Удалить</string>
-  <string name="operation_delete_confirm_message">Подтверждаете удаление?</string>
+  <string name="operation_delete_confirm_message">Подтверждение удаления</string>
   <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней</string>
   <string name="operation_deleting">Удаление...</string>
   <string name="operation_favorite">Добавить в Избранное</string>
@@ -120,7 +121,7 @@
   <string name="guide_copy_to_sdcard">Копирование файлов с SD-Карты в MiDrive</string>
   <string name="guide_download_install_apk">Скачать и установить клиент MiDrive</string>
   <string name="guide_install_app_on_several_computers">Установить MiDrive клиент на нескольких компьютерах</string>
-  <string name="guide_login_url">"Посетите на компьютере: pan.xiaomi.com"</string>
+  <string name="guide_login_url">"Посетите на ПК: pan.xiaomi.com"</string>
   <string name="guide_manage_files_through_computer">"Вы можете легко управлять файлами в MiDrive с вашего компьютера"</string>
   <string name="guide_senior_tech">Обмен между компьютерами</string>
   <string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
@@ -146,7 +147,7 @@
   <string name="preference_title">Основные настройки</string>
   <string name="remote_management">FTP</string>
   <string name="tab_networkdisk">MiDrive</string>
-  <string name="show_message">Файл не может быть открыт без загрузки</string>
+  <string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
   <string name="slide_left_text">Сдвиньте влево</string>
   <string name="ui_bar_title_auto_backup">Автобэкап ожидается</string>
   <string name="ui_bar_title_download">MiDrive: загрузка</string>
@@ -166,7 +167,7 @@
   <string name="ui_bar_txt_upload_outline">Всего выгружено: %1$d файлов</string>
   <string name="ui_bar_txt_upload_progress">Отправка...</string>
   <string name="ui_bar_txt_upload_success">MiDrive: успешно отправлено</string>
-  <string name="ui_filechange_btn_download">Загрузка файлов</string>
+  <string name="ui_filechange_btn_download">Загрузка файла</string>
   <string name="ui_main_choose_title">Выберите способ отправки:</string>
   <string name="ui_main_download_file_failed">Не удалось загрузить “%1$s”</string>
   <string name="ui_main_menu_option_exit">Выход</string>
@@ -218,4 +219,7 @@
   <string name="operation_compress">Сжать</string>
   <string name="operation_compressing">Сжатие...</string>
   <string name="operation_decompressing">Разархивация...</string>
+  <string name="send_to_midrive">Отправить в MiDrive</string>
+  <string name="choose_upload_location">Выберите место загрузки</string>
+  <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
 </resources>

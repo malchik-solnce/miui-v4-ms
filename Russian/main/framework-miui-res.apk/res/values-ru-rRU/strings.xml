@@ -465,6 +465,5 @@
 	<string name="android_terabyteShort">@android:string/terabyteShort</string>
 	<string name="android_petabyteShort">@android:string/petabyteShort</string>
 	<string name="android_fileSizeSuffix">@android:string/fileSizeSuffix</string>
-	<string name="android_config_defaultDreamComponent">@android:string/config_defaultDreamComponent</string>
 	<string name="android_byteShort">@android:string/byteShort</string>
 </resources>

@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="system_group_my_contacts">Мои контакты</string>
-    <string name="system_group_friend">Друзья</string>
-    <string name="system_group_family">Семья</string>
-    <string name="system_group_coworker">Сотрудники</string>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="system_group_coworker">Сотрудники</string>
+  <string name="system_group_family">Семья</string>
+  <string name="system_group_friend">Друзья</string>
+  <string name="system_group_my_contacts">Мои контакты</string>
 </resources>

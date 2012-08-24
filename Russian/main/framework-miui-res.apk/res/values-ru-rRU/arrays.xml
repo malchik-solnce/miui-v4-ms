@@ -36,9 +36,9 @@
         <item>26277</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
-        <item>Mobile TeleSystems</item>
-        <item>MegaFon OJSC</item>
-        <item>Nizhegorodskaya Cellular Communications</item>
+        <item>MTC</item>
+        <item>MegaFon</item>
+        <item>NCC</item>
         <item>Sibchallenge</item>
         <item>Yeniseytelecom</item>
         <item>CJSC Saratov System of Cellular Communications</item>
@@ -60,15 +60,15 @@
         <item>Uralsvyazinform</item>
         <item>Bezlimitno.ru</item>
         <item>OJSC Vimpel-Communications</item>
-		<item>T-Mobile Deutschland GmbH</item>
-        <item>Vodafone D2 GmbH</item>
-        <item>E-Plus Mobilfunk</item>
+		<item>T-Mobile</item>
+        <item>D2</item>
+        <item>E-Plus</item>
         <item>Vodafone</item>
-        <item>E-Plus (Reserved)</item>
-        <item>O2 (Germany) GmbH</item>
-        <item>O2 (Reserved)</item>
-		<item>O2 (Reserved 2)</item>
-        <item>E-Plus (Reserved 2)</item>
+        <item>E-Plus</item>
+        <item>O2</item>
+        <item>O2</item>
+		<item>O2</item>
+        <item>E-Plus</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>

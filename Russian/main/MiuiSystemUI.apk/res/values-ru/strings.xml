@@ -203,7 +203,7 @@
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настроить способы ввода</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
-  <string name="status_bar_network_flow">"Сегодня: %1$s | Осталось: %2$s"</string>
+  <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
   <string name="status_bar_network_flow_exceed">"Сегодня: %1$s | Осталось: %2$s"</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_name_separator">" "</string>
@@ -257,7 +257,7 @@
   <string name="status_bar_use_physical_keyboard">Использовать физическую клавиатуру</string>
   <string name="tab_notifications_lable">Уведомления</string>
   <string name="tab_toggles_lable">Переключатели</string>
-  <string name="title_usb_accessory">USB-устройство</string>
+  <string name="title_usb_accessory">USB устройство</string>
   <string name="to_vibrate_settings">Настройки вибрации</string>
   <string name="toast_rotation_locked">Экран заблокирован в ландшафтной ориентации</string>
   <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon], на экране блокировки</string>
@@ -279,11 +279,24 @@
   <string name="usb_storage_stop_notification_message">Выберите для отключения режима накопителя</string>
   <string name="usb_storage_stop_notification_title">Выключить режим накопителя</string>
   <string name="usb_storage_stop_title">Режим накопителя используется</string>
-  <string name="usb_storage_title">USB-подключено</string>
+  <string name="usb_storage_title">USB подключение</string>
   <string name="use_mtp_button_title">Подключить как мультимедийный проигрыватель (MTP)</string>
   <string name="use_ptp_button_title">Установить как камеру (PTP)</string>
   <string name="user_guide_for_call">Вернуться к телефонному разговору можно, перетащив панель уведомлений вниз и нажав кнопку Текущий вызов</string>
   <string name="user_guide_for_notification">При получении нового уведомления, можно перетащить панель уведомлений вниз для получения дополнительных сведений</string>
   <string name="user_guide_for_toggle">Список переключателей может прокручиваться по горизонтали</string>
   <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
+  <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+  <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
+  <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
+  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
+  <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
+  <string name="status_bar_toggle_flight_mode_action">com.android.phone/com.android.phone.Settings</string>
+  <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
+  <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+  <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
+  <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
+  <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+  <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+  <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
 </resources>

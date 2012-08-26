@@ -81,7 +81,7 @@
   <string name="fw_keyword_filter_summary">Фильтрация сообщений на основе шаблона</string>
   <string name="fw_keyword_list">Список фильтрации</string>
   <string name="fw_keyword_list_hint">Список фильрации сообщений по шаблонам</string>
-  <string name="fw_log_inf">Журнал фильтра</string>
+  <string name="fw_log_inf">Журнал</string>
   <string name="fw_menu_new_blacklist_title">Добавить в черный список</string>
   <string name="fw_menu_new_manual">Вручную добавить номер</string>
   <string name="fw_menu_new_whitelist_title">Добавить в белый список</string>

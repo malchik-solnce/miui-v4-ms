@@ -20,7 +20,7 @@
   <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
   <string name="alarm_in_silent_mode_title">Всегда включать</string>
   <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
-  <string name="alarm_list_title">Будильник</string>
+  <string name="alarm_list_title">Будильники</string>
   <string name="alarm_notify_snooze_label">%s (отложено)</string>
   <string name="alarm_notify_snooze_text">Будильник зазвонит в %s. Нажмите, чтобы отменить</string>
   <string name="alarm_notify_text">Отложить/выключить будильник</string>
@@ -89,7 +89,7 @@
   <string name="reset">Сброс</string>
   <string name="revert">Отмена</string>
   <string name="set_alarm">Установить будильник</string>
-  <string name="settings">Настройки</string>
+  <string name="settings">Настройки будильника</string>
   <string name="show_clock">Показать часы</string>
   <string name="silent_alarm_summary">Без звука</string>
   <string name="slide_down_delelte_alarm">Сдвиньте вниз, чтобы отключить</string>

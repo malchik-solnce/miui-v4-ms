@@ -360,7 +360,7 @@
 %s
 
 Нажмите \"ОК\", чтобы продолжить, или \"Отмена\", чтобы остаться на текущей странице."</string>
-  <string name="js_dialog_title">Подтвердите действие на %s</string>
+  <string name="js_dialog_title">Подтвердите действие lky %s</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль</string>
   <string name="keyboard_password_character_no_headset">Точка</string>

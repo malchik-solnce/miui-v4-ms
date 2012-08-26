@@ -52,7 +52,7 @@
   <string name="activity_chooser_view_see_all">Просмотреть все</string>
   <string name="activity_list_empty">Подходящих действий не найдено</string>
   <string name="activity_resolver_use_always">Всегда</string>
-  <string name="activity_resolver_use_once">Один раз</string>
+  <string name="activity_resolver_use_once">Сейчас</string>
   <string name="activitychooserview_choose_application">Выберите приложение</string>
   <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>

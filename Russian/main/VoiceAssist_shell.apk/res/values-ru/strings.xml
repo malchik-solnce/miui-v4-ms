@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовой помощник</string>
+    <string name="title_activity_check">Установить голосовой помощник</string>
+    <string name="content">Голосовой помощник не установлен, загрузить из Маркета？</string>
+    <string name="cancel">Нет</string>
+    <string name="confirm">Да</string>
+</resources>

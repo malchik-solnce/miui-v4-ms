@@ -13,8 +13,7 @@
   <string name="access_control_app_entry_multiple">Запустить %s</string>
   <string name="access_control_app_entry_single">Запустить это приложение</string>
   <string name="access_control_apps_title">Управление доступом к приложениям</string>
-  <string name="access_control_need_password">"%s защищено паролем
-"</string>
+  <string name="access_control_need_password">"%s защищено паролем"</string>
   <string name="access_control_need_to_unlock">Введите пароль для разблокировки</string>
   <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
   <string name="access_control_password_title">Ограничение доступа</string>
@@ -32,7 +31,7 @@
   <string name="accessibility_script_injection_security_warning_title">Установить веб-скрипты?</string>
   <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
   <string name="accessibility_service_default_description">Нет описания</string>
-  <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК.</string>
+  <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
   <string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
   <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
   <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
@@ -733,6 +732,8 @@
   <string name="erase_application_description">Удалить установленные приложения</string>
   <string name="erase_external_storage">Очистить SD-карту</string>
   <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
+  <string name="erase_internal_storage">Очистить внутреннюю память</string>
+  <string name="erase_internal_storage_description">Удалить с внутренней памяти все данные, в том числе музыку и фотографии</string>
   <string name="erase_optional">Опциональная очистка</string>
   <string name="erase_personal_data">Персональные данные</string>
   <string name="erase_personal_data_description">В том числе учетных записей, контактов, звонков и другие данные</string>
@@ -823,7 +824,13 @@
   <string name="intent_sender_data_label">Данные:</string>
   <string name="intent_sender_resource_label">Ресурс:</string>
   <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
-  <string name="intent_sender_startactivity_text">Начать activity</string>
+  <string name="intent_sender_startactivity_text">Начать действие</string>
+  <string name="internal_format">Форматирование внутреннего хранилища</string>
+  <string name="internal_format_summary">После форматирования внутреннего хранилища, будут удалены все файлы, такие как музыка, фотографии, игры и т.д.</string>
+  <string name="internal_media_format_button_text">Очистить</string>
+  <string name="internal_media_format_desc">Очистить внутреннюю память? Вы потеряете все данные, такие как музыка, фотографии, игры и т.д.</string>
+  <string name="internal_media_format_final_desc">Очистка внутренней памяти, будут удалены все сохраненные файлы! Вы не можете отменить это действие! После завершения процесса, телефон будет перезагружен!</string>
+  <string name="internal_media_format_title">Очистка внутреннего хранилища</string>
   <string name="internal_memory">Внутренний накопитель</string>
   <string name="internal_storage">Внутренний накопитель</string>
   <string name="invalid_location">Недопустимое место установки.</string>

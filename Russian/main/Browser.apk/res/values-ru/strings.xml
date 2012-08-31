@@ -212,6 +212,7 @@
   <string name="menu_save_snapshot">Сохранить страницу</string>
   <string name="menu_share_url">Отправить</string>
   <string name="menu_view_download">Загрузки</string>
+  <string name="MIUI_homepage">Домашняя страница MIUI</string>
   <string name="miui_yellowpage_category">Категория</string>
   <string name="miui_yellowpage_site">Сайт</string>
   <string name="move_to_up_folder">Вверх</string>
@@ -377,6 +378,7 @@
   <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
   <string name="preview">Предварительный просмотр</string>
   <string name="progress_dialog_setting_wallpaper">Применение обоев...</string>
+  <string name="readmode_reach_last_page">"Это последняя страница"</string>
   <string name="readmodelist_bookmarks_to_show">"Список чтения"</string>
   <string name="recover">Восстановить</string>
   <string name="recover_from_crash">Продолжить последнюю сессию</string>

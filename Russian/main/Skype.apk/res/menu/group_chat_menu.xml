@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_leave" android:id="@id/chat_menu_item_leave" android:title="@string/chat_menu_leave" />
+    <item android:icon="@drawable/menu_view_participants" android:id="@id/chat_menu_item_participants" android:title="@string/chat_menu_participants" />
+    <item android:icon="@drawable/menu_topic" android:id="@id/chat_menu_item_topic" android:title="@string/chat_menu_topic" />
+    <item android:icon="@drawable/menu_add_to_chat" android:id="@id/chat_menu_item_add" android:title="@string/chat_menu_add" />
+    <item android:icon="@drawable/menu_close" android:id="@id/chat_menu_item_close" android:title="@string/chat_menu_close" />
+    <item android:icon="@drawable/menu_call" android:id="@id/chat_menu_item_join" android:title="@string/chat_menu_item_join_ongoing" />
+</menu>

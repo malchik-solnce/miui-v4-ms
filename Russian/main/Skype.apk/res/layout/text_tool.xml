@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:gravity="center" android:id="@id/tool_textview" style="@style/Theme.TextView.Small.White.Shadow"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

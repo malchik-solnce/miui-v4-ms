@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/tabs" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ToggleButton android:id="@id/left_tab" android:focusable="true" android:layout_height="fill_parent" android:checked="true" style="@style/ProfileTab" />
+        <ToggleButton android:id="@id/right_tab" android:focusable="true" android:layout_height="fill_parent" android:layout_marginLeft="-3.0dip" android:checked="false" style="@style/ProfileTab" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/tab_bottoms" android:background="@color/main_light_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/tabs">
+        <ImageView android:id="@id/tab_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ProfileTabBottom" />
+        <ImageView android:id="@id/tab_shadow" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ProfileTabShadow" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/content_area" android:background="@color/main_light_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/tab_bottoms" />
+</RelativeLayout>

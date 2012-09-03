@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:app="http://schemas.android.com/apk/res/com.skype.app">
+        <LinearLayout android:orientation="vertical" android:id="@id/namelist_content_area" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/alternative_names_list_name_taken" style="@style/Theme.TextView.TitleBar" />
+            <TextView android:textSize="@dimen/font_small_textsize" android:paddingLeft="5.0dip" android:paddingTop="10.0dip" android:paddingRight="5.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/alternative_names_list_name_taken_instructions" />
+            <View android:background="@color/list_separator" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_alignParentBottom="true" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-50.0dip">
+        <include android:id="@id/sign_up_buttonbar" layout="@layout/buttonbar_singlebutton" />
+    </RelativeLayout>
+</LinearLayout>

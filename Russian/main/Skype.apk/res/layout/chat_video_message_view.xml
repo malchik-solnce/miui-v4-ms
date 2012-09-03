@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/main_light_color" android:padding="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/video_message_status_text" android:paddingBottom="@dimen/padding3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" style="@style/Theme.TextView.Small.MetroGray" />
+    <TextView android:id="@id/video_message_timestamp" android:paddingBottom="@dimen/padding3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" style="@style/ChatMessageTimestamp" />
+    <RelativeLayout android:id="@id/video_message_existing_content_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/video_message_status_text" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/video_message_preview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+        <ImageView android:id="@id/video_message_play" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding3" android:src="@drawable/video_message_preview_play_selector" android:scaleType="center" android:layout_alignLeft="@id/video_message_preview" android:layout_alignTop="@id/video_message_preview" android:layout_alignRight="@id/video_message_preview" android:layout_alignBottom="@id/video_message_preview" />
+        <RelativeLayout android:id="@id/video_message_text_container" android:background="@color/skype_blue_with_50_percent_transparency" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignBottom="@id/video_message_preview">
+            <TextView android:textStyle="bold" android:textColor="@color/white" android:id="@id/video_message_title" android:paddingLeft="@dimen/padding3" android:paddingTop="@dimen/padding3" android:paddingRight="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:textColor="@color/main_light_color" android:id="@id/video_message_description" android:padding="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/video_message_title" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/video_message_uploading_container" android:padding="@dimen/padding3" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/video_message_status_text">
+        <ProgressBar android:id="@id/video_message_upload_progressbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="100" android:layout_centerVertical="true" style="?android:attr/progressBarStyleHorizontal" />
+    </RelativeLayout>
+</RelativeLayout>

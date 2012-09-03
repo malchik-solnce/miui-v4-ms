@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom|center" android:id="@id/buttonbar_twobuttons_inner_layout_linearlayout" style="@style/Theme.ButtonBar"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_gravity="left" android:id="@id/buttonbar_twobuttons_button_one" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <Button android:layout_gravity="right" android:id="@id/buttonbar_twobuttons_button_two" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_weight="1.0" />
+</LinearLayout>

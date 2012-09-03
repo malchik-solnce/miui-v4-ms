@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_favourite" android:id="@id/contact_profile_menu_item_favorites" android:title="@string/contact_profile_menu_favorites" />
+    <item android:icon="@drawable/menu_favourite" android:id="@id/contact_profile_menu_item_remove_favorites" android:visible="false" android:title="@string/contact_profile_menu_remove_favorites" />
+    <item android:icon="@drawable/menu_rename_contact" android:id="@id/contact_profile_menu_item_rename" android:title="@string/contact_profile_menu_rename" />
+    <item android:icon="@drawable/menu_rename_contact" android:id="@id/contact_profile_menu_item_edit_contact" android:visible="false" android:title="@string/contact_profile_menu_edit" />
+    <item android:icon="@drawable/menu_block" android:id="@id/contact_profile_menu_item_block" android:title="@string/contact_profile_menu_block" />
+    <item android:icon="@drawable/menu_block" android:id="@id/contact_profile_menu_item_unblock" android:visible="false" android:title="@string/contact_profile_menu_unblock" />
+    <item android:icon="@drawable/menu_remove" android:id="@id/contact_profile_menu_item_remove" android:title="@string/contact_profile_menu_remove" />
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/chat_margins" android:paddingTop="@dimen/chat_margins" android:paddingRight="@dimen/chat_margins" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/chat_typing_progress" android:paddingRight="@dimen/chat_margins" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/chat_typing" />
+    <TextView android:textColor="@color/chat_typing_indicator" android:id="@id/chat_typing_contents" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Theme.TextView.Smaller.DarkGrey.Shadow" />
+</LinearLayout>

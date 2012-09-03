@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/video_icon" android:title="Toggle Flash" />
+    <item android:icon="@drawable/call_speaker_pressed" android:title="Toggle Speaker" />
+    <item android:icon="@drawable/call_bluetooth_pressed" android:title="Toggle BT Audio" />
+    <item android:id="@id/call_menu_item_techinfo" android:title="@string/call_menu_techinfo" />
+</menu>

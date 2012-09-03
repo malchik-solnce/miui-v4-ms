@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_close" android:id="@id/signin_menu_item_about" android:title="Выход" />
+    <item android:icon="@drawable/menu_security" android:id="@id/signin_menu_item_retrieve" android:title="@string/sign_in_menu_retrieve_password" />
+</menu>

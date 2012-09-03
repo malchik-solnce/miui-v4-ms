@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_contacts" android:id="@id/chat_menu_item_profile" android:title="@string/contacts_context_menu_show_profile" />
+    <item android:icon="@drawable/skypebar_video" android:id="@id/chat_menu_item_call_video" android:showAsAction="always" />
+    <item android:id="@id/chat_menu_item_call_options" android:showAsAction="always" android:actionViewClass="com.skype.ui.widget.DropdownCallActionButton" />
+    <item android:icon="@drawable/menu_call" android:id="@id/chat_menu_item_call" android:title="@string/chat_menu_call" />
+    <item android:icon="@drawable/menu_add_to_chat" android:id="@id/chat_menu_item_add" android:title="@string/chat_menu_add" />
+    <item android:icon="@drawable/menu_close" android:id="@id/chat_menu_item_close" android:title="@string/chat_menu_close" />
+    <item android:icon="@drawable/menu_send_file" android:id="@id/chat_menu_item_send_file" android:title="@string/chat_menu_send_file" />
+</menu>

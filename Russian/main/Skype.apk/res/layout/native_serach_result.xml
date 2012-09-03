@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/empty_result_bg_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@drawable/call_noise_bg_empty_search_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip" />
+    <RelativeLayout android:id="@android:id/empty" android:background="@drawable/empty_result_bg_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip">
+        <View android:background="@drawable/call_noise_bg_empty_search_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/native_search_result_empty_results" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textStyle="bold" android:id="@id/native_search_result_empty_filter" style="@style/SearchEmptyList" />
+            <TextView android:id="@id/native_search_result_empty_text" android:paddingBottom="32.0dip" android:text="@string/native_search_no_results" style="@style/SearchEmptyList" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ListView android:id="@id/native_search_result_list" android:background="@color/main_light_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@color/list_separator" android:fastScrollEnabled="true" style="@style/Theme.GenericListView"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</RelativeLayout>

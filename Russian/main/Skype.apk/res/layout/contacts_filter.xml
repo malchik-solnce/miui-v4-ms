@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/general_selector" android:paddingLeft="16.0dip" android:focusable="true" android:nextFocusDown="@id/contacts_list_listview" android:clickable="true" android:layout_width="fill_parent" android:layout_height="50.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/contacts_list_filter_button" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/group_filter_all_selector" android:layout_centerVertical="true" />
+    <TextView android:id="@id/contacts_list_filter_text" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/filter_all_contacts" android:layout_toRightOf="@id/contacts_list_filter_button" android:layout_centerVertical="true" style="@style/Theme.TextView.Small" />
+</RelativeLayout>

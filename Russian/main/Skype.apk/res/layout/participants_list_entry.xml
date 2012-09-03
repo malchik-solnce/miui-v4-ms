@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/avatar" android:background="#f00" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/ParticipantsListEntryAvatar" />
+    <ImageView android:id="@id/presence_icon" android:paddingRight="@dimen/padding3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/avatar" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center_vertical" android:id="@id/add_button_container" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding3" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/ParticipantListAddButtonContainer">
+        <View android:background="@color/list_separator" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="5.0dip" />
+        <ImageView android:id="@id/event_button" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AddButton" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/text_linear_layout" android:paddingRight="@dimen/padding6" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_toLeftOf="@id/add_button_container" android:layout_toRightOf="@id/presence_icon" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true">
+        <TextView android:ellipsize="end" android:id="@id/main_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/ParticipantsListEntry" />
+        <TextView android:ellipsize="marquee" android:id="@id/sub_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Theme.TextView.Small" />
+    </LinearLayout>
+</RelativeLayout>

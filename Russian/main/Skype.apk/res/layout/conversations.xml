@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/empty_result_bg_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@drawable/call_noise_bg_empty_search_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/empty" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/empty_events_list_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="28.0dip" android:src="@drawable/search_tip_recents" />
+        <TextView android:textStyle="bold" android:id="@id/empty_events_list_text_title" android:text="@string/empty_events_list_title" style="@style/SearchEmptyList" />
+        <TextView android:id="@id/empty_events_list_text_summary" android:text="@string/empty_events_list_summary" style="@style/SearchEmptyList" />
+    </LinearLayout>
+    <com.skype.ui.widget.FixedHeaderListView android:id="@id/events_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:dividerHeight="0.0px" android:fastScrollEnabled="true" style="@style/FixedHeaderListView" />
+</RelativeLayout>

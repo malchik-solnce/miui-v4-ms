@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@color/chat_bars_background" android:paddingLeft="@dimen/padding2" android:paddingRight="@dimen/padding2" android:paddingBottom="@dimen/padding2" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/font_tiny" android:textColor="@color/gray4" android:ellipsize="marquee" android:id="@id/chat_sms_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/chat_sms_info_container" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="center_vertical" android:id="@id/chat_sms_info_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/chat_sms_number" android:layout_alignBottom="@id/chat_sms_number" android:layout_alignParentRight="true">
+        <View android:id="@id/chat_character_count_separator" android:background="@color/gray3" android:paddingTop="3.0dip" android:paddingBottom="3.0dip" android:visibility="gone" android:layout_width="1.0px" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginRight="6.0dip" />
+        <TextView android:textSize="@dimen/font_tiny" android:textColor="@color/gray4" android:gravity="center_vertical" android:id="@id/chat_sms_character_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+        <View android:id="@id/chat_sms_cost_separator" android:background="@color/gray3" android:paddingTop="3.0dip" android:paddingBottom="3.0dip" android:layout_width="1.0px" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginRight="6.0dip" />
+        <TextView android:textSize="@dimen/font_tiny" android:textColor="@color/gray4" android:gravity="center_vertical" android:id="@id/chat_sms_cost" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+        <ProgressBar android:gravity="center_vertical" android:id="@id/chat_sms_cost_spinner" android:layout_width="18.0dip" android:layout_height="18.0dip" android:indeterminate="true" />
+    </LinearLayout>
+    <TextView android:textSize="@dimen/font_supertiny" android:textColor="@color/gray4" android:ellipsize="marquee" android:id="@id/chat_sms_replyto" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/chat_sms_number" />
+</RelativeLayout>

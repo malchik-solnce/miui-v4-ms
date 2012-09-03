@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/chat_bars_background" android:padding="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ChatTopBar"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/chat_avatar" android:visibility="gone" android:layout_width="@dimen/small_avatar_size" android:layout_height="@dimen/small_avatar_size" android:layout_marginTop="@dimen/padding2" android:layout_marginRight="@dimen/padding3" android:layout_marginBottom="@dimen/padding2" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/chat_contact_request_buttons" android:layout_toRightOf="@id/chat_avatar" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true">
+        <TextView android:textSize="@dimen/font_small" android:textStyle="bold" android:textColor="@color/gray4" android:ellipsize="end" android:id="@id/chat_topic" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:drawableLeft="@drawable/presence_pending_small" android:drawablePadding="5.0dip" />
+        <TextView android:textSize="@dimen/font_tiny" android:textColor="@color/gray3" android:ellipsize="end" android:id="@id/chat_contact_request_message" android:paddingTop="@dimen/padding1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/chat_incoming_contact_request" android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/chat_contact_request_buttons" android:background="@color/main_light_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <ImageButton android:id="@id/chat_contact_request_decline_button" android:background="@color/chat_bars_background" android:padding="@dimen/padding4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/chat_contact_request_decline_selector" />
+        <ImageButton android:id="@id/chat_contact_request_accept_button" android:background="@color/chat_bars_background" android:padding="@dimen/padding4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/chat_contact_request_accept_selector" />
+    </LinearLayout>
+</RelativeLayout>

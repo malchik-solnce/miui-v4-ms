@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_contacts" android:id="@id/group_call_menu_item_participants" android:title="@string/call_menu_participants" />
+    <item android:icon="@drawable/im" android:id="@id/group_call_menu_item_group_chat" android:title="@string/call_menu_group_chat" />
+    <item android:id="@id/group_call_menu_item_techinfo" android:title="@string/call_menu_techinfo" />
+</menu>

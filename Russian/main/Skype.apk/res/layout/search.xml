@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.skype.app">
+    <RelativeLayout android:orientation="vertical" android:id="@android:id/empty" android:background="@drawable/empty_result_bg_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip" android:layout_below="@id/search_search_bar">
+        <View android:background="@drawable/call_noise_bg_empty_search_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/contacts_search_empty_results" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="center" android:id="@id/contacts_search_no_contacts" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="28.0dip" android:src="@drawable/no_contacts" />
+            <TextView android:textStyle="bold" android:id="@id/contacts_search_not_found_filter" style="@style/SearchEmptyList" />
+            <TextView android:id="@id/contacts_search_not_found_text" android:paddingBottom="32.0dip" android:text="@string/search_contacts_no_results" style="@style/SearchEmptyList" />
+            <Button android:layout_gravity="center" android:id="@id/contacts_search_no_result_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:id="@id/contacts_search_tip_area" android:focusable="true" android:focusableInTouchMode="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/contacts_search_empty_results" android:layout_alignParentBottom="true">
+            <TextView android:gravity="center_horizontal" android:id="@id/contact_search_tip_area_text" android:drawablePadding="28.0dip" style="@style/SearchEmptyList" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/search_search_bar" android:background="@drawable/skypebar_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <ImageButton android:id="@id/search_list_filter_button" android:background="@drawable/search_filter_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="6.0dip" />
+        <ImageButton android:id="@id/search_list_search_button" android:background="@drawable/search_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:src="@drawable/skypebar_search" android:layout_alignTop="@id/search_list_filter_button" android:layout_alignBottom="@id/search_list_filter_button" android:layout_alignParentRight="true" />
+        <FrameLayout android:id="@id/search_progressbar_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:layout_alignLeft="@id/search_list_search_button" android:layout_alignTop="@id/search_list_search_button" android:layout_alignRight="@id/search_list_search_button" android:layout_alignBottom="@id/search_list_search_button" android:layout_alignParentRight="true">
+            <ImageView android:id="@id/search_progessbar_bg" android:background="@drawable/search_button_selector" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <View android:layout_gravity="center" android:id="@id/search_progessbar" android:background="@drawable/spinner_white" android:layout_width="22.0dip" android:layout_height="22.0dip" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/search_list_edit_clear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/search_list_search_button" android:layout_toRightOf="@id/search_list_filter_button" android:layout_alignTop="@id/search_list_filter_button" android:layout_alignBottom="@id/search_list_filter_button">
+            <EditText android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/search_list_filter_text" android:background="@drawable/search_edittext_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/filter_all_contacts" android:maxLines="2" android:minLines="1" android:layout_weight="1.0" android:inputType="textFilter" style="@style/Theme.TextView.Small" />
+            <ImageButton android:layout_gravity="right|center" android:id="@id/search_list_clear_button" android:background="@drawable/search_clear_button_selector" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_alignParentRight="true" />
+        </FrameLayout>
+    </RelativeLayout>
+    <ListView android:id="@id/search_list_results" android:background="@color/main_light_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-3.0dip" android:divider="@null" android:dividerHeight="0.0dip" android:layout_below="@id/search_search_bar" android:fastScrollEnabled="true" style="@style/Theme.GenericListView" />
+</RelativeLayout>

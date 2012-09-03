@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:id="@id/dtmf_container" android:background="@drawable/call_dtmf_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:stretchColumns="*"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <LinearLayout android:id="@id/dtmf_button_1" android:tag="1" android:background="@drawable/dtmf_left_top_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" style="@style/DtmfButtonNumber" />
+            <TextView android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WXYZ" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_2" android:tag="2" android:background="@drawable/dtmf_center_top_selector" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ABC" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_3" android:tag="3" android:background="@drawable/dtmf_right_top_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="3" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DEF" style="@style/DtmfButtonText" />
+        </LinearLayout>
+    </TableRow>
+    <TableRow>
+        <LinearLayout android:id="@id/dtmf_button_4" android:tag="4" android:background="@drawable/dtmf_left_middle_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GHI" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_5" android:tag="5" android:background="@drawable/dtmf_center_middle_selector" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="JKL" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_6" android:tag="6" android:background="@drawable/dtmf_right_middle_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="6" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MNO" style="@style/DtmfButtonText" />
+        </LinearLayout>
+    </TableRow>
+    <TableRow>
+        <LinearLayout android:id="@id/dtmf_button_7" android:tag="7" android:background="@drawable/dtmf_left_middle_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="7" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="PQRS" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_8" android:tag="8" android:background="@drawable/dtmf_center_middle_selector" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="8" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TUV" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_9" android:tag="9" android:background="@drawable/dtmf_right_middle_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="9" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WXYZ" style="@style/DtmfButtonText" />
+        </LinearLayout>
+    </TableRow>
+    <TableRow>
+        <LinearLayout android:id="@id/dtmf_button_asterisk" android:tag="10" android:background="@drawable/dtmf_left_bottom_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="*" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" " style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_0" android:tag="0" android:background="@drawable/dtmf_center_bottom_selector" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" style="@style/DtmfButtonText" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/dtmf_button_hash" android:tag="11" android:background="@drawable/dtmf_right_bottom_selector" style="@style/DtmfButton">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="\#" style="@style/DtmfButtonNumber" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" " style="@style/DtmfButtonText" />
+        </LinearLayout>
+    </TableRow>
+</TableLayout>

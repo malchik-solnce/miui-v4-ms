@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="@dimen/padding3" android:paddingTop="@dimen/padding3" android:paddingRight="@dimen/padding3" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/chat_file_transfer_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textColor="@color/white" android:id="@id/chat_file_transfer_button_decline" android:background="@drawable/chat_file_transfer_button_selector" android:layout_width="fill_parent" android:layout_height="@dimen/button_height" android:layout_marginRight="4.0dip" android:text="@string/chat_file_transfer_decline" android:layout_weight="0.5" />
+    <Button android:textColor="@color/white" android:id="@id/chat_file_transfer_button_accept" android:background="@drawable/chat_file_transfer_button_selector" android:layout_width="fill_parent" android:layout_height="@dimen/button_height" android:layout_marginLeft="4.0dip" android:text="@string/chat_file_transfer_accept" android:layout_weight="0.5" />
+</LinearLayout>

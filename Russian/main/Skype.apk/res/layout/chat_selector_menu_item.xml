@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@drawable/chat_im_mode_button_selector" android:paddingLeft="@dimen/chat_im_mode_layout_padding_left" android:paddingRight="@dimen/my_profile_layout_padding" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/mode_items" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight" android:layout_toRightOf="@id/icon">
+        <TextView android:id="@id/title" android:paddingLeft="@dimen/padding4" android:paddingRight="@dimen/padding4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/ChatIMSMSSelectorItemTitle" />
+        <TextView android:id="@id/summary" android:paddingLeft="@dimen/padding4" android:paddingRight="@dimen/padding4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/ChatIMSMSSelectorItemSubTitle" />
+    </LinearLayout>
+</RelativeLayout>

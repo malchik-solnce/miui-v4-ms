@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/dashboard_menu_item_change_presence" android:showAsAction="always" android:actionViewClass="com.skype.ui.PresenceActionButton" />
+    <item android:icon="@drawable/skypebar_signout" android:id="@id/menu_item_sign_out" android:title="@string/my_info_options_menu_signout" android:showAsAction="always" />
+    <item android:icon="@drawable/menu_settings" android:id="@id/menu_item_settings" android:title="@string/my_info_options_menu_settings" />
+    <item android:icon="@drawable/menu_help" android:id="@id/menu_item_help" android:title="Расширенные настройки" />
+    <item android:icon="@drawable/menu_close" android:id="@id/dashboard_menu_item_about" android:title="Выход" />
+</menu>

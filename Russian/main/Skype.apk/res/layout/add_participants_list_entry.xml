@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/avatar" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/AvatarIconSmall" />
+    <ImageView android:id="@id/presence_icon" android:paddingRight="@dimen/contacts_list_presence_icon_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/avatar" android:layout_centerVertical="true" />
+    <CheckBox android:gravity="center_vertical" android:id="@id/checkbox" android:paddingRight="10.0dip" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="70.0dip" android:layout_alignParentRight="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/text_linear_layout" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_toLeftOf="@id/checkbox" android:layout_toRightOf="@id/presence_icon" android:layout_centerVertical="true">
+        <TextView android:ellipsize="end" android:id="@id/main_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Theme.TextView" />
+        <TextView android:ellipsize="marquee" android:id="@id/sub_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Theme.TextView.Small" />
+    </LinearLayout>
+</RelativeLayout>

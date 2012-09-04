@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.skype.ui.widget.RadioButtonListView android:id="@id/selector_country_language_gender_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-1.0dip" android:choiceMode="singleChoice" android:layout_below="@id/selector_country_language_gender_list_header" android:fastScrollEnabled="true" style="@style/Theme.GenericListView" />
-</RelativeLayout>

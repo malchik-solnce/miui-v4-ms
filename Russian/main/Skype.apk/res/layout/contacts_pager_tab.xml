@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="#fff" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/contact_list_tab_icon" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/group_all" android:layout_centerVertical="true" />
-    <TextView android:textSize="14.0sp" android:textColor="#000" android:ellipsize="end" android:id="@id/contact_list_tab_label" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TabName" android:layout_toRightOf="@id/contact_list_tab_icon" android:layout_centerVertical="true" />
-    <TextView android:textSize="14.0sp" android:textColor="@android:color/darker_gray" android:ellipsize="end" android:id="@id/contact_list_tab_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:layout_toRightOf="@id/contact_list_tab_label" android:layout_centerVertical="true" />
-</LinearLayout>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:orientation="horizontal" android:paddingLeft="@dimen/padding3" android:paddingTop="@dimen/padding4" android:paddingRight="@dimen/padding3" android:paddingBottom="@dimen/padding4" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/chat_notification_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding3" android:src="@drawable/chat_notifications" android:scaleType="centerInside" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
-    <TextView android:id="@id/chat_notification_timestamp" android:paddingLeft="@dimen/padding3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBaseline="@id/chat_notification_contents" android:layout_alignParentRight="true" style="@style/ChatMessageTimestamp" />
-    <TextView android:gravity="left|center" android:id="@id/chat_notification_contents" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/chat_notification_timestamp" android:layout_toRightOf="@id/chat_notification_icon" android:layout_alignParentTop="true" style="@style/ChatNotificationText" />
-</RelativeLayout>

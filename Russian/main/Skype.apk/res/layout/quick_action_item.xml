@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<view android:background="@drawable/quick_action_selector" android:paddingTop="9.0dip" android:paddingBottom="9.0dip" android:focusable="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.skype.ui.widget.QuickActionItem"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/item_icon" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:scaleType="centerInside" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
-    <TextView android:textSize="12.0sp" android:textColor="@color/quick_action_color_selector" android:gravity="top|center" android:id="@id/item_label" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:visibility="gone" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/item_icon" android:layout_centerHorizontal="true" />
-</view>

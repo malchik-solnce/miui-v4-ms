@@ -64,8 +64,8 @@
   <string name="menu_font_size">Размер шрифта</string>
   <string name="menu_font_small">Маленький</string>
   <string name="menu_font_super">Огромный</string>
-  <string name="menu_grid_mode">Вид просмотра: Сетка</string>
-  <string name="menu_list_mode">Вид просмотра: Список</string>
+  <string name="menu_grid_mode">Сетка</string>
+  <string name="menu_list_mode">Список</string>
   <string name="menu_move">Переместить в папку</string>
   <string name="menu_move_parent_folder">Назад</string>
   <string name="menu_normal_mode">Отключить список</string>

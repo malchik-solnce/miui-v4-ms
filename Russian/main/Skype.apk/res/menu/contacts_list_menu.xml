@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/menu_add" android:id="@id/contacts_list_menu_item_add_contacts" android:title="@string/contacts_list_menu_add_contacts" />
-    <item android:icon="@drawable/menu_save_number" android:id="@id/contacts_list_menu_item_add_number" android:title="@string/contacts_list_menu_phone_number" />
-    <item android:icon="@drawable/menu_search_addressbook" android:id="@id/contacts_list_menu_item_search_addressbook" android:title="@string/contacts_list_menu_check_addressbook" />
-</menu>

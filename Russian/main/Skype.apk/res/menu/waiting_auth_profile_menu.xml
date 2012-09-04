@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/menu_block" android:id="@id/waiting_auth_profile_menu_item_block" android:title="@string/waiting_auth_profile_menu_block" />
-    <item android:icon="@drawable/menu_remove" android:id="@id/waiting_auth_profile_menu_item_remove" android:title="@string/waiting_auth_profile_menu_remove" />
-    <item android:icon="@drawable/menu_add" android:id="@id/waiting_auth_profile_menu_item_add" android:title="@string/waiting_auth_profile_menu_add" />
-</menu>

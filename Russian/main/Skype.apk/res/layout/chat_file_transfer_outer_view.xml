@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:background="@drawable/chat_message" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <RelativeLayout android:orientation="horizontal" android:paddingTop="@dimen/padding3" android:paddingRight="@dimen/padding3" android:paddingBottom="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="40.0dip">
-        <TextView android:id="@id/chat_file_transfer_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding3" android:text="3 incoming files akjsg bajksdfb kasdfb lasdbf lasdfb aslkdfb laskdf lask dfblask bfdlas flkasbf" android:layout_toLeftOf="@id/chat_notification_timestamp" android:layout_alignParentLeft="true" style="@style/Theme.TextView.Small.MetroGray" />
-        <TextView android:id="@id/chat_notification_timestamp" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="11:55" android:layout_alignBaseline="@id/chat_file_transfer_header" android:layout_alignParentRight="true" style="@style/ChatMessageTimestamp" />
-    </RelativeLayout>
-    <LinearLayout android:orientation="vertical" android:id="@id/chat_file_transfer_outer_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-</LinearLayout>

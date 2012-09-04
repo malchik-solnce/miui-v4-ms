@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalAllApps">
+        <item quantity="other">Отобразить программы %d</item>
+        <item quantity="one">Просмотр одной программы</item>
+    </plurals>
+</resources>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:paddingTop="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="@dimen/font_tiny" android:textColor="@color/gray4" android:gravity="top|left|center" android:id="@id/chat_message_contents" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/chat_edit_icon" android:layout_alignParentLeft="true" android:layout_alignWithParentIfMissing="true" />
-    <ImageView android:id="@id/chat_sms_icon" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/chat_notification_sms" android:layout_alignTop="@id/chat_message_contents" android:layout_alignParentRight="true" />
-    <ImageView android:id="@id/chat_edit_icon" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/chat_notification_edited" android:layout_alignTop="@id/chat_message_contents" android:layout_alignParentRight="true" />
-</RelativeLayout>

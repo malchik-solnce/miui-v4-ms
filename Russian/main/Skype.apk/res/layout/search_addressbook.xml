@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textStyle="bold" android:id="@id/search_addressbook_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/contact_groups_skype" style="@style/Theme.TextView.ListSeparator" />
-    <ListView android:id="@id/search_addressbook_listview" android:layout_width="fill_parent" android:layout_height="0.0dip" android:divider="@color/list_separator" android:layout_weight="1.0" android:fastScrollEnabled="true" style="@style/Theme.GenericListView" />
-    <include android:id="@id/search_addressbook_add_cancel" android:visibility="gone" layout="@layout/buttonbar_twobuttons" />
-    <include android:id="@id/search_addressbook_stop" layout="@layout/buttonbar_singlebutton" />
-</LinearLayout>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/menu_close" android:id="@id/search_addressbook_menu_select_deselect" android:title="@string/general_menu_deselect_all" />
-</menu>

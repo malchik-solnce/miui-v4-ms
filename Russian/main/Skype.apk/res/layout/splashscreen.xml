@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/splashscreen" android:background="@color/skype_blue" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/splash_logo_animator" android:scaleType="center" android:layout_centerInParent="true" />
-    <ProgressBar android:id="@id/splash_progressbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/padding3" android:layout_below="@id/logo" android:layout_centerHorizontal="true" style="@style/SplashIndeterminateProgress" />
-</RelativeLayout>

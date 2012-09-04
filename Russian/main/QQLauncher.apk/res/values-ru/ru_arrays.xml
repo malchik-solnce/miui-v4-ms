@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_task_operation">
+        <item>Завершить процесс</item>
+        <item>Перейти к программе</item>
+        <item>Просмотр подробных сведений</item>
+        <item>Исключить</item>
+    </string-array>
+    <string-array name="menu_fav_operation">
+        <item>Отмена любимых</item>
+    </string-array>
+    <string-array name="mode_setting_entries">
+        <item>Режим по умолчанию</item>
+        <item>Полный режим</item>
+        <item>Простой режим</item>
+    </string-array>
+    <string-array name="transition_effect_entries">
+        <item>По умолчанию</item>
+        <item>Куб</item>
+        <item>Развернуть/свернуть</item>
+        <item>Ротари</item>
+        <item>Карта</item>
+        <item>Магия</item>
+    </string-array>
+    <string-array name="setting_normal_functionlist_entries">
+        <item>Сетка</item>
+        <item>Лист</item>
+    </string-array>
+    <string-array name="setting_switchdesktop_specialeffects_entries">
+        <item>Classic</item>
+        <item>Smooth</item>
+        <item>Fade</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Card</item>
+        <item>Cube</item>
+        <item>Cylinder</item>
+        <item>Wave</item>
+        <item>Roll</item>
+        <item>Random</item>
+    </string-array>
+    <string-array name="app_icon_order_values">
+        <item>Сортировка по имени программы</item>
+        <item>Сортировать по частоте использования</item>
+        <item>Сортировать по времени установки</item>
+    </string-array>
+    <string-array name="backup_launcher_values">
+        <item>Резервное копирование</item>
+        <item>Восстановление резерва</item>
+    </string-array>
+	<string-array name="local_download_list_loading_pause">
+        <item>Пауза</item>
+        <item>Отменить загрузку</item>
+        <item>Посмотреть детали</item>
+    </string-array>
+    <string-array name="local_download_list_loading_continue">
+        <item>Возобновить</item>
+        <item>Отменить загрузку</item>
+        <item>Посмотреть детали</item>
+    </string-array>
+    <string-array name="local_download_list_loading_reloading">
+        <item>Перекачать</item>
+        <item>Отменить загрузку</item>
+        <item>Посмотреть детали</item>
+    </string-array>
+    <string-array name="app_update_frequency">
+        <item>Никогда</item>
+        <item>Ежедневно</item>
+        <item>Каждые три дня</item>
+        <item>Еженедельно</item>
+        <item>Ежемесячно</item>
+    </string-array>
+    <string-array name="ranks_title_low">
+        <item>Слабо 3x3</item>
+        <item>Умеренно 4x3</item>
+        <item>Плотно 4x4</item>
+    </string-array>
+    <string-array name="ranks_title_middle">
+        <item>Слабо 4x4</item>
+        <item>Умеренно 5x4</item>
+        <item>Плотно 5x5</item>
+    </string-array>
+    <string-array name="ranks_title_high">
+        <item>Слабо 5x4</item>
+        <item>Умеренно 5x5</item>
+        <item>Плотно 6x5</item>
+    </string-array>
+    <string-array name="choose_names">
+        <item>Игры</item>
+        <item>Настройки</item>
+        <item>Социальные</item>
+		<item>Интернет</item>
+        <item>Коммуникации</item>
+        <item>Персонализация</item>
+        <item>Развлечения</item>
+        <item>Музыка</item>
+        <item>Образ жизни</item>
+        <item>Бизнес</item>
+        <item>Учеба</item>
+        <item>Чтение</item>
+        <item>Система</item>
+        <item>Финансы</item>
+        <item>Общие</item>
+        <item>Редкие</item>
+    </string-array>
+    <string-array name="qqapp_title">
+        <item>Mobile QQ</item>
+        <item>Qzone</item>
+        <item>Tencent Weibo</item>
+        <item>QQ browser</item>
+        <item>Friends network</item>
+        <item>QQ games</item>
+        <item>QQ addressbook</item>
+        <item>Micro-letter</item>
+        <item>QQ Mobile Housekeeper</item>
+        <item>SOSO map</item>
+        <item>Application box</item>
+        <item>QQ music</item>
+        <item>QQ reading</item>
+        <item>QQ input method</item>
+        <item>Mobile QQ</item>
+        <item>Qzone</item>
+    </string-array>
+    <string-array name="update_style_names">
+        <item>Google Play</item>
+        <item>Обозреватель</item>
+    </string-array>
+    <array name="qqnavigation_changyong" />
+    <string-array name="feedback_list_names">
+        <item>Связь</item>
+        <item>Предложение</item>
+        <item>Оценить приложение</item>
+    </string-array>
+    <string-array name="setting_switchapplist_specialeffects_entries">
+        <item>Classic</item>
+        <item>Smooth</item>
+        <item>Fade</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Card</item>
+        <item>Cube</item>
+        <item>Cylinder</item>
+        <item>Wave</item>
+        <item>Roll</item>
+        <item>Random</item>
+    </string-array>
+</resources>

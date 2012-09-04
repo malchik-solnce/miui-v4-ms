@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center" android:id="@id/tool" android:background="@drawable/skypebar_button_states" android:focusable="true"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <View android:id="@id/tool_separator" android:background="@color/white_with_80_percent_transparency" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_alignParentLeft="true" />
-</LinearLayout>

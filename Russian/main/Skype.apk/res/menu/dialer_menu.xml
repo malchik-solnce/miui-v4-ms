@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/menu_sms" android:id="@id/dialer_menu_sms" android:title="@string/dialer_menu_sms" />
-    <item android:icon="@drawable/menu_add" android:id="@id/dialer_menu_add_contact" android:title="@string/dialer_menu_add_contact" />
-</menu>

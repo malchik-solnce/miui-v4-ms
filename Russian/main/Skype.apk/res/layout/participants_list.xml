@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:id="@id/title" android:layout_alignParentTop="true" style="@style/ChatTopBar" />
-    <View android:id="@id/chat_top_bar_separator" android:background="@color/chat_bars_border" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_below="@id/title" />
-    <ListView android:id="@id/participant_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title" android:fastScrollEnabled="true" style="@style/Theme.GenericListView" />
-</RelativeLayout>

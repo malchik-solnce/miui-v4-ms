@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/menu_mark_as_read" android:id="@id/events_menu_item_mark_as_read" android:title="@string/events_menu_mark_as_read" />
-</menu>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/menu_leave" android:id="@id/menu_item_sign_out" android:title="@string/my_info_options_menu_signout" />
-    <item android:icon="@drawable/menu_settings" android:id="@id/menu_item_settings" android:title="@string/my_info_options_menu_settings" />
-    <item android:icon="@drawable/menu_close" android:id="@id/dashboard_menu_item_about" android:title="Exit" />
-    <item android:icon="@drawable/menu_help" android:id="@id/menu_item_help" android:title="Advanced Settings" />
-    <item android:id="@id/menu_item_timing_logs" android:title="@string/my_info_options_menu_timing_logs" />
-</menu>

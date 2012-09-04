@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/chat_top_bar_height"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <View android:id="@id/chat_top_bar_separator" android:background="@color/chat_bars_border" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_alignParentBottom="true" />
-    <TextView android:id="@id/chat_topic" android:layout_above="@id/chat_top_bar_separator" android:layout_alignParentTop="true" style="@style/ChatTopBar" />
-</RelativeLayout>

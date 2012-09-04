@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:icon="@drawable/skypebar_chats" android:id="@id/events_menu_item_start_chat" android:title="@string/chat_menu_add" android:showAsAction="always" />
-    <item android:icon="@drawable/skypebar_search" android:id="@id/events_menu_item_search_recents" android:title="@string/contacts_list_menu_check_addressbook" android:showAsAction="always" />
-    <item android:icon="@drawable/menu_mark_as_read" android:id="@id/events_menu_item_mark_as_read" android:title="@string/events_menu_mark_as_read" />
-</menu>

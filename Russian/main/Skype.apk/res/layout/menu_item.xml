@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingLeft="@dimen/my_profile_layout_padding" android:paddingRight="@dimen/my_profile_layout_padding" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:id="@id/title" android:paddingLeft="@dimen/my_profile_icon_item_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerVertical="true" style="@style/Theme.TextView" />
-    <TextView android:id="@id/summary" android:paddingLeft="@dimen/my_profile_icon_item_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="@style/Theme.TextView.Small" />
-</LinearLayout>

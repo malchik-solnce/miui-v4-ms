@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="@color/main_light_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-4.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <HorizontalScrollView android:id="@id/contacts_view_pager_tabs_container" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="42.0dip" android:layout_alignParentTop="true">
-        <LinearLayout android:orientation="horizontal" android:id="@id/contacts_view_pager_tabs" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-    </HorizontalScrollView>
-    <ImageView android:id="@id/arrow" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quickaction_arrow_up" android:layout_alignBottom="@id/contacts_view_pager_tabs_container" android:layout_centerHorizontal="true" />
-    <android.support.v4.view.ViewPager android:id="@id/contacts_view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/contacts_view_pager_tabs_container" />
-</RelativeLayout>

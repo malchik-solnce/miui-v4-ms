@@ -23,6 +23,9 @@
   <string name="Dashboard_Perm_SU">ROOT权限管理</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d款软件有权请求系统最高管理权限</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT权限已关闭</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">MIUI稳定版不支持ROOT</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"ROOT权限是系统最高管理权限。当给第三方软件授权ROOT后，可能造成系统不稳定，私密数据泄漏，如个人帐号密码、短信等，甚至造成不可挽回的硬件损坏。如您因个人需要必须启用ROOT，请下载使用MIUI开发版。"</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI下载</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT权限</string>
   <string name="Dashboard_Su_Enable_Content">"将允许应用程序请求系统最高管理权限。
 特别提示：拥有ROOT权限的程序可能会造成系统不稳定，严重的会造成个人数据丢失、系统损害或者硬件损坏，建议您慎重使用！确定要开启吗？"</string>
@@ -126,6 +129,7 @@
   <string name="HIPS_Perm_PromptAll">全部提示</string>
   <string name="HIPS_Perm_ROOT">ROOT权限</string>
   <string name="HIPS_Perm_ROOT_Desc">请求系统最高管理权限</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">稳定版不支持</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s款软件有权请求系统最高管理权限</string>
   <string name="HIPS_Perm_ROOT_Title">获取ROOT权限</string>
   <string name="HIPS_Perm_RejectAll">全部拒绝</string>

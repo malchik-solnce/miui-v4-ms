@@ -53,7 +53,9 @@
   <string name="get_update_error">Не удалось получить информацию об обновлении</string>
   <string name="install_email">Установить E-Mail</string>
   <string name="install_file_explorer">Установите приложение Файлы</string>
+  <string name="install_qq">Установить QQ</string>
   <string name="install_rom_from_sd">Прошивка</string>
+  <string name="install_sina">Установить Sina</string>
   <string name="install_whole_rom">Мы рекомендуем вам скачать полный пакет для обновления системы</string>
   <string name="loading">Загрузка MIUI</string>
   <string name="md5_check_cancelled">Проверка MD5 отменена</string>

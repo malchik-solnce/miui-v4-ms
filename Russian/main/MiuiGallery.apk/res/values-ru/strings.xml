@@ -62,9 +62,9 @@
   <string name="description">Описание</string>
   <string name="deselect_all">Отменить все</string>
   <string name="details">Сведения</string>
-  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-  <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">Файл %1$d из %2$d:</string>
+  <string formatted="false" name="details_hms">%1$d:%2$02d:%3$02d</string>
+  <string formatted="false" name="details_ms">%1$02d:%2$02d</string>
+  <string formatted="false" name="details_title">Файл %1$d из %2$d:</string>
   <string name="disallowed_operation">Не поддерживается для данного типа данных</string>
   <string name="documentary">Документальные</string>
   <string name="done">Готово</string>
@@ -75,6 +75,8 @@
   <string name="edit">Изменить</string>
   <string name="edited_photo_bucket_name">Измененные</string>
   <string name="empty_album">Нет фото/видео</string>
+  <string name="error_should_not_select_image">Внимание: пожалуйста, не выбирайте файл изображения</string>
+  <string name="error_should_not_select_video">Внимание: пожалуйста, не выбирайте видео файл</string>
   <string name="expand_album_in_home_page">Развернуть альбом на домашней странице</string>
   <string name="exposure_time">Выдержка</string>
   <string name="facelift">Сияние</string>

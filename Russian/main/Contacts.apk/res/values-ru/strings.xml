@@ -136,7 +136,7 @@
   <string name="contact_status_update_attribution">с помощью %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
   <string name="contactsAllLabel">Все</string>
-  <string name="contactsFavoritesLabel">Избранное</string>
+  <string name="contactsFavoritesLabel">Избранные</string>
   <string name="contactsGroupsLabel">Группы</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
   <string name="contactsList">Контакты</string>
@@ -159,7 +159,7 @@
   <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
   <string name="delete_contact_calllog_title">Журнал вызовов будет очищен</string>
   <string name="delete_duplicate">Слияние</string>
-  <string name="delete_duplicate_message">Слияние...</string>
+  <string name="delete_duplicate_message">Слияние контактов...</string>
   <string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (Контакты не будут удалены)</string>
   <string name="delete_group_dialog_title">Удаление группы</string>
   <string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
@@ -304,7 +304,7 @@
   <string name="label_notes">Примечания</string>
   <string name="label_sip_address">Интернет вызов</string>
   <string name="launcherDialer">Телефон</string>
-  <string name="listAllContactsInAccount">Контактов в %s</string>
+  <string name="listAllContactsInAccount">Контакты в %s</string>
   <string name="listCustomView">Контакты в пользовательском виде</string>
   <string name="listFoundAllContactsZero">Ничего не найдено</string>
   <string name="listSingleContact">Одиночный контакт</string>
@@ -406,7 +406,7 @@
  
 Импорт/экспорт: импорт контактов с SIM- или SD-карты.
 "</string>
-  <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
+  <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
   <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
 Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
@@ -453,7 +453,7 @@
  
 нажмите звездочку возле имени контакта.
 "</string>
-  <string name="noGroups">Нет групп</string>
+  <string name="noGroups">Групп нет</string>
   <string name="noMatchingContacts">Подходящие контакты не найдены</string>
   <string name="noRecentContacts">Нет контактов</string>
   <string name="no_account_prompt">"Подключите Контакты к аккаунту Google, чтобы:
@@ -497,7 +497,7 @@
   <string name="postal_region">Регион</string>
   <string name="postal_street">Улица</string>
   <string name="pref_key_rebuild_t9_index_message">Обновление индекса контактов для поиска с помощью T9</string>
-  <string name="pref_key_rebuild_t9_index_title">Обновить индекс</string>
+  <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
   <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
   <string name="pref_title_account_import">Импорт из аккаунта</string>
   <string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
@@ -561,7 +561,7 @@
   <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
   <string name="service_provider">Предоставление сервисов</string>
   <string name="set_default">Установить по умолчанию</string>
-  <string name="share_error">Не удалось передать данные.</string>
+  <string name="share_error">Не удалось передать данные</string>
   <string name="share_via">Способ отправки</string>
   <string name="share_visible_contacts">Передать все контакты</string>
   <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>

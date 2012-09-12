@@ -459,7 +459,7 @@
   <string name="resource_alarm_default">Будильник</string>
   <string name="resource_apply">Применить</string>
   <string name="resource_can_not_selected">%s нельзя выбрать!</string>
-  <string name="resource_default">По-умолчанию</string>
+  <string name="resource_default">По умолчанию</string>
   <string name="resource_default_name">Ресурс</string>
   <string name="resource_delete_all">Вы уверены, что хотите удалить %d выбранных ресурсов?</string>
   <string name="resource_delete_confirm">Содержимое будет удалено</string>

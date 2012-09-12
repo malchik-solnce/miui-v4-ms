@@ -264,7 +264,7 @@
   <string name="factorytest_failed">Не удалось провести стандартный тест</string>
   <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
   <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app</string>
-  <string name="factorytest_reboot">Перезагрузить</string>
+  <string name="factorytest_reboot">Перезагрузка</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Код функции выполнен</string>

@@ -216,7 +216,7 @@
   <string name="message_type_label">"Тип: "</string>
   <string name="messagelist_sender_self">Я</string>
   <string name="messaging_intent_label">Сообщения</string>
-  <string name="mi_msg">Облачное сообщение</string>
+  <string name="mi_msg">Облачные сообщения</string>
   <string name="mms">MMS</string>
   <string name="move_down">Переместить вниз</string>
   <string name="move_up">Переместить вверх</string>
@@ -265,7 +265,7 @@
   <string name="prefDefault_vibrate_false">Никогда</string>
   <string name="prefDefault_vibrate_true">Всегда</string>
   <string name="prefDialogTitle_vibrateWhen">Вибросигнал</string>
-  <string name="pref_advanced_settings_title">Дополнительно</string>
+  <string name="pref_advanced_settings_title">Дополнительные</string>
   <string name="pref_conversation_show_avatar">Показывать изображения</string>
   <string name="pref_edit_smsc_address">Номер SMS центра</string>
   <string name="pref_key_append_signature_summary">Добавить подпись к сообщению</string>
@@ -283,7 +283,7 @@
   <string name="pref_notification_settings_title">Уведомления</string>
   <string name="pref_other_title">Другие</string>
   <string name="pref_sms_settings_title">Настройки SMS</string>
-  <string name="pref_sms_storage_title">Память</string>
+  <string name="pref_sms_storage_title">Настройки памяти</string>
   <string name="pref_sms_theme_title">Настройки темы</string>
   <string name="pref_summary_allow_3rd_mms">Разрешить мониторинг сообщений другими приложениями</string>
   <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI / SL)</string>

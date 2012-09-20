@@ -196,6 +196,7 @@
 Скорость передачи данных снижена до %2$d кбит/с."</string>
     <string name="throttle_time_frame_subtext">"%1$s превышен максимум.
 Частота данных уменьшена до %2$d кБ/с"</string>
+    <string name="tone_miui">Тон</string>
     <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
     <string name="cdma_cell_broadcast_sms">Широковещательные SMS-службы</string>
@@ -415,6 +416,11 @@
     <string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение...</string>
     <string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
     <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
+    <string name="dial_pad_touch_tone_default_miui">Стандартный</string>
+    <string name="dial_pad_touch_tone_human_miui">Голос человека</string>
+    <string name="dial_pad_touch_tone_miui">Сенсорная панель</string>
+    <string name="dial_pad_touch_tone_piano_miui">Фортепианный звук</string>
+    <string name="dial_pad_touch_tone_setting_miui">Настройки тона набора</string>
     <string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
     <string name="dtmfDialpadHintText">Тональная клавиатура</string>
     <string name="onscreenHoldText">Удерживать</string>
@@ -671,6 +677,7 @@
     <string name="auto_ip_summary_not_enabled">Не включено</string>
     <string name="auto_ip_setting_miui">Интеллектуальный IP</string>
     <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
+	<string name="back_miui">Назад</string>
     <string name="auto_ip_exception_miui">Номера, которым не нужен IP префикс</string>
     <string name="auto_ip_no_exceptions_miui">Добавьте номера, которым не нужен IP префикс</string>
     <string name="auto_ip_add_exception_numbers_miui">Добавить номер</string>

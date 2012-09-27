@@ -31,7 +31,7 @@
   <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
   <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
   <string name="copy_install_log">Скопировано в буфер обмена</string>
-  <string name="current_version_text">Установлено:</string>
+  <string name="current_version_text">Текущая прошивка:</string>
   <string name="current_version_update_monthly_build">Установлено:</string>
   <string name="daily_build">ежедневная сборка</string>
   <string name="dialog_no">Нет</string>
@@ -102,6 +102,7 @@
   <string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
   <string name="send_install_log">Отправить журнал</string>
   <string name="send_install_log_error">Ошибка отправки</string>
+  <string name="share_update">Поделиться информацией обновления</string>
   <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
   <string name="sign_in_info">Рейтинг обновления: %1$s%%\n%2$s\nВерсия: %3$s</string>
   <string name="stable_build">стабильная сборка</string>
@@ -131,8 +132,8 @@
   <string name="update_success_title">Обновление</string>
   <string name="upgrade_close">Закрыть</string>
   <string name="upgrade_kernel">Обновления ядра</string>
-  <string name="upgrade_kernel_msg">"Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:
-"</string>
+  <string name="upgrade_kernel_msg">Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:
+</string>
   <string name="verify_and_apply_dialog_message">Проверка целостности...</string>
   <string name="verify_and_apply_dialog_title">Проверка</string>
   <string name="view_details">Подробнее</string>

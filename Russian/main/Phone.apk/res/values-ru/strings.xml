@@ -83,6 +83,7 @@
     <string name="labelGSMMore">Настройки вызовов GSM</string>
     <string name="labelCDMAMore">Настройки вызовов CDMA</string>
     <string name="apn_settings">Точки доступа (APN)</string>
+	<string name="areacode_required_accept_miui">OK</string>
     <string name="settings_label">Настройки сети</string>
     <string name="voicemail">Голосовая почта</string>
     <string name="voicemail_abbreviated">ГП:</string>
@@ -779,6 +780,7 @@
     <string name="crystaltalk_title_miui">Настройка \"CrystalTalk\"</string>
     <string name="current_areacode_miui">Код региона</string>
     <string name="current_areacode_sum_miui">Текущей код региона, или роуминг код региона, если вы в роуминге. Например: 010</string>
+	<string name="current_areacode_sum_set_miui">Телефонный код текущего местоположения: %s</string>
     <string name="custom_location_location_hint_miui">Имя</string>
     <string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
     <string name="cw_title_miui">Ожидание вызова</string>

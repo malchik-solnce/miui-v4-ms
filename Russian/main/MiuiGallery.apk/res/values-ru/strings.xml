@@ -39,6 +39,7 @@
   <string name="cleaning_cache">Очистка кэша...</string>
   <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
   <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно сканирует медиа-файлы и заново создаст эскизы позже.</string>
+  <string name="clear_thumbnail_cache_summary">Просмотр фотографий создает эскизы. Очистив кэш можно увеличить память.</string>
   <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
   <string name="close">Закрыть</string>
   <string name="cloud_albums">Облачные альбомы</string>

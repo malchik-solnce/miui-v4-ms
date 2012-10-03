@@ -181,7 +181,7 @@
     <string name="Privacy_App_Uninstall">Удаление</string>
     <string name="Privacy_App_Log">Журнал</string>
     <string name="Privacy_App_Installed">Настройка доступа</string>
-    <string name="Privacy_App_Finish">Готово</string>
+    <string name="Privacy_App_Finish">Закрыть</string>
     <string name="Privacy_App_Launch">Открыть</string>
     <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
     <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>

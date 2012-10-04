@@ -167,7 +167,7 @@
   <string name="screen_key_menu">Меню</string>
   <string name="screen_key_recent_apps">Последние приложения</string>
   <string name="screen_rotation_freeze_message">Отключить поворот экрана в ландшафтный режим</string>
-  <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты</string>
+  <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты.</string>
   <string name="screenshot_failed_title">Не удалось сохранить скриншот</string>
   <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
   <string name="screenshot_saved_title">Скриншот сохранен</string>
@@ -246,7 +246,7 @@
   <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
   <string name="status_bar_toggle_rotate">Поворот</string>
-  <string name="status_bar_toggle_screen_button">Скриншот</string>
+  <string name="status_bar_toggle_screen_button">Отключить кнопки</string>
   <string name="status_bar_toggle_screenshot">Скриншот</string>
   <string name="status_bar_toggle_shutdown">Выключение</string>
   <string name="status_bar_toggle_sync">Синхронизация</string>

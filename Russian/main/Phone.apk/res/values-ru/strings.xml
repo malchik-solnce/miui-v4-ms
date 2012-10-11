@@ -994,10 +994,16 @@
     <string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
     <string name="missed_call_notify_times_summary_miui">По умолчанию, повтор каждые 5 минут</string>
     <string name="missed_call_notify_once">Один раз</string>
+	<string name="missed_call_notify_once_miui">Один раз</string>
     <string name="missed_call_notify_twice">Два раза</string>
+	<string name="missed_call_notify_twice_miui">Дважды</string>
     <string name="missed_call_notify_thrice">Три раза</string>
+	<string name="missed_call_notify_thrice_miui">3 раза</string>
     <string name="missed_call_notify_five_times">Пять раз</string>
+    <string name="missed_call_notify_five_times_miui">5 раз</string>
+    <string name="missed_call_notify_none_miui">Никогда</string>
     <string name="missed_call_notify_ten_times">Десять раз</string>
+	<string name="missed_call_notify_ten_times_miui">10 раз</string>
     <string name="label_rn1dp">RUIM network1 unlock PIN</string>
     <string name="label_rn2dp">RUIM network2 unlock PIN</string>
     <string name="label_rhrpd">RUIM hrpd unlock PIN</string>
@@ -1052,4 +1058,9 @@
     <string name="title_data_settings">Data Settings</string>
     <string name="vibrate_on_ring_title">Вибрация при звонке</string>
     <string name="voicemail_notification_ringtone_title">Мелодия</string>
+    <string name="t9_indexing_method_pinyin">Пиньинь</string>
+    <string name="t9_indexing_method_title_miui">Настройки поиска T9</string>
+    <string name="t9_indexing_method_zhuyin">Жуинь</string>
+    <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
+
 </resources>

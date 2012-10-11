@@ -118,6 +118,8 @@
   <string name="sync_traffic_fail_message">Синхронизация с оператором мобильной связи не удалась, сервер занят. Пожалуйста, повторите попытку позже или обратитесь в справочную %s</string>
   <string name="sync_traffic_fail_title">Ошибка синхронизации</string>
   <string name="sync_traffic_ing">Синхронизация с оператором, пожалуйста, подождите...</string>
+  <string name="sync_traffic_no_cmd_detail">"Подтвердите ваш город или провинцию, ICC и операторы связи тут: http://www.miui.com/forum-172-1.html. Спасибо"</string>
+  <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
   <string name="sync_traffic_success">Данные оператора синхронизированны, трафик успешно регулируется</string>
   <string name="this_month">Месяц</string>
   <string name="today">Сегодня</string>

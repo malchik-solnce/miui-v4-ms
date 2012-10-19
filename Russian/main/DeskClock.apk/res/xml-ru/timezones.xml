@@ -30,12 +30,14 @@
     <timezone id="Africa/Casablanca">Касабланка</timezone>
     <timezone id="Europe/London">Лондон</timezone>
     <timezone id="Europe/Amsterdam">Амстердам</timezone>
+	<timezone id="Europe/Berlin">Берлин</timezone>
     <timezone id="Europe/Belgrade">Белград</timezone>
     <timezone id="Europe/Brussels">Брюссель</timezone>
     <timezone id="Europe/Sarajevo">Сараево</timezone>
     <timezone id="Africa/Windhoek">Виндхук</timezone>
     <timezone id="Africa/Brazzaville">Браззавиль</timezone>
     <timezone id="Asia/Amman">Амман</timezone>
+	<timezone id="Asia/Omsk">Омск</timezone>
     <timezone id="Europe/Athens">Афины</timezone>
     <timezone id="Asia/Beirut">Бейрут</timezone>
     <timezone id="Africa/Cairo">Каир</timezone>

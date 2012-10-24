@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Отключить</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="cpu_zram_size_values">
+        <item>0</item>
+        <item>10</item>
+        <item>18</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Отключена</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Медленная</item>
+        <item>Еще медленнее</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="entryvalues_animations">
+        <item>0.0</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+        <item>5.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>None</item>
+        <item>Glow</item>
+        <item>Bounce</item>
+        <item>Bounce &amp;amp; Glow</item>
+    </string-array>
+    <string-array name="entryvalues_overscroll_type">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Extra Heavy</item>
+        <item>Heavy</item>
+        <item>Medium</item>
+        <item>Light</item>
+        <item>Extra Light</item>
+    </string-array>
+    <string-array name="entryvalues_overscroll_weight">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>Centred</item>
+        <item>Normal</item>
+        <item>Switched</item>
+    </string-array>
+    <string-array name="entryvalues_status_styles">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

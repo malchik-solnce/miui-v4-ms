@@ -58,7 +58,7 @@
     <string name="permission_button">Разрешения (%1$s)</string>
 	<string name="update_date_label">Обновлено:</string>
     <string name="update_date">%3$02d-%2$02d-%1$d</string>
-    <string name="version_label">Версия： %s</string>
+    <string name="version_label">Версия：</string>
     <string name="share_button">Отправить другу</string>
     <string name="install">уст.</string>
     <string name="update">обн.</string>

@@ -49,6 +49,7 @@
   <string name="confirm_delete">Удалить выбранные файлы?</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Фото контакта</string>
+  <string name="contrast">Контраст</string>
   <string name="crop">Кадрировать</string>
   <string name="crop_action">Кадрировать</string>
   <string name="crop_fail_to_load_image">Ошибка загрузки изображения для кадрирования</string>
@@ -106,6 +107,12 @@
   <string name="flip">Отразить</string>
   <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
   <string name="focal_length">Фокус. расст.</string>
+  <string name="frame_black">Черный</string>
+  <string name="frame_button">Рамка</string>
+  <string name="frame_classic">Классическая</string>
+  <string name="frame_movie">Фильм</string>
+  <string name="frame_semicircle">Полукруг</string>
+  <string name="frame_white">Белый</string>
   <string name="free_space_format">Свободно: %s</string>
   <string name="gadget_title">Рамка фотографии</string>
   <string name="gallery_cloud_provider_name">Галерея</string>
@@ -184,6 +191,7 @@
   <string name="no_storage_title">Нет хранилища</string>
   <string name="no_such_item">Элемент не найден</string>
   <string name="no_thumbnail">Нет уменьшенного изображения</string>
+  <string name="none_picture">Нет фотографий в Галерее</string>
   <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
   <string name="open_map">Открыть карту</string>
   <string name="open_single_image_failure">Ошибка загрузки изображения!</string>

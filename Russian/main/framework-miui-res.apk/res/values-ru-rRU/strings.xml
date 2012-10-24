@@ -414,6 +414,8 @@
   <string name="lunar_yue">Месяц</string>
   <string name="lunar_zheng" />
   <string name="megabyteShort">МБ</string>
+  <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
+  <string name="memory_clear_result">"Освобождено: %1$s | Доступно: %2$s"</string>
   <string name="miui_copyright_title">Авторское право</string>
   <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
   <string name="miui_user_agreement_title">Пользовательское соглашение</string>
@@ -447,10 +449,14 @@
   <string name="perm_auto_backup">Автоматический бэкап</string>
   <string name="perm_get_user_info_dspt">Получить подробную информацию о аккаунте Xiaomi</string>
   <string name="perm_get_user_info_lab">Получить информацию о аккаунте Xiaomi</string>
+  <string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
+  <string name="perm_send_push_lab">Отправка push-сообщений</string>
   <string name="perm_tigger_toggle_dspt">Разрешить программам вызвать переключение в строке состояния</string>
   <string name="perm_tigger_toggle_lab">Переключатели из статус-бара</string>
   <string name="perm_use_find_device">Обнаружение устройства</string>
   <string name="perm_use_pin_security">Использовать защиту PIN</string>
+  <string name="permdesc_accessNote">Приложение сможет считывать и изменять заметки, которые хранятся на вашем телефоне. Вредоносные программы могут использовать эту возможность для передачи заметок другим людям или удаления всех заметок.</string>
+  <string name="permlab_accessNote">Доступ к заметкам</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="power_off">Выключение телефона...</string>
   <string name="private_num">Скрытый номер</string>

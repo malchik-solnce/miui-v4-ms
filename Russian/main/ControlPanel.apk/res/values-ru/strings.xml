@@ -32,13 +32,13 @@
     <string name="onscreenkeys_custom">Customise Keys</string>
     <string name="window_animations_title">Анимация окон</string>
     <string name="window_animations_summary">Скорость анимации в отдельных окнах</string>
-    <string name="transition_animations_title">Transition animations</string>
-    <string name="transition_animations_summary">Speed of animations moving between screens</string>
+    <string name="transition_animations_title">Переход анимации</string>
+    <string name="transition_animations_summary">Скорость анимации перемещения между экранами</string>
     <string name="fancy_ime_animations_title">Fancy input animations</string>
     <string name="fancy_ime_animations_summary_on">Use fancier animations for input method windows</string>
     <string name="fancy_ime_animations_summary_off">Use normal animations for input method windows</string>
     <string name="carrier_label_category">Логотип оператора</string>
-    <string name="show_carrier_title">Паказывать лотип</string>
+    <string name="show_carrier_title">Показывать логотип</string>
     <string name="show_carrier_summary">Показать лого оператора в строке состояния</string>
     <string name="custom_carrier_title">Use Custom Label</string>
     <string name="custom_carrier_summary">Use a customised carrier label</string>

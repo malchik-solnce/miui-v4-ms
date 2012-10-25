@@ -7,7 +7,7 @@
   <string name="activity_not_found">Действие не поддерживается ни в одном приложении</string>
   <string name="add_account">Добавить аккаунт</string>
   <string name="add_bookmark">Добавить в избранное</string>
-  <string name="albums">Альбомы</string>
+  <string name="albums">альбомов</string>
   <string name="alert">Внимание</string>
   <string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только при Wi-Fi соединении</string>
   <string name="alert_message_sync_histoy_power_on">По умолчанию, фотографии синхронизируются только при зарядке. Вы можете изменить настройки в меню.</string>
@@ -211,7 +211,7 @@
   <string name="people">Люди</string>
   <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
   <string name="photoeditor_name">Фотостудия</string>
-  <string name="photos">Фотографии</string>
+  <string name="photos">файлов</string>
   <string name="picasa_posts">Записи</string>
   <string name="play_video">Воспроизведение видео</string>
   <string name="posterize">Постеризация</string>

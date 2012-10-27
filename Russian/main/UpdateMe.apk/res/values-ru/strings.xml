@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rom">Текущая версия</string>
+    <string name="homepage">Домашняя страница</string>
+    <string name="plugin">Плагин</string>
+    <string name="Themes">Темы</string>
+    <string name="apps">Приложения</string>
+    <string name="kernel">Ядро</string>
+    <string name="app_name">OTA</string>
+    <string name="app_version">2.0.3</string>
+    <string name="check_rom_update">Проверить обновление прошивки</string>
+    <string name="exit">Выход</string>
+    <string name="info">Информация</string>
+    <string name="costumization">Настройка</string>
+    <string name="settings">Настройки</string>
+    <string name="downloading_file">Загрузка файла....</string>
+    <string name="md5_ok">Сумма MD5 верная</string>
+    <string name="md5_error">MD5 сумма неверная</string>
+    <string name="file_downloaded">Файл загружен в:</string>
+    <string name="reboot_to_recovery">Вы хотите перезагрузить в recovery?</string>
+    <string name="ok">OК</string>
+    <string name="cancel">Отмена</string>
+    <string name="new_rom">Доступна новая версия прошивки</string>
+    <string name="download_new_rom">Скачать</string>
+    <string name="changelog">Список изменений</string>
+    <string name="reload_apps">Перезагрузить приложения</string>
+    <string name="check_rom_startup">Проверять обновления при запуске</string>
+    <string name="choose_download_dir">Выберите каталог загрузки</string>
+    <string name="reboot_recovery">Перезагрузка в recovery</string>
+    <string name="donate">Помощь разработчикам</string>
+    <string name="donate_acquariusoft">Пожертвовать</string>
+    <string name="donate_acquariusoft_desc">разработчикам программы</string>
+    <string name="no_update_available">Доступных обновлений нет</string>
+    <string name="use_light_theme">Светлая тема</string>
+    <string name="reboot_to_enable">Перезагрузите приложение для применения этих параметров</string>
+    <string name="reboot_and_install">Перезагрузка и установка</string>
+    <string name="downloaded_files">Загруженные файлы</string>
+    <string name="cwm_flip_sdcard">Поменять имя sdcard в CWM</string>
+    <string name="cwm_flip_sdcard_desc">Полезно для некоторых CWM, которые не прошивают ZIP файлы в автоматическом режиме, как SGSII</string>
+    <string name="dialog_donate_title">Пожертвование</string>
+    <string name="dialog_donate_text">Если вы используете это приложение, поддержите разработчиков для улучшения функциональности приложения.
+Вы можете сделать пожертвование с PayPal или купить приложение в Google Play</string>
+    <string name="dialog_donate_paypal">Paypal</string>
+    <string name="dialog_donate_market">Play Store</string>
+    <string name="error">Ошибка</string>
+    <string name="error_on_donwload">Произошла ошибка загрузки файла</string>
+    <string name="install">Установить</string>
+    <string name="click_for_update_market">Открыть Google Play</string>
+    <string name="reboot_type">Тип перезагрузки</string>
+    <string name="alert_no_config">Нет доступной конфигурации!
+
+Этот ром не совместим с этим приложением.
+Сообщите производителю прошивки, чтобы сделать этот ром совместимым или проверьте список совместимых прошивок!
+
+ЭТО НЕ ПРОБЛЕМА моего приложения, так что НЕ СПАМЬТЕ в Маркете, пожалуйста!</string>
+    <string name="compatible_rom_list">Список совместимых прошивок</string>
+    <string name="check_rom_time">Проверка обновления</string>
+    <string name="disable_check_rom">Откл. автопроверку</string>
+    <string name="recovery">Recovery</string>
+    <string name="option">Функции</string>
+    <string name="other">Другие</string>
+    <string name="buy_donated">При покупке, приложение</string>
+    <string name="buy_donated_desc">скрывает рекламу и вы получаете больше возможностей...</string>
+    <string name="download_script">Скачать скрипты</string>
+    <string name="script_title">Название</string>
+    <string name="script_desc">Описание</string>
+    <string name="script_text">Скрипт</string>
+    <string name="script_create_your">Изменить скрипт</string>
+    <string name="script_insert">Вставить</string>
+    <string name="script_inserted">Скрипт вставлен</string>
+    <string name="script_create_new">Создать новый</string>
+    <string name="delete">Удалить</string>
+    <string name="share_rom">Поделится прошивкой</string>
+    <string name="full_wipe">Полный вайп при установке</string>
+    <string name="full_wipe_recommended">Реком. полный вайп</string>
+    <string name="system_app">Системные приложения</string>
+    <string name="system_app_desc">Это системное приложение, вы можете повредить вашу систему, если удалить это приложение!
+
+Продолжить?</string>
+    <string name="installed_apps">Установленные приложения</string>
+	<string name="download_the_file">Загрузить файл?</string>
+    <string name="disable_apps">Отключить установленные приложения</string>
+    <string name="disable_scripts">Отключить скрипты</string>
+    <string name="view_video_apps">Если вам нравится это приложение, посмотрите это видео рекламу, чтобы поддержать нас.
+
+Это диалоговое окно отображается только на обновление."</string>
+    <string name="error_config">Пожалуйста, установите %1$s постоянной и перекомпилируйте приложение.</string>
+    <string name="already_registered">Устройство уже зарегистрирован на сервере</string>
+    <string name="gcm_registered">From GCM: Устройство успешно зарегистрировано!</string>
+    <string name="gcm_unregistered">From GCM: Устройство успешно незарегистрированной!</string>
+    <string name="gcm_message">From GCM: вы получили сообщение!!</string>
+    <string name="gcm_error">From GCM: ошибка (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: ошибка извлечения (%1$s)</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Не удалось зарегистрировать устройство на демо сервере, после %1$d попытки</string>
+    <string name="server_unregister_error">Не удалось отменить регистрацию устройства на демо сервере (%1$s)</string>
+    <string name="push_notification">Уведомления</string>
+    <string name="disable_push_notification">Отключить</string>
+    <string name="available_only_donate_version">Доступно только в полной версии</string>
+</resources>

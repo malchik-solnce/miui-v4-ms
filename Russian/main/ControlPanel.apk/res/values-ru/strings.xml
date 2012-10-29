@@ -107,9 +107,9 @@
     <string name="other_category">Разное</string>
     <string name="accessibility_settings">Специальные настройки</string>
     <string name="accessibility_settings_summary" />
-    <string name="battery_info">Battery Information</string>
+    <string name="battery_info">Информация о батареи</string>
     <string name="battery_info_summary" />
-    <string name="phone_info">Phone Information</string>
+    <string name="phone_info">Информация о телефоне</string>
     <string name="phone_info_summary" />
     <string name="wifi_testing">Wi-Fi Information</string>
     <string name="wifi_testing_summary" />

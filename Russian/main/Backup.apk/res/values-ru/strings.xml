@@ -3,7 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_login">Войти в систему</string>
-  <string name="account_summary">- Настройки темы</string>
+  <string name="account_summary">- Настройки аккаунта</string>
   <string name="already_enable_encrypt">Включить шифрование</string>
   <string name="app_name">Бэкап</string>
   <string name="auto_backup">Автоматически</string>
@@ -39,7 +39,7 @@
   <string name="batch_delete_backup_confirm">Резервные копии будут удалены</string>
   <string name="button_backup">Создать резервную копию</string>
   <string name="button_cancel">Отмена</string>
-  <string name="button_finish">Готово</string>
+  <string name="button_finish">Закрыть</string>
   <string name="button_next">Вперед</string>
   <string name="button_ok">OК</string>
   <string name="button_return">Назад</string>
@@ -55,11 +55,11 @@
   <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
   <string name="cloud_last_backup">Последняя:</string>
   <string name="cloud_no_backup">Нет резервных копий</string>
-  <string name="cloud_restore_guide">"Нажмите Восстановить, для восстановления
+  <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
  Вы также можете восстановить %s из Бэкапа"</string>
   <string name="cloud_restore_title">Восстановление</string>
   <string name="cloud_restore_window_title">Облачное восстановление</string>
-  <string name="cloud_search">Поиск..</string>
+  <string name="cloud_search">Поиск...</string>
   <string name="compute_backup_info">Получение информации резервного копирования</string>
   <string name="compute_delete_contact_info">Удаление информации контактов</string>
   <string name="contact_title">Контакты</string>
@@ -67,7 +67,6 @@
   <string name="current_sim">Текущая SIM-карта</string>
   <string name="data_no_enough_space">Не хватает памяти</string>
   <string name="data_no_enough_space_warning">Не хватает места для восстановления, возможны ошибки, продолжить?</string>
-  <string name="date_format">dd-MM-yyyy H:mm</string>
   <string name="delete">Удалить</string>
   <string name="delete_backup">Удалить бэкап</string>
   <string name="delete_backup_confirm">" Резервная копия будет удалена"</string>
@@ -170,7 +169,7 @@
 Это может привести к потере данных!"</string>
   <string name="task_restore_cancel_progress">Остановка процесса...</string>
   <string name="task_restore_finished_local">Восстановление завершено</string>
-  <string name="task_restore_none">Нет необходимости восстановления</string>
+  <string name="task_restore_none">Не нуждается в восстановлении</string>
   <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
   <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
   <string name="task_service_not_launched">Сервис не запустился, ждите!</string>

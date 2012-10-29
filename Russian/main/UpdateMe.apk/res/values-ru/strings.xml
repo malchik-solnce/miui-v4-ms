@@ -8,7 +8,7 @@
     <string name="kernel">Ядро</string>
     <string name="app_name">OTA</string>
     <string name="app_version">2.0.3</string>
-    <string name="check_rom_update">Проверить обновление прошивки</string>
+    <string name="check_rom_update">Проверить обновление</string>
     <string name="exit">Выход</string>
     <string name="info">Информация</string>
     <string name="costumization">Настройка</string>
@@ -17,7 +17,7 @@
     <string name="md5_ok">Сумма MD5 верная</string>
     <string name="md5_error">MD5 сумма неверная</string>
     <string name="file_downloaded">Файл загружен в:</string>
-    <string name="reboot_to_recovery">Вы хотите перезагрузить в recovery?</string>
+    <string name="reboot_to_recovery">Перезагрузиться в recovery?</string>
     <string name="ok">OК</string>
     <string name="cancel">Отмена</string>
     <string name="new_rom">Доступна новая версия прошивки</string>
@@ -27,13 +27,13 @@
     <string name="check_rom_startup">Проверять обновления при запуске</string>
     <string name="choose_download_dir">Выберите каталог загрузки</string>
     <string name="reboot_recovery">Перезагрузка в recovery</string>
-    <string name="donate">Помощь разработчикам</string>
+    <string name="donate">Пожертвовать MS :)</string>
     <string name="donate_acquariusoft">Пожертвовать</string>
-    <string name="donate_acquariusoft_desc">разработчикам программы</string>
+    <string name="donate_acquariusoft_desc">разработчику программы</string>
     <string name="no_update_available">Доступных обновлений нет</string>
     <string name="use_light_theme">Светлая тема</string>
-    <string name="reboot_to_enable">Перезагрузите приложение для применения этих параметров</string>
-    <string name="reboot_and_install">Перезагрузка и установка</string>
+    <string name="reboot_to_enable">Перезагрузите приложение для применения параметров</string>
+    <string name="reboot_and_install">Перез. и уст.</string>
     <string name="downloaded_files">Загруженные файлы</string>
     <string name="cwm_flip_sdcard">Поменять имя sdcard в CWM</string>
     <string name="cwm_flip_sdcard_desc">Полезно для некоторых CWM, которые не прошивают ZIP файлы в автоматическом режиме, как SGSII</string>

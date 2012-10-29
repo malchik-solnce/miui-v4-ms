@@ -14,7 +14,7 @@
     <string name="actors_colon">В главных ролях:</string>
     <string name="tags_colon">Тип:</string>
     <string name="area_colon">Страна:</string>
-    <string name="time_colon">Время:</string>
+    <string name="time_colon">Год:</string>
     <string name="play_length_colon">Продолжительность:</string>
     <string name="series_colon">Эпизодов:</string>
     <string name="minute">минута</string>
@@ -27,7 +27,7 @@
     <string name="all">Все</string>
     <string name="movie">Фильмы</string>
     <string name="tv">Сериалы</string>
-    <string name="brief_intro">Краткое введение</string>
+    <string name="brief_intro">Описание</string>
     <string name="movie_comment">评论</string>
     <string name="view_all_reviews">Просмотреть все комментарии</string>
     <string name="add_review">Добавить отзыв</string>

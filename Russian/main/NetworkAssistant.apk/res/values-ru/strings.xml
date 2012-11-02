@@ -109,6 +109,7 @@
   <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, последний: %d</string>
   <string name="sms_match_fail">Ошибка соответствия SMS</string>
   <string name="sms_template_match_fail">Ошибка соответствия SMS шаблонов</string>
+  <string name="sms_template_updated_label">"Обновлено: "</string>
   <string name="sort_dialog_title">Сортировка</string>
   <string name="sorted_flux">Статистика</string>
   <string name="stop_app_button">Закрыть</string>
@@ -125,6 +126,7 @@
   <string name="today">Сегодня</string>
   <string name="traffic_none">0MB</string>
   <string name="traffic_package_widget_name">Виджет Монитор (1x4)</string>
+  <string name="unknown">Нет данных</string>
   <string name="traffic_remain">Осталось</string>
   <string name="traffic_settings_error">Eсть ошибка в настройках вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
   <string name="traffic_suffix">Трафик</string>
@@ -142,6 +144,7 @@
   <string name="update_success">Успешно обновлено</string>
   <string name="updating">Обновление...</string>
   <string name="used_flux">Трафик</string>
+  <string name="version_label">"Версия: "</string>
   <string name="warning_settings_toast">%1$d%% %2$d MB</string>
   <string name="warning_title">Внимание!</string>
   <string name="widget_color_exceed_warn">\#F9882C</string>

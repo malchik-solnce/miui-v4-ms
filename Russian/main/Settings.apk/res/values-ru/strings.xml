@@ -5,6 +5,7 @@
   <string name="about_settings">Сведения о телефоне</string>
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Ограничение доступа</string>
+  <string name="ac_privacy_mode_sum">Введите пароль доступа для отключения защищенного режима</string>
   <string name="ac_privacy_mode_title">Режим гостя</string>
   <string name="ac_set_apps_title">Защита приложений</string>
   <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
@@ -1020,6 +1021,7 @@
   <string name="menu_stats_refresh">Обновить</string>
   <string name="menu_stats_total">Всего</string>
   <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
+  <string name="milicenter_settings">Кредитный центр Mi</string>
   <string name="misc_files">Разное</string>
   <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
@@ -1128,6 +1130,7 @@
   <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
   <string name="preference_change_password_title">Изменить пароль</string>
   <string name="preferred_media_app_summary">Выберите свой плеер</string>
+  <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую информацию при использовании защищенного режима</string>
   <string name="privacy_mode_enable_title">Включить режим конфиденциальности</string>
   <string name="privacy_protect_title">Управление доступом</string>
   <string name="privacy_settings">Восстановление и сброс</string>
@@ -1488,6 +1491,7 @@
   <string name="sync_plug">"Добро пожаловать в Google Sync! 
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства."</string>
   <string name="sync_settings">Мои аккаунты</string>
+  <string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
   <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
   <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">Обновление системы</string>
@@ -1699,7 +1703,14 @@
   <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
   <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
   <string name="virus_scan_app_waiting">Ожидает</string>
+  <string name="virus_scanner_auto_update">Автообновление</string>
   <string name="virus_scanner_kinsoft_provider">Техническая поддержка: Антивирус MIUI</string>
+  <string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>
+  <string name="virus_scanner_lib_update">Доступно обновление вирусных баз</string>
+  <string name="virus_scanner_lib_update_failed">Ошибка обновления вирусных баз!</string>
+  <string name="virus_scanner_lib_updating">Обновление базы...</string>
+  <string name="virus_scanner_manual_update">Обновить вручную</string>
+  <string name="virus_scanner_provider">Техническая поддержка: %s</string>
   <string name="virus_scanner_scan">Сканировать</string>
   <string name="virus_scanner_scanning">Проверить приложения на вирусы</string>
   <string name="virus_scanner_select_Cancel">Отмена</string>

@@ -12,7 +12,7 @@
   <string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только при Wi-Fi соединении</string>
   <string name="alert_message_sync_histoy_power_on">По умолчанию, фотографии синхронизируются только при зарядке. Вы можете изменить настройки в меню.</string>
   <string name="all_album">Все</string>
-  <string name="all_albums_desc">Альбомы</string>
+  <string name="all_albums_desc">альбомов</string>
   <string name="all_albums_loading">Загрузка…</string>
   <string name="all_media">Все фото</string>
   <string name="all_recent">Избранные</string>
@@ -114,12 +114,12 @@
   <string name="flip">Отразить</string>
   <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
   <string name="focal_length">Фокус. расст.</string>
-  <string name="frame_black">Черный</string>
+  <string name="frame_black">Черная</string>
   <string name="frame_button">Рамка</string>
   <string name="frame_classic">Классическая</string>
   <string name="frame_movie">Фильм</string>
   <string name="frame_semicircle">Полукруг</string>
-  <string name="frame_white">Белый</string>
+  <string name="frame_white">Белая</string>
   <string name="free_space_format">Свободно: %s</string>
   <string name="gadget_title">Рамка фотографии</string>
   <string name="gallery_cloud_provider_name">Галерея</string>
@@ -139,8 +139,8 @@
   <string name="home_recent_albums">Избранные альбомы</string>
   <string name="how_many_pics">Фотографий: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
-  <string name="how_many_videos">Видео: %d</string>
-  <string name="how_many_volumes">Устройств хранения: %d</string>
+  <string name="how_many_videos">Видео файлов: %d</string>
+  <string name="how_many_volumes">Всего: %d</string>
   <string name="image_property">Свойства фотографии</string>
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>

@@ -755,7 +755,7 @@
   <string name="filter_apps_third_party">Сторонние</string>
   <string name="filter_dlg_title">Выберите параметры фильтра</string>
   <string name="finish_button_label">Готово</string>
-  <string name="firmware_version">Версия Android</string>
+  <string name="firmware_version">Версия Android:</string>
   <string name="font_size_huge">Огромный</string>
   <string name="font_size_large">Большой</string>
   <string name="font_size_medium">Средний</string>
@@ -842,7 +842,7 @@
   <string name="join_two_items">%1$s и %2$s</string>
   <string name="keep_screen_on">Оставить включенным</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
-  <string name="kernel_version">Версия ядра</string>
+  <string name="kernel_version">Версия ядра:</string>
   <string name="key_settings">Кнопки управления</string>
   <string name="key_settings_title">Настройки кнопок</string>
   <string name="keyboard_layout_default_label">По умолчанию</string>
@@ -1026,7 +1026,7 @@
   <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
   <string name="mms_vibrate_abbreviation">Сообщения</string>
-  <string name="model_number">Модель</string>
+  <string name="model_number">Модель:</string>
   <string name="move_app">Переместить</string>
   <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
   <string name="move_app_failed_dlg_title">Перемещение приложения</string>

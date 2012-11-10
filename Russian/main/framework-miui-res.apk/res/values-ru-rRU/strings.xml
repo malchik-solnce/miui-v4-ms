@@ -322,13 +322,13 @@
   <string name="description_size">Размер:</string>
   <string name="description_summary">Информация:</string>
   <string name="description_unknown">Неизвестный</string>
-  <string name="description_uploadtime">Время выгрузки:</string>
+  <string name="description_uploadtime">Загружено:</string>
   <string name="description_version">Версия:</string>
   <string name="dial_number_using">"Вызвать
 используя %s"</string>
   <string name="double_seventh_day">Танабата</string>
-  <string name="download_failed">Не удается загрузить превью</string>
-  <string name="download_preview_failed">Не удалось загрузить предварительный просмотр</string>
+  <string name="download_failed">Не удается загрузить обзор</string>
+  <string name="download_preview_failed">Ошибка загрузки предпросмотра</string>
   <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
   <string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
   <string name="error_title">Ошибка синхронизации %s</string>

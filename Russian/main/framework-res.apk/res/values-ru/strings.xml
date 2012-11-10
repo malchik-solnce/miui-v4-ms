@@ -66,9 +66,9 @@
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
-  <string name="android_upgrading_apk">Оптимизация приложений %1$d из %2$d</string>
+  <string name="android_upgrading_apk">Обновление приложений %1$d из %2$d</string>
   <string name="android_upgrading_complete">Окончание загрузки...</string>
-  <string name="android_upgrading_starting_apps">Запуск приложений...</string>
+  <string name="android_upgrading_starting_apps">Запуск системы...</string>
   <string name="android_upgrading_title">Обновление системы...</string>
   <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
@@ -360,7 +360,7 @@
 %s
 
 Нажмите \"ОК\", чтобы продолжить, или \"Отмена\", чтобы остаться на текущей странице."</string>
-  <string name="js_dialog_title">Подтвердите действие lky %s</string>
+  <string name="js_dialog_title">Подтвердите действие для %s</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль</string>
   <string name="keyboard_password_character_no_headset">Точка</string>
@@ -451,6 +451,7 @@
   <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
   <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
   <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
+  <string name="lockscreen_unlock_guide_text">Сдвиньте экран для разблокировки</string>
   <string name="lockscreen_unlock_label">Разблокировать</string>
   <string name="low_internal_storage_view_text">Заканчивается место в памяти телефона</string>
   <string name="low_internal_storage_view_title">Недостаточно места</string>
@@ -1095,7 +1096,7 @@
   <string name="short_format_month">%b</string>
   <string name="shutdown_confirm">Телефон будет выключен</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
-  <string name="shutdown_progress">Выключение...</string>
+  <string name="shutdown_progress">Выключение телефона...</string>
   <string name="silent_mode">Режим без звука</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
   <string name="sim_added_title">SIM-карта добавлена</string>
@@ -1210,7 +1211,6 @@
   <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
   <string name="wday_date">%2$s, %3$s</string>
   <string name="webpage_unresponsive">"Страница не отвечает.
-
 Вы хотите ее закрыть?"</string>
   <string name="websearch">Веб-поиск</string>
   <string name="week">нед.</string>
@@ -1234,6 +1234,10 @@
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены.</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
+  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталась %1$d попытка</string>
+  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
+  <string name="zzz_keyguard_password_attempt_count_puk_code">%1$d attempt left</string>
+  <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d attempts left</string>
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>

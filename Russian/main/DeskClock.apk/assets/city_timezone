@@ -44,7 +44,7 @@
 43	Europe/Minsk	Minsk, Belarus	白俄罗斯, 明斯克	白俄羅斯, 明斯克	mingsike
 44	Africa/Harare	Harare, Zimbabwe	津巴布韦, 哈拉雷	津巴布韋, 哈拉雷	halalei
 45	Asia/Baghdad	Baghdad, Iraq	伊拉克, 巴格达	伊拉克, 巴格達	bageda
-46	Europe/Moscow	Moscow, Russia	俄罗斯, 莫斯科	俄羅斯, 莫斯科	mosike
+46	Europe/Moscow	Москва, Россия	俄罗斯, 莫斯科	俄羅斯, 莫斯科	mosike
 47	Asia/Kuwait	Kuwait City, Kuwait	科威特, 科威特城	科威特, 科威特城	keweitecheng
 48	Africa/Nairobi	Nairobi, Kenya	肯尼亚, 内罗毕	肯尼亞, 內羅畢	neiluobi
 49	Asia/Tehran	Tehran, Iran	伊朗, 德黑兰	伊朗, 德黑蘭	deheilan
@@ -90,9 +90,9 @@
 156	Europe/Amsterdam	Ankara, Turkey	土耳其, 安卡拉	土耳其, 安卡拉	ankala
 157	Europe/Athens	Antananarivo, Madagascar	马达加斯加岛, 塔那那利佛	馬達加斯加島, 塔那那利佛	taneineilifo
 158	America/New_York	Asuncion, Paraguay	巴拉圭, 亚松森	巴拉圭, 亞松森	yasongsen
-159	America/Chicago	Atlanta, U.S.A.	美国, 亚特兰大	美國, 亞特蘭大	yatelanda
+159	America/Chicago	Атланта, США	美国, 亚特兰大	美國, 亞特蘭大	yatelanda
 160	Europe/London	Barcelona, Spain	西班牙, 巴塞罗纳	西班牙, 巴塞羅納	basailuona
-161	Europe/London	Berlin, Germany	德国, 柏林	德國, 柏林	bolin
+161	Europe/London	Берлин, Германия	德国, 柏林	德國, 柏林	bolin
 162	America/Chicago	Bogota, Colombia	哥伦比亚, 波哥大	哥倫比亞, 波哥大	bogeda
 163	America/Chicago	Boston, U.S.A.	美国, 波士顿	美國, 波士頓	boshidun
 164	America/Halifax	Brasilia, Brazil	巴西, 巴西利亚	巴西, 巴西利亞	baxiliya
@@ -144,7 +144,7 @@
 210	America/Belize	New Orleans, U.S.A.	美国, 新奥尔良	美國, 新奧爾良	xinaoerliang
 211	Europe/Oslo	Oslo, Norway	挪威, 奥斯陆	挪威, 奧斯陸	aosilu
 212	America/Atikokan	Ottawa, Canada	加拿大, 渥太华	加拿大, 渥太華	wotaihua
-213	Europe/Paris	Paris, France	法国, 巴黎	法國, 巴黎	bali
+213	Europe/Paris	Париж, Франция	法国, 巴黎	法國, 巴黎	bali
 214	America/New_York	Philadelphia, U.S.A	美国, 费城	美國, 費城	feicheng
 215	Europe/Prague	Prague, Czech Republic	前捷克斯洛伐克, 布拉格	前捷剋斯洛伐剋, 佈拉格	bulage
 216	Atlantic/Reykjavik	Reykjavik, Iceland	冰岛, 雷克雅维克	冰島, 雷剋雅維剋	leikeyaweike
@@ -167,7 +167,7 @@
 233	America/Toronto	Toronto, Canada	加拿大, 多伦多	加拿大, 多倫多	duolunduo
 234	America/Vancouver	Vancouver, Canada	加拿大, 温哥华	加拿大, 溫哥華	wengehua
 235	Europe/Vienna	Vienna, Austria	奥地利, 维也纳	奧地利, 維也納	weiyena
-236	Europe/Warsaw	Warsaw, Poland	波兰, 华沙	波蘭, 華沙	huasha
+236	Europe/Warsaw	Варшава, Польша	波兰, 华沙	波蘭, 華沙	huasha
 237	America/Detroit	Washington DC, U.S.A	美国, 华盛顿特区	美國, 華盛頓特區	huashengduntequ
 238	America/Winnipeg	Winnipeg, Canada	加拿大, 温尼伯	加拿大, 溫尼伯	wennibo
 239	Europe/Zagreb	Zagreb, Croatia	南斯拉夫, 萨格勒布	南斯拉伕, 薩格勒佈	sagelebu

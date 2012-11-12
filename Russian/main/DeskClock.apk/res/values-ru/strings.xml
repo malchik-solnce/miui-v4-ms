@@ -5,7 +5,7 @@
   <string name="add_alarm">Добавить будильник</string>
   <string name="alarm_alert_alert_silenced">Будильник звонил %d мин</string>
   <string name="alarm_alert_dismiss_text">Выключить</string>
-  <string name="alarm_alert_snooze_set">Повтор сигнала через %d мин</string>
+  <string name="alarm_alert_snooze_set">Повторить через %d мин</string>
   <string name="alarm_alert_snooze_text">Отложить</string>
   <string name="alarm_ascending_mode_summary">Мелодия по возрастанию, до выставленной громкости</string>
   <string name="alarm_ascending_mode_title">По возрастанию</string>
@@ -49,8 +49,8 @@
   <string name="default_ringtone_setting_title">Мелодия будильника по умолчанию</string>
   <string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс(а)?</string>
   <string name="delete">Удалить</string>
-  <string name="delete_alarm">Удалить будильник</string>
-  <string name="delete_alarm_confirm">Удалить будильник?</string>
+  <string name="delete_alarm">Удаление</string>
+  <string name="delete_alarm_confirm">Вы действительно хотите удалить будильник (и)?</string>
   <string name="delete_timezone_title">Удалить часовой пояс</string>
   <string name="desk_clock_button_description">Внешний вид</string>
   <string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
@@ -82,7 +82,7 @@
   <string name="minute">1 минуту</string>
   <string name="minutes">%s мин</string>
   <string name="music_button_description">Музыка</string>
-  <string name="never">Никогда</string>
+  <string name="never">Не выбраны</string>
   <string name="nightmode_button_description">Затемнить</string>
   <string name="pause">Пауза</string>
   <string name="remind_ringtone">Звук напоминания</string>
@@ -93,12 +93,12 @@
   <string name="show_clock">Показать часы</string>
   <string name="shutdown_alarm_title">Выключение будильника</string>
   <string name="shutdown_alarm_enable_summary">Включено отключение будильника</string>
-  <string name="shutdown_alarm_disable_summary">Отключение будтльника выключено</string>
+  <string name="shutdown_alarm_disable_summary">Отключение будильника выключено</string>
   <string name="silent_alarm_summary">Без звука</string>
-  <string name="slide_down_delelte_alarm">Сдвиньте вниз, чтобы отключить</string>
+  <string name="slide_down_delelte_alarm">Сдвиньте, чтобы отключить</string>
   <string name="snooze_confirm_cancel">Отложить</string>
-  <string name="snooze_confirm_message">Будильник будет отложен на %s.
-Также Вы можете отключить этот будильник.</string>
+  <string name="snooze_confirm_message">Будильник отложен на %s.
+Или Вы можете вообще отключить этот будильник.</string>
   <string name="snooze_confirm_ok">ОК</string>
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
   <string name="start">Старт</string>

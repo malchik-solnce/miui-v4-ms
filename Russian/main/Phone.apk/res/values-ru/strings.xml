@@ -5,6 +5,7 @@
     <string name="phoneIconLabel">Телефон</string>
     <string name="fdnListLabel">Разрешенные номера</string>
     <string name="unknown">Неизвестный абонент</string>
+	<string name="unknown_num">Неизвестный номер</string>
     <string name="private_num">Скрытый номер</string>
     <string name="payphone">Телефон-автомат</string>
     <string name="onHold">Ждет ответа</string>
@@ -829,6 +830,8 @@
     <string name="hangup_sms_miui">Отклонить с SMS</string>
     <string name="ignore_miui">Отклонить</string>
     <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты</string>
+	<string name="in_calling">Вызов</string>
+    <string name="in_sms">Сообщение</string>
     <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_sim_entries_finish">Контакты с SIM импортированы успешно</string>
@@ -934,6 +937,8 @@
     <string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
     <string name="sliding_target_hint_miui">Сдвиньте вверх, для отклонения/отправки смс</string>
     <string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
+    <string name="sms_content">Содержание сообщения</string>
+    <string name="sms_sender">От</string>
     <string name="telocation_setting_miui">Настройки положения</string>
     <string name="telocation_show_settings_miui">Настройки отображения</string>
     <string name="telocation_setting_summary_teloc_on">Показывать местоположение</string>

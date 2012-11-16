@@ -28,7 +28,7 @@
   <string name="install_confirm_question_no_perms">Установить данное приложение? Ему не требуется специальных разрешений</string>
   <string name="install_confirm_question_update">Установить обновление для уже установленного приложения? Ваши данные не будут потеряны. Обновленное приложение получит доступ к:</string>
   <string name="install_confirm_question_update_system">Установить обновление для системного приложения? Ваши данные не будут потеряны. Обновленное приложение получит доступ к:</string>
-  <string name="install_done">Приложение установлено</string>
+  <string name="install_done">&lt;font color=#478800>Приложение успешно установлено&lt;/font></string>
   <string name="install_failed">Приложение не установлено</string>
   <string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
   <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
@@ -49,14 +49,14 @@
   <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
   <string name="out_of_space_dlg_title">Недостаточно места</string>
   <string name="privacyPerms">Конфиденциальность</string>
-  <string name="safe_guard_support">Техническая поддержка: %1$s</string>
+  <string name="safe_guard_support">Техподдержка: %1$s</string>
   <string name="security_settings_desc">Разрешения приложения:</string>
   <string name="settings">Настройки</string>
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
   <string name="uninstall_application_text">Приложение будет удалено</string>
   <string name="uninstall_application_title">Удаление приложения</string>
-  <string name="uninstall_done">Удаление завершено</string>
-  <string name="uninstall_failed">Ошибка при удалении</string>
+  <string name="uninstall_done">&lt;font color=#478800>Удаление успешно завершено&lt;/font></string>
+  <string name="uninstall_failed">&lt;font color=#DF0000>Ошибка при удалении&lt;/font></string>
   <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования усройства</string>
   <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
   <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>

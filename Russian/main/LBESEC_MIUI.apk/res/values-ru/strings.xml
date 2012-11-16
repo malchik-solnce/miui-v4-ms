@@ -159,7 +159,7 @@
     <string name="Dashboard_Perm_HIPS_Desc2">Управление %1$d приложениями на безопасность и конфиденциальность</string>
     <string name="Dashboard_Perm_HIPS_Disabled">Управление разрешениями отключено</string>
     <string name="Dashboard_Perm_HIPS_Risky">Разрешения с риском (%1$d)</string>
-    <string name="Dashboard_Perm_HIPS_Safe">&lt;font color=#478800>Разрешения (%1$d)&lt;/font></string>
+    <string name="Dashboard_Perm_HIPS_Safe">Разрешения (%1$d)</string>
     <string name="Dashboard_Perm_AutoStart_Switch">Управление автозагрузкой</string>
     <string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>

@@ -48,8 +48,8 @@
     <string name="custom_carrier_summary">Use a customised carrier label</string>
     <string name="custom_carrier_label_title">Пользовательский текст</string>
     <string name="custom_carrier_label_summary">Define a custom string to use as your carrier label</string>
-    <string name="carrier_logo_title">Carrier Logo</string>
-    <string name="carrier_logo_summary">Show a logo instead of text for the carrier</string>
+    <string name="carrier_logo_title">Логотип оператора</string>
+    <string name="carrier_logo_summary">Показывать логотип оператора, вместо текста</string>
     <string name="cpu_settings">Управление CPU</string>
     <string name="cpu_summary">Точная настройка параметров процессора</string>
     <string name="cpu_governor">Governor</string>
@@ -62,7 +62,7 @@
     <string name="cpu_ksm_summary">Ksm reduces physical memory requirements and improves performance</string>
     <string name="cpu_zram_title">zRam</string>
     <string name="cpu_zram_summary">"Сжатие памяти для увеличения виртуальной емкости
-Активные настройки: "</string>
+Текущие настройки: "</string>
     <string name="cpu_set_on_boot">Автозагрузка</string>
     <string name="cpu_set_on_boot_summary">Применять настройки автоматически после перезагрузки</string>
     <string name="rom_info">Информация о прошивке</string>
@@ -101,8 +101,8 @@
     <string name="terminal_summary">Доступ к оболочке системы Android для продвинутых команд</string>
     <string name="development_settings">Development Settings</string>
     <string name="development_summary">Be careful, developers only!</string>
-    <string name="device_tests_settings">Device Tests</string>
-    <string name="device_tests_summary">Diagnose faulty hardware and check core system functionality</string>
+    <string name="device_tests_settings">Тесты устройства</string>
+    <string name="device_tests_summary">Диагностика неисправного оборудования и проверка базовой функциональности системы</string>
 	<string name="device_tests_settings_sony">Сервисное меню</string>
 	<string name="device_tests_summary_sony">Запуск сервисного меню Xperia. Обратите внимание, что не все функции работают на не офф прошивках.</string>
     <string name="equaliser_settings">Эквалайзер</string>
@@ -117,11 +117,11 @@
     <string name="battery_info_summary" />
     <string name="phone_info">Информация о телефоне</string>
     <string name="phone_info_summary" />
-    <string name="wifi_testing">Wi-Fi Information</string>
+    <string name="wifi_testing">Информация Wi-Fi</string>
     <string name="wifi_testing_summary" />
-    <string name="usage_statistics">Usage Statistics</string>
+    <string name="usage_statistics">Статистика трафика</string>
     <string name="usage_statistics_summary" />
-    <string name="fuel_gauge">Battery Usage</string>
+    <string name="fuel_gauge">Использование батареи</string>
     <string name="fuel_gauge_summary" />
     <string name="legacy_ums_file">/sys/devices/platform/msm_hsusb/gadget/lun0/file</string>
     <string name="legacy_ums_file_onex">/sys/devices/platform/fsl-tegra-udc/gadget/lun0/file</string>

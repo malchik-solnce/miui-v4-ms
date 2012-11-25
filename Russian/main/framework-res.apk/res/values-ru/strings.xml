@@ -281,6 +281,7 @@
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Выключить</string>
+  <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
   <string name="global_action_toggle_silent_mode">Режим без звука</string>
@@ -1102,7 +1103,7 @@
   <string name="sim_added_title">SIM-карта добавлена</string>
   <string name="sim_done_button">Готово</string>
   <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
-  <string name="sim_removed_title">SIM-карта удалена</string>
+  <string name="sim_removed_title">SIM карта отсутствует</string>
   <string name="sim_restart_button">Перезапуск</string>
   <string name="sipAddressTypeCustom">Особый</string>
   <string name="sipAddressTypeHome">Домашний</string>

@@ -144,4 +144,5 @@
     <string name="no_url">Не удалось найти адрес загрузки</string>
     <string name="download_apk_no_sdk_title">SD-карта не найдена</string>
     <string name="download_apk_no_sdk_content">Пожалуйста, установите SD-карту для установки игры</string>
+	<string name="loading">Загрузка HD картинки…</string>
 </resources>

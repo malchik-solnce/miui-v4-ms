@@ -143,13 +143,14 @@
   <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
   <string name="error_console_header_text_maximized">Консоль JavaScript</string>
   <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
-  <string name="exit_browser_warning">Выйти из браузера?</string>
+  <string name="exit_browser_warning">Вы действительно хотите выйти из браузера?</string>
   <string name="export_bookmark">Экспорт закладок</string>
   <string name="export_bookmark_failure">Ошибка! Закладки не были экспортированы на SD-карту</string>
   <string name="export_bookmark_sucess">Закладки с успехом экспортированы на SD-карту!</string>
   <string name="exported_bookmark_file_name">Мое избранное</string>
   <string name="file_picker_new_folder">Новая папка</string>
   <string name="file_picker_sdcard_not_found">SD-карта не найдена, пожалуйста, проверьте, подключено ли устройство к ПК</string>
+  <string name="find_on_page">Найти на странице</string>
   <string name="folder_name">Имя папки</string>
   <string name="forward">Вперед</string>
   <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
@@ -207,7 +208,7 @@
   <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
   <string name="menu_disable_night_mode">Отключить ночной режим</string>
   <string name="menu_enable_night_mode">Включить ночной режим</string>
-  <string name="menu_exit">Выход</string>
+  <string name="menu_exit">Выйти</string>
   <string name="menu_preferences">Настройки</string>
   <string name="menu_save_snapshot">Сохранить страницу</string>
   <string name="menu_share_url">Отправить</string>
@@ -403,6 +404,7 @@
   <string name="search_hint">Введите условия поиска или URL-адрес</string>
   <string name="search_label">Браузер</string>
   <string name="search_settings_description">Закладки и история поиска</string>
+  <string name="search_sogou">Segou</string>
   <string name="search_the_web">Поиск в Интернете</string>
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Угроза безопасности</string>

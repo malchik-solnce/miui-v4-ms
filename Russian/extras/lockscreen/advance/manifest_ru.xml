@@ -8,6 +8,36 @@
 
     <Var name="offset_x" expression="ifelse(le(#unlocker.move_dist,#inner_r), #unlocker.move_x, #unlocker.move_x*#inner_r/#unlocker.move_dist)"/>
     <Var name="offset_y" expression="ifelse(le(#unlocker.move_dist,#inner_r), #unlocker.move_y, #unlocker.move_y*#inner_r/#unlocker.move_dist)"/>
+	
+	<Image name="1" x="0" y="0" src="Clouds_1.png" >
+        <PositionAnimation>
+		    <Position x="0" y="0" time="0"/>
+            <Position x="0" y="50" time="1000"/>
+			<Position x="10" y="150" time="3000"/>
+			<Position x="0" y="250" time="5000"/>
+			<Position x="10" y="350" time="7000"/>
+			<Position x="0" y="450" time="9000"/>
+			<Position x="10" y="550" time="11000"/>
+			<Position x="0" y="650" time="13000"/>
+			<Position x="10" y="750" time="15000"/>
+			<Position x="0" y="850" time="17000"/>
+        </PositionAnimation>
+	    </Image>
+		
+	<Image name="2" x="0" y="0" src="Clouds_1.png" >
+        <PositionAnimation>
+		    <Position x="0" y="-854" time="0"/>
+            <Position x="0" y="-804" time="1000"/>
+			<Position x="10" y="-704" time="3000"/>
+			<Position x="0" y="-604" time="5000"/>
+			<Position x="10" y="-504" time="7000"/>
+			<Position x="0" y="-404" time="9000"/>
+			<Position x="10" y="-304" time="11000"/>
+			<Position x="0" y="-204" time="13000"/>
+			<Position x="10" y="-104" time="15000"/>
+			<Position x="0" y="-4" time="17000"/>
+        </PositionAnimation>
+	    </Image>
 
     <VariableBinders>
         <ContentProviderBinder uri="content://call_log/calls" columns="date,number,name,type" order="date DESC" where="type=3 AND new=1" countName="call_count">
@@ -820,5 +850,25 @@
 		<Mask x="-126+#volume_bar_x_offset" y="#volume_bar_y-5" src="volume_mask.png" align="absolute"/>
 	</Image>
      </Group>
+	 
+	 </Image>
+	<Image name="3" x="0" y="0" src="Clouds_2.png" >
+        <PositionAnimation>
+		    <Position x="0" y="-854" time="0"/>
+            <Position x="10" y="-640" time="2000"/>
+			<Position x="0" y="-426" time="4000"/>
+			<Position x="10" y="-213" time="6000"/>
+			<Position x="0" y="0" time="8000"/>
+        </PositionAnimation>
+	    </Image>			
+	<Image name="4" x="0" y="0" src="Clouds_2.png" >
+        <PositionAnimation>
+		    <Position x="0" y="0" time="0"/>
+            <Position x="10" y="214" time="2000"/>
+			<Position x="0" y="426" time="4000"/>
+			<Position x="10" y="640" time="6000"/>
+			<Position x="0" y="854" time="8000"/>
+        </PositionAnimation>
+	    </Image>
     
 </Lockscreen>

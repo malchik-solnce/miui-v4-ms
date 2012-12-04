@@ -44,7 +44,7 @@
   <string name="resource_comment_edit_comment_waiting">Проверка ваших ответов к этой теме</string>
   <string name="resource_comment_edit_text_default">Напишите комментарий</string>
   <string name="resource_comment_edit_title">Комментарий к: %1$s</string>
-  <string name="resource_comment_entry_tips">Отзывов: %1$s, нажмите, чтобы посмотреть</string>
+  <string name="resource_comment_entry_tips">Отзывов: %1$s. Нажмите, чтобы посмотреть.</string>
   <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
   <string name="resource_comment_name_default">Пользователь %1$s</string>
   <string name="resource_comment_no_comment">Нет комментариев</string>

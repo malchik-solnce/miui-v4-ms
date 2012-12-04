@@ -144,7 +144,7 @@
   <string name="notif_server_starting">Синхронизация включена</string>
   <string name="notif_title">Обмен файлами включен</string>
   <string name="nowifi_notication">Все задачи приостановлены на мобильную сеть</string>
-  <string name="operation_cancel">Нет</string>
+  <string name="operation_cancel">Отмена</string>
   <string name="operation_cancel_selectall">Снять выделение</string>
   <string name="operation_compress">Архивация</string>
   <string name="operation_compressing">Архивация...</string>
@@ -152,7 +152,7 @@
   <string name="operation_copy_path">Копировать путь</string>
   <string name="operation_create_folder">Новая папка</string>
   <string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
-  <string name="operation_decompressing">Распаковка...</string>
+  <string name="operation_decompressing">Распаковка архива...</string>
   <string name="operation_delete">Удалить</string>
   <string name="operation_delete_confirm_message">Подтверждение удаления</string>
   <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней</string>

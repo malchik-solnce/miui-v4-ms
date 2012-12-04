@@ -466,7 +466,7 @@
   <string name="timed_message_to">для</string>
   <string name="title_date_type">Дата сообщения</string>
   <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
-  <string name="to_address_label">"Кому: "</string>
+  <string name="to_address_label">"Получатель: "</string>
   <string name="to_count">Всего: %d</string>
   <string name="to_hint">Кому:</string>
   <string name="to_label">Кому:</string>

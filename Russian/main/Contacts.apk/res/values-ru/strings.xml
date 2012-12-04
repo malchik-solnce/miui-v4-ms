@@ -249,9 +249,9 @@
   <string formatted="false" name="fail_reason_could_not_open_file">Не удалось открыть файл \"%s\". Причина: %s</string>
   <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s</string>
   <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
-  <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой</string>
+  <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
   <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта</string>
-  <string name="fail_reason_not_supported">Формат не поддерживается.</string>
+  <string name="fail_reason_not_supported">Формат не поддерживается</string>
   <string name="fail_reason_too_long_filename">Слишком длинное название: %s</string>
   <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
   <string name="fail_reason_unknown">Неизвестная ошибка</string>
@@ -302,7 +302,7 @@
   <string name="keep_local">Сохранить локально</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_merge">Объединено</string>
-  <string name="label_no_duplicate_contacts">Отлично! На данный момент нет дубликатов контактов!</string>
+  <string name="label_no_duplicate_contacts">На данный момент нет дубликатов контактов!</string>
   <string name="label_notes">Примечания</string>
   <string name="label_sip_address">Интернет вызов</string>
   <string name="launcherDialer">Телефон</string>
@@ -512,7 +512,7 @@
   <string name="pref_key_photo">Фотографии</string>
   <string name="pref_key_photo_word_summary" />
   <string name="pref_key_photo_word_title">Автоматический выбор фото для контактов</string>
-  <string name="pref_key_rebuild_t9_index_message">Обновление индекса контактов для поиска с помощью T9</string>
+  <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
   <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
   <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
   <string name="pref_title_account_import">Импорт из аккаунта</string>
@@ -522,7 +522,7 @@
   <string name="preference_import">Импорт</string>
   <string name="preference_import_export">Импорт/Экспорт</string>
   <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
-  <string name="preference_others">Другое</string>
+  <string name="preference_others">Другие</string>
   <string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
   <string name="preference_sim">SIM-карта</string>
   <string name="preference_smart_group_company_summary">Группировка контактов по информации о компании</string>
@@ -537,12 +537,12 @@
   <string name="private_num">Скрытый номер</string>
   <string name="profile_display_name">Настроить профиль</string>
   <string formatted="false" name="progress_notifier_message">Импорт %s/%s: %s</string>
-  <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении.</string>
+  <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
   <string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
-  <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов. Нажмите для выбора и редактирования контакта"</string>
+  <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов. Нажмите для выбора и редактирования контакта."</string>
   <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена.</string>
   <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
   <string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
   <string name="recentCallsIconLabel">История звонков</string>
@@ -601,7 +601,7 @@
   <string name="sim_contacts">Контакты на SIM</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
-  <string name="sim_export_loading">SIM-карта считываются. Операция может занять несколько минут, пожалуйста, подождите</string>
+  <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите...</string>
   <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
   <string name="sim_no_contact">Нет контактов на SIM-карте</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s</string>

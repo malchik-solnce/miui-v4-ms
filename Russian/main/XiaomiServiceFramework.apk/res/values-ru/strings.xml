@@ -17,13 +17,14 @@
   <string name="alipay_error_install">Установка мобильной безопасности плагина Alipay не удалась!</string>
   <string name="alipay_error_msp">Добавление новых кредитов не удалась!</string>
   <string name="alipay_msp_not_installed">Плагин безопастности Alipay не установлен, установите его сейчас?</string>
-  <string name="alipay_picker_hint">Пожалуйста, выберите количество кредитов Mi для пополнения:</string>
+  <string name="alipay_picker_hint">Пожалуйста, выберите количество кредитов Mi для пополнения</string>
   <string name="app_name">Менеджер аккаунтов Xiaomi</string>
   <string name="bad_authentication">Неверный пароль или имя пользователя</string>
   <string name="balance">Баланс: %1$s MiCredit</string>
   <string name="basic_info">Общая информация</string>
   <string name="btn_activate">Активировать</string>
   <string name="btn_back">Назад</string>
+  <string name="btn_call">Позвонить</string>
   <string name="btn_query">Узнать сейчас</string>
   <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
   <string name="btn_recharge_large">Пополнить</string>
@@ -149,6 +150,7 @@
   <string name="prev">Назад</string>
   <string name="progress_alipay_creating">Обработка запроса Alipay...</string>
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>
+  <string name="progress_connecting">Подключение...</string>
   <string name="progress_creating">Проверка покупки...</string>
   <string name="progress_error_common">Ошибка пополнения. Пожалуйста, попробуйте позже.</string>
   <string name="progress_error_contact_server">Ошибка сервера. Пожалуйста, свяжитесь с нашей партнерской компанией в Шэньчжоу по следующему номеру: 400-001-0195, и пожалуйста, укажите серийный номер: %1$s.</string>
@@ -166,6 +168,7 @@
   <string name="progress_submit_title">Запрос на пополнение подтвержден</string>
   <string name="progress_success_summary">Баланс: %1$s кредитов Mi</string>
   <string name="progress_success_title">Пополнено на %1$s кредитов Mi</string>
+  <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
   <string name="quick_login_title">Требуется вход в аккаунт, пожалуйста введите ваш пароль</string>
   <string name="recharge_alipay_summary">Пополнение Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>

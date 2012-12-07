@@ -968,6 +968,7 @@
     <string name="sim_contacts_title_miui">Контакты на SIM-карте</string>
     <string name="delete_sim_entry_miui">Удалить</string>
     <string name="confirm_delete_sim_entry_miui">Удалить %d выбранных контактов с SIM карты?</string>
+	<string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста, введите номер без кода страны</string>
     <string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
     <string name="import_all_sim_entry_miui">Импорт всех</string>

@@ -25,7 +25,7 @@
   <string name="F_MACRO">Макросъемка</string>
   <string name="F_PANFOCUS">Панорамный фокус</string>
   <string name="GPS_msg">GPS выкл</string>
-  <string name="HDRShot_message">Нажмите кнопку спуска затвора(HDR)</string>
+  <string name="HDRShot_message">Нажмите кнопку спуска затвора (HDR)</string>
   <string name="HDR_Helptext">При съемке фотографий не допускайте движения камеры</string>
   <string name="ISO_100">100</string>
   <string name="ISO_1600">1600</string>
@@ -187,12 +187,12 @@
   <string name="activate_reject">Отклоняю</string>
   <string name="add_photo_title">Добавить фото</string>
   <string name="app_name">Камера</string>
-  <string name="battery_overheat">Выключите камеру. Температура батареи слишком высока</string>
-  <string name="buffer_overflow_error_msg">Невозможно записать. Тип разрешения не поддерживается картой памяти</string>
+  <string name="battery_overheat">Выключите камеру. Температура батареи слишком высокая.</string>
+  <string name="buffer_overflow_error_msg">Невозможно записать. Тип разрешения не поддерживается картой памяти.</string>
   <string name="camcorder_label">Видеокамера</string>
   <string name="camera_label">Камера</string>
   <string name="camera_security_enter">Политика безопасности ограничивает использование камеры</string>
-  <string name="camera_security_exit">Политика безопасности ограничивает использование камеры. Выход из Камеры</string>
+  <string name="camera_security_exit">Политика безопасности ограничивает использование камеры. Выйдите из камеры.</string>
   <string name="camera_set">Установить как</string>
   <string name="camera_share">Отправить</string>
   <string name="camera_toss">Удалить</string>

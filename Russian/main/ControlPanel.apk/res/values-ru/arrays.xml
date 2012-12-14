@@ -16,17 +16,17 @@
         <item>Самая медленная</item>
     </string-array>
     <string-array name="entries_overscroll_type">
-        <item>None</item>
-        <item>Glow</item>
-        <item>Bounce</item>
-        <item>Bounce &amp;amp; Glow</item>
+        <item>Никакая</item>
+        <item>Свет</item>
+        <item>Отскок</item>
+        <item>Отскок и свет</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
         <item>Extra Heavy</item>
         <item>Heavy</item>
-        <item>Medium</item>
-        <item>Light</item>
-        <item>Extra Light</item>
+        <item>Средняя</item>
+        <item>Легкая</item>
+        <item>Очень легкая</item>
     </string-array>
     <string-array name="entries_status_styles">
         <item>В центре</item>

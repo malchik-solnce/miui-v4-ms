@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Control Panel</string>
+    <string name="app_label">Контроль панель</string>
     <string name="personal_tab">Личные</string>
     <string name="system_tab">Системные</string>
     <string name="advanced_tab">Расширенные</string>
     <string name="menu_refresh">Обновить</string>
     <string name="progress_wait">Пожалуйста, подождите..</string>
-    <string name="progress_cpu_working">Чтение настройек CPU..</string>
+    <string name="progress_cpu_working">Чтение настройек ЦП..</string>
     <string name="progress_storage_working">Чтение настроек хранилищ..</string>
     <string name="progress_info_working">Чтение информации о прошивке..</string>
     <string name="no_root">"Приложение не получило привилегии суперпользователя.
@@ -44,7 +44,7 @@
     <string name="carrier_label_category">Логотип оператора</string>
     <string name="show_carrier_title">Показывать логотип</string>
     <string name="show_carrier_summary">Показать лого оператора в строке состояния</string>
-    <string name="custom_carrier_title">Use Custom Label</string>
+    <string name="custom_carrier_title">Использовать свой логотип</string>
     <string name="custom_carrier_summary">Use a customised carrier label</string>
     <string name="custom_carrier_label_title">Пользовательский текст</string>
     <string name="custom_carrier_label_summary">Define a custom string to use as your carrier label</string>
@@ -53,7 +53,7 @@
     <string name="cpu_settings">Управление CPU</string>
     <string name="cpu_summary">Точная настройка параметров процессора</string>
     <string name="cpu_governor">Governor</string>
-    <string name="cpu_governor_unavailable">Your current kernel does not support changing the CPU governor</string>
+    <string name="cpu_governor_unavailable">Ваше текущее ядро ​​не поддерживает изменение Governor процессора</string>
     <string name="cpu_min_freq">Минимальная частота</string>
     <string name="cpu_min_disabled">Ваше текущее ядро ​​не поддерживает изменение минимальной частоты процессора</string>
     <string name="cpu_max_freq">Максимальная частота</string>
@@ -71,11 +71,11 @@
     <string name="rom_info_syspart">System Partition:</string>
     <string name="rom_info_version">Версия:</string>
     <string name="rom_info_build_date">Дата сборки:</string>
-    <string name="rom_info_device">Device:</string>
-    <string name="rom_info_manufacturer">Manufacturer:</string>
-    <string name="rom_info_platform">Platform:</string>
+    <string name="rom_info_device">Устройство:</string>
+    <string name="rom_info_manufacturer">Производитель:</string>
+    <string name="rom_info_platform">Платформа:</string>
     <string name="rom_info_api_level">API Level:</string>
-    <string name="rom_info_cpu_type">Тип CPU:</string>
+    <string name="rom_info_cpu_type">Тип ЦП:</string>
     <string name="rom_info_cpu_general">CPU General:</string>
     <string name="rom_info_lcd_density">LCD Density:</string>
     <string name="rom_info_dalvik_heapsize">Dalvik Heapsize:</string>
@@ -89,8 +89,8 @@
     <string name="storage_buffer_summary">Increasing read ahead can improve read times, experiment to find the best value</string>
     <string name="storage_internal">Internal Partitions</string>
     <string name="storage_external">SD Card Partitions</string>
-    <string name="storage_set_on_boot">Set On Boot</string>
-    <string name="storage_set_on_boot_summary">Apply scheduler and read-ahead settings automatically after reboot</string>
+    <string name="storage_set_on_boot">Автозаргузка</string>
+    <string name="storage_set_on_boot_summary">Применить настройки планировщика и опережающее чтение автоматически после перезагрузки</string>
     <string name="applying_pref">Применение предпочтений...</string>
     <string name="dual_mount">Dual Mount SD Card</string>
     <string name="dual_mount_warning_summary">Используйте с осторожностью</string>

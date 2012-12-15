@@ -112,7 +112,8 @@
   <string name="theme_import_success">Импорт тем завершен</string>
   <string name="theme_importing">Импортирование темы…</string>
   <string name="theme_is_imported">Тема импортирована</string>
-  <string name="theme_pick_import_fail">Ошибка импорта</string>
+  <string name="theme_import_data">Импорт информации</string>
+  <string name="theme_import_fail">Ошибка импорта %1$s</string>
   <string name="theme_sdcard_importing">Импортирование</string>
   <string name="theme_select_others">Прочее</string>
   <string name="theme_update_request_content">Необходим новый формат темы. Обновление может занять некоторое время, интернет не требуется. Нажмите OK для обновления.</string>

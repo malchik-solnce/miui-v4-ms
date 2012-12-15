@@ -565,6 +565,9 @@
   <string name="status_bar_toggle_lock">Блокировка</string>
   <string name="status_bar_toggle_mute">Без звука</string>
   <string name="status_bar_toggle_network_type">Тип сети</string>
+  <string name="status_bar_toggle_power_high">Производительность</string>
+  <string name="status_bar_toggle_power_low">Энергосбережение</string>
+  <string name="status_bar_toggle_power_mid">Сбалансированный</string>
   <string name="status_bar_toggle_power_mode">Режим питания</string>
   <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
@@ -578,9 +581,6 @@
   <string name="status_bar_toggle_sync_auto">Автосинхрон.</string>
   <string name="status_bar_toggle_sync_manual">Ручная синхр.</string>
   <string name="status_bar_toggle_syncing">Синхронизация</string>
-  <string name="status_bar_toggle_power_low">Энергосбережение</string>
-  <string name="status_bar_toggle_power_mid">Обычный</string>
-  <string name="status_bar_toggle_power_high">Производительность</string>
   <string name="status_bar_toggle_torch">Фонарик</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>

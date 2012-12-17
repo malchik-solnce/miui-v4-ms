@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reboot_type_array_desc">
+        <item>Обычная</item>
+        <item>CWM</item>
+        <item>OpenRecoveryScript</item>
+        <item>4EXT</item>
+    </string-array>
+	<string-array name="check_rom_time_array">
+        <item>Каждый час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 3 часа</item>
+        <item>Каждые 5 часов</item>
+        <item>Каждые 10 часов</item>
+        <item>Каждые 12 часов</item>
+        <item>Каждые 24 часа</item>
+    </string-array>
+</resources>

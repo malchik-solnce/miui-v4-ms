@@ -58,9 +58,10 @@
   <string name="empty" />
   <string name="finish_traffic_settings_hint">Настройки сохранены!</string>
   <string name="finish_traffic_settings_message">"Использовано %s трафика. Данные верны? 
-Если нет, то вы можете настроить ниже"</string>
+Если нет, то вы можете настроить ниже."</string>
   <string name="finish_traffic_settings_title">Настроить</string>
   <string name="fire_rule_program_list">Список приложений</string>
+  <string name="fire_wall_is_closed">Брэндмауер не включен</string>
   <string name="force_stop_dlg_text">Завершение приложения может вызвать ошибки</string>
   <string name="force_stop_dlg_title">Завершить?</string>
   <string name="i_known_button">OK</string>

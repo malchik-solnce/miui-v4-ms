@@ -4,13 +4,19 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="altitude">Высота %.1f метров</string>
   <string name="app_label">Компас</string>
+  <string name="calibrate_failed_no_location">Ошибка калибрации: Невозможно получить данные</string>
+  <string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
   <string name="calibrate_success">Калибрация завершена</string>
   <string name="cannot_get_location">Невозможно получить данные о вашем местоположении</string>
+  <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
   <string name="getting_location">Поиск местоположения...</string>
   <string name="location_east">%s В</string>
   <string name="location_north">%s С</string>
   <string name="location_south">%s Ю</string>
   <string name="location_west">%s З</string>
+  <string name="longitude">LON</string>
+  <string name="menu_calibrate">Калибровать</string>
+  <string name="menu_calibrate_altitude">Калибрация высоты</string>
   <string name="meter">Барометр</string>
   <string name="pressure">Давление %.1f гПа</string>
 </resources>

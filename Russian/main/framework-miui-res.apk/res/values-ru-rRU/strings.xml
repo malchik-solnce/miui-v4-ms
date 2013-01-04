@@ -320,9 +320,9 @@
   <string name="description_missed">Не указано</string>
   <string name="description_modifiedtime">Изменено:</string>
   <string name="description_size">Размер:</string>
-  <string name="description_summary">Информация:</string>
+  <string name="description_summary">Инфа:</string>
   <string name="description_unknown">Неизвестный</string>
-  <string name="description_uploadtime">Загружено:</string>
+  <string name="description_uploadtime">Релиз:</string>
   <string name="description_version">Версия:</string>
   <string name="dial_number_using">"Вызвать
 используя %s"</string>

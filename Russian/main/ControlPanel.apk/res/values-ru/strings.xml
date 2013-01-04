@@ -26,12 +26,12 @@
 	<string name="hide_clock_title">Скрыть часы</string>
     <string name="hide_clock_summary">Убрать часы в статус-баре</string>
     <string name="overscroll_effect_title">Эффект прокрутки</string>
-    <string name="overscroll_weight_title">Overscroll Weight</string>
+    <string name="overscroll_weight_title">Легкость прокрутки</string>
     <string name="onscreenkeys_category">Экранные кнопки</string>
     <string name="onscreenkeys_title">Показывать клавиши</string>
     <string name="onscreenkeys_summary">Включить панель навигации на экране</string>
-    <string name="navigation_height_portrait_title">Portrait Navigation Bar Height</string>
-    <string name="navigation_height_landscape_title">Landscape Navigation Bar Width</string>
+    <string name="navigation_height_portrait_title">Высота нав. бар в портрете</string>
+    <string name="navigation_height_landscape_title">Ширина нав. бара в ландшафте</string>
     <string name="onscreenkeys_summary_disabled">Недоступно на вашем устройстве</string>
     <string name="onscreenkeys_custom">Настройка клавиш</string>
     <string name="window_animations_title">Анимация окон</string>
@@ -47,7 +47,7 @@
     <string name="custom_carrier_title">Использовать свой логотип</string>
     <string name="custom_carrier_summary">Use a customised carrier label</string>
     <string name="custom_carrier_label_title">Пользовательский текст</string>
-    <string name="custom_carrier_label_summary">Define a custom string to use as your carrier label</string>
+    <string name="custom_carrier_label_summary">Введите свой текст в качестве логотипа оператора</string>
     <string name="carrier_logo_title">Логотип оператора</string>
     <string name="carrier_logo_summary">Показывать логотип оператора, вместо текста</string>
     <string name="cpu_settings">Управление CPU</string>

@@ -87,6 +87,8 @@
   <string name="compat_mode_help_header">Масштаб и совместимость</string>
   <string name="compat_mode_off">Растянуть на весь экран</string>
   <string name="compat_mode_on">Подогнать по размерам экрана</string>
+  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
+  <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
   <string name="data_usage_disabled_dialog">"Достигнут лимит трафика.
 
 При восстановлении подключения оператор может взимать плату за передачу данных"</string>
@@ -204,7 +206,7 @@
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настроить способы ввода</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
-  <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
+  <string name="status_bar_network_flow">"Сегодня: %1$s | Осталось: %2$s | Всего: %3$s"</string>
   <string name="status_bar_network_flow_exceed">"Сегодня: %1$s | Осталось: %2$s"</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_name_separator">" "</string>

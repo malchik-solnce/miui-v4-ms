@@ -40,7 +40,7 @@
   <string name="bookmark">Избранные</string>
   <string name="bookmark_attr_format">%1$s , %2$s</string>
   <string name="bookmark_confirm_delete_message">Удалить из избранного</string>
-  <string name="bookmark_list_title">Избранное</string>
+  <string name="bookmark_list_title">Избранное (%1$d)</string>
   <string name="cannot_add_picture_and_video">Нельзя добавить на слайд и картинку, и видео</string>
   <string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов.</string>
   <string name="cannot_forward_drm_obj">Нельзя переслать DRM-объект из этого сообщения</string>
@@ -151,9 +151,10 @@
   <string name="found_old_messages">"Найдены сообщения с предыдущего аккаунта на вашем телефоне:%1$s
 Вы хотите скопировать их в ваш аккаунт: %2$s?"</string>
   <string name="found_old_messages_title">Загрузка сообщений</string>
+  <string name="found_wild_messages">Найдено сообщений с других SIM-карт в облаке: %s. Вы хотите загрузить их?</string>
   <string name="found_wild_messages_title">Скачка сообщений</string>
   <string name="from_label">"От: "</string>
-  <string name="full_phrase">Не более 50 фраз</string>
+  <string name="full_phrase">Не более 50 символов</string>
   <string name="generating_mms_to_forward">Создание ответа...</string>
   <string name="group_message">Групповое сообщение</string>
   <string name="group_message_failed_title">Не удалось отправить %d, повторить попытку?</string>
@@ -228,10 +229,10 @@
   <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
   <string name="msg_type_hint_mx">Облачное сообщение</string>
   <string name="msg_type_hint_sms">Текстовое сообщение</string>
-  <string name="multi_select_title_conversation">Выбрано цепочек (%1$s )</string>
+  <string name="multi_select_title_conversation">Выбрано цепочек: %1$s</string>
   <string name="multi_select_title_conversation_init">Пожалуйста, выберите цепочки</string>
-  <string name="multi_select_title_message">Выбрать %1$s сообщение(я)</string>
-  <string name="multi_select_title_message_init">Пожалуйста выберите сообщение(я)</string>
+  <string name="multi_select_title_message">Выбрано сообщений: %1$s</string>
+  <string name="multi_select_title_message_init">Пожалуйста, выберите сообщение(я)</string>
   <string name="multimedia_message">Мультимедийное сообщение</string>
   <string name="multimedia_notification">Уведомление о MMS</string>
   <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
@@ -305,7 +306,7 @@
   <string name="pref_sms_storage_title">Настройки памяти</string>
   <string name="pref_sms_theme_title">Настройки темы</string>
   <string name="pref_summary_allow_3rd_mms">Разрешить мониторинг сообщений другими приложениями</string>
-  <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI / SL)</string>
+  <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
   <string name="pref_summary_auto_delete">Удалять старые сообщения по достижении макс. количества</string>
   <string name="pref_summary_delete_limit">Сообщений в цепочке: %1$s</string>
   <string name="pref_summary_delivery_reports">Запрос отчёта о доставке для каждого отправляемого сообщения</string>
@@ -415,7 +416,7 @@
   <string name="send">Отправить</string>
   <string name="send_signature_confirm_dialog_message">Вы не ввели текст содержания, вы хотите отправить его?</string>
   <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
-  <string name="send_to">Для:</string>
+  <string name="send_to">Для: %1$s</string>
   <string name="send_to_count">Успешно отправлено для %1$s</string>
   <string name="send_to_index_contact">Отправлено %1$s из %2$s...</string>
   <string name="sending_message">Отправка...</string>

@@ -274,7 +274,7 @@
     <string name="gsm_umts_network_preferences_title">Параметры сети GSM/UMTS</string>
     <string name="gsm_umts_network_preferneces_summary">Еще не реализовано!</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Настройки сети GSM/UMTS</string>
-    <string name="prefer_2g">Только сети 2G</string>
+    <string name="prefer_2g">Только 2G сети</string>
     <string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
@@ -889,6 +889,7 @@
     <string name="onscreen_tools_on_miui">Еще</string>
     <string name="other_settings_miui">Другие настройки вызовов</string>
     <string name="pin2_changed_miui">PIN2 успешно изменен</string>
+	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: ​​Вы ввели неверный ПИН-код или слишком длинное имя</string>
     <string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
     <string name="pin2_lock_warning_miui">"
 Обратите внимание, что PIN2 будет заблокирован при неудачной попытке!"</string>
@@ -975,8 +976,8 @@
     <string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
     <string name="cdma_three_way_calls_miui">Три способа вызова</string>
     <string name="cdma_conference_call_miui">Конференц-связь</string>
-    <string name="respond_via_sms_canned_response_1_miui">Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Я позвоню вам позже.</string>
-    <string name="respond_via_sms_canned_response_2_miui">Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Что я могу сделать для вас?</string>
+    <string name="respond_via_sms_canned_response_1_miui">Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Я позвоню Вам позже.</string>
+    <string name="respond_via_sms_canned_response_2_miui">Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Что я могу сделать для Вас?</string>
     <string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Позвоню позже.</string>
     <string name="respond_via_sms_canned_response_4_miui">Не могу говорить по телефону прямо сейчас. В чем дело?</string>
     <string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>
@@ -1001,15 +1002,15 @@
     <string name="missed_call_notify_times_summary_miui">По умолчанию, повтор каждые 5 минут</string>
     <string name="missed_call_notify_once">Один раз</string>
 	<string name="missed_call_notify_once_miui">Один раз</string>
-    <string name="missed_call_notify_twice">Два раза</string>
+    <string name="missed_call_notify_twice">Дважды</string>
 	<string name="missed_call_notify_twice_miui">Дважды</string>
     <string name="missed_call_notify_thrice">Три раза</string>
-	<string name="missed_call_notify_thrice_miui">3 раза</string>
+	<string name="missed_call_notify_thrice_miui">Три раза</string>
     <string name="missed_call_notify_five_times">Пять раз</string>
-    <string name="missed_call_notify_five_times_miui">5 раз</string>
+    <string name="missed_call_notify_five_times_miui">Пять раз</string>
     <string name="missed_call_notify_none_miui">Никогда</string>
     <string name="missed_call_notify_ten_times">Десять раз</string>
-	<string name="missed_call_notify_ten_times_miui">10 раз</string>
+	<string name="missed_call_notify_ten_times_miui">Десять раз</string>
     <string name="label_rn1dp">RUIM network1 unlock PIN</string>
     <string name="label_rn2dp">RUIM network2 unlock PIN</string>
     <string name="label_rhrpd">RUIM hrpd unlock PIN</string>
@@ -1061,7 +1062,7 @@
     <string name="set_sub_activate_failed">Активировать не удалось</string>
     <string name="sum_loading_settings">Загрузка настроек…</string>
     <string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки</string>
-    <string name="title_data_settings">Data Settings</string>
+    <string name="title_data_settings">Настройки данных</string>
     <string name="vibrate_on_ring_title">Вибрация при звонке</string>
     <string name="voicemail_notification_ringtone_title">Мелодия</string>
     <string name="t9_indexing_method_pinyin">Пиньинь</string>

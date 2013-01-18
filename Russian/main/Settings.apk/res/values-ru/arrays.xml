@@ -385,4 +385,13 @@
         <item>20 сек</item>	
         <item>Всегда</item>	
     </string-array>
+    <string-array name="screen_color_title">
+    	<item>Теплый</item>
+        <item>Натуральный</item>
+        <item>Холодный</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Яркий</item>
+        <item>Стандартный</item>
+    </string-array>
 </resources>

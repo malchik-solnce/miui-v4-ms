@@ -45,7 +45,7 @@
   <string name="accessibility_recent">Недавние приложения</string>
   <string name="accessibility_recents_item_dismissed">Приложение \"%s\" удалено из списка</string>
   <string name="accessibility_remove_notification">Удалить уведомление</string>
-  <string name="accessibility_ringer_silent">Режим Без звука</string>
+  <string name="accessibility_ringer_silent">Без звука</string>
   <string name="accessibility_ringer_vibrate">Вибровызов</string>
   <string name="accessibility_rotation_lock_off">Экран будет вращаться автоматически</string>
   <string name="accessibility_rotation_lock_on_landscape">Экран заблокирован в альбомной ориентации</string>
@@ -95,7 +95,7 @@
   <string name="data_usage_disabled_dialog_3g_title">Передача данных по каналам 2G и 3G отключена</string>
   <string name="data_usage_disabled_dialog_4g_title">Передача данных по каналу 4G отключена</string>
   <string name="data_usage_disabled_dialog_enable">Восстановить подключение</string>
-  <string name="data_usage_disabled_dialog_mobile_title">Моб. Интернет отключен</string>
+  <string name="data_usage_disabled_dialog_mobile_title">Моб. интернет отключен</string>
   <string name="data_usage_disabled_dialog_title">Передача данных отключена</string>
   <string name="default_usb_mode">Тип подключения по USB</string>
   <string name="description_direction_down">Сдвиньте вниз для %s</string>
@@ -137,7 +137,7 @@
   <string name="mount_storage">Как диск</string>
   <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
   <string name="move_data_to_sdcard_title">Перенос данных</string>
-  <string name="no_vibrate_hint">В соответствии с настройками, уведомление о входящем вызове и сообщения не будут вибрировать, включение это пункта не вызовет никакого действия</string>
+  <string name="no_vibrate_hint">В соответствии с настройками, уведомления о входящих вызовах и сообщениях не будут вибрировать. Включение этого пункта не вызовит никакого действия.string>
   <string formatted="false" name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
   <string name="notification_icon_filter">Настройки уведомлений</string>
   <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>

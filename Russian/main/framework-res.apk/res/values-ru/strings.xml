@@ -1089,7 +1089,7 @@
   <string name="serviceEnabled">Служба включена</string>
   <string name="serviceEnabledFor">Служба подключена для:</string>
   <string name="serviceErased">Удаление выполнено успешно</string>
-  <string name="serviceNotProvisioned">Услуга не предоставляется.</string>
+  <string name="serviceNotProvisioned">Услуга не предоставляется</string>
   <string name="serviceRegistered">Регистрация пройдена успешно</string>
   <string name="setup_autofill">Нужна настройка</string>
   <string name="sha1_fingerprint">Отпечаток SHA-1:</string>
@@ -1127,7 +1127,7 @@
   <string name="status_bar_notification_info_overflow">&gt;999</string>
   <string name="storage_internal">Внутренняя память</string>
   <string name="storage_sd_card">Карта памяти</string>
-  <string name="storage_usb">Телефон</string>
+  <string name="storage_usb">Память телефона</string>
   <string name="submit">Отправить</string>
   <string name="switch_off">Отключено</string>
   <string name="switch_on">Включено</string>
@@ -1260,7 +1260,7 @@
   <string name="zzz_tts_temp_celsius">Цельсий</string>
   <string name="zzz_tts_temp_fahrenheit">Фаренгейт</string>
   <string name="zzz_tts_temperature">Градус</string>
-  <string name="volume_warning_message">Громкая музыка может нанести вред вашему слуху, при прослушивании в течение длительного времени</string>
+  <string name="volume_warning_message">Громкая музыка может нанести вред Вашему слуху, при прослушивании в течение длительного времени</string>
   <string name="zzz_tts_lockscreen_time_24H">%1$d %2$d</string>
   <string name="glasslock_music_widget_unkown">unkown</string>
   <string name="clipboard_copied_to_clipboard">Скопировано в буфер обмена</string>

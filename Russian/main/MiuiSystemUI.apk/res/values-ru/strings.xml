@@ -137,7 +137,7 @@
   <string name="mount_storage">Как диск</string>
   <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
   <string name="move_data_to_sdcard_title">Перенос данных</string>
-  <string name="no_vibrate_hint">В соответствии с настройками, уведомления о входящих вызовах и сообщениях не будут вибрировать. Включение этого пункта не вызовит никакого действия.string>
+  <string name="no_vibrate_hint">В соответствии с настройками, уведомления о входящих вызовах и сообщениях не будут вибрировать. Включение этого пункта не вызовит никакого действия.</string>
   <string formatted="false" name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
   <string name="notification_icon_filter">Настройки уведомлений</string>
   <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>

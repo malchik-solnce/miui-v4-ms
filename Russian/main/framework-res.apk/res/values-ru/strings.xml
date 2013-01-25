@@ -457,6 +457,10 @@
   <string name="low_internal_storage_view_text">Заканчивается место в памяти телефона</string>
   <string name="low_internal_storage_view_title">Недостаточно места</string>
   <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место.</string>
+  <string name="managed_roaming_title">Управление роумингом</string>
+  <string name="managed_roaming_dialog_content">Найдена сеть с ограниченным сервисом. Вы хотите начать поиск сети?</string>
+  <string name="managed_roaming_dialog_ok_button">Да</string>
+  <string name="managed_roaming_dialog_cancel_button">Отмена</string>
   <string name="me">Я</string>
   <string name="media_bad_removal">SD-карта была извлечена до отключения</string>
   <string name="media_checking">Выполняется проверка SD-карты</string>
@@ -1122,8 +1126,8 @@
   <string name="status_bar_device_locked">Устройство заблокировано</string>
   <string name="status_bar_notification_info_overflow">&gt;999</string>
   <string name="storage_internal">Внутренняя память</string>
-  <string name="storage_sd_card">SD-карта</string>
-  <string name="storage_usb">USB-накопитель</string>
+  <string name="storage_sd_card">Карта памяти</string>
+  <string name="storage_usb">Телефон</string>
   <string name="submit">Отправить</string>
   <string name="switch_off">Отключено</string>
   <string name="switch_on">Включено</string>

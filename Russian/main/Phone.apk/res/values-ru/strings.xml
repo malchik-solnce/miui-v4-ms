@@ -160,8 +160,8 @@
     <string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже.</string>
     <string name="registration_done">Регистрация в сети завершена</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
-    <string name="sum_search_networks">Поиск всех доступных сетей</string>
-    <string name="select_automatically">Выбирать автоматически</string>
+    <string name="sum_search_networks">Поиск всех доступных сетей...</string>
+    <string name="select_automatically">Автоматически</string>
     <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
     <string name="register_automatically">Автоматическая регистрация...</string>
     <string name="preferred_network_mode_title">Режим сети</string>
@@ -993,11 +993,11 @@
     <string name="turn_off_auto_select_warning_message_miui">После отключения этой опции, будет использоваться сеть выбранная вручную, без регистрации в других сетях</string>
     <string name="turn_off_auto_select_confirm_message_miui">Сигнал и сеть могут быть недоступны, вы уверены, что хотите отключить эту опцию?</string>
     <string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>
-    <string name="sum_select_automatically_option_miui">Автовыбор предпочтительной сети, %s</string>
+    <string name="sum_select_automatically_option_miui">Автом. выбор предпочтительной сети, %s</string>
     <string name="register_network_failed_title_miui">Услуга не предоставляется</string>
     <string name="register_network_failed_message_miui">Не удается зарегистрироваться в выбранной сети, выбрать предпочтительную сеть автоматически?</string>
     <string name="next_miui">Далее</string>
-	<string name="turn_off_miui">turn-off</string>
+	<string name="turn_off_miui">отключено</string>
     <string name="missed_call_notify_times_title_miui">Напом. о пропущенных вызовах</string>
     <string name="missed_call_notify_times_summary_miui">По умолчанию повтор каждые 5 минут</string>
     <string name="missed_call_notify_once">Один раз</string>

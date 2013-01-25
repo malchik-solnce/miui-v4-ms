@@ -246,22 +246,6 @@
         <item>Максимум 3 процесса</item>
         <item>Максимум 4 процесса</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
-    </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
         <item>Инициализация…</item>

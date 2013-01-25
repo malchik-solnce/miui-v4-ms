@@ -25,6 +25,7 @@
   <string name="aggregation_suggestion_join_dialog_title">Объединить контакты</string>
   <string name="attach_photo_dialog_title">Фотография контакта</string>
   <string name="audio_chat">Голосовой чат</string>
+  <string name="auto_nickname">Авто</string>
   <string name="batch_delete_msg">"Удалить (%d) выбранных контактов? Контакты в облаке тоже будут удалены!"</string>
   <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
   <string name="btn_finished">Готово</string>
@@ -563,6 +564,7 @@
   <string name="remind_btn_not_remind">Не напоминать</string>
   <string name="remind_btn_sync_now">Сейчас</string>
   <string name="removePhoto">Удалить фото</string>
+  <string name="restore_nickname">Восстановить</string>
   <string name="ringLabelsGroup">Рингтон</string>
   <string name="save_photo_progress">Сохранение фото...</string>
   <string name="savingContact">Сохранение контакта...</string>
@@ -581,7 +583,7 @@
   <string name="searching_vcard_title">Поиск vCard</string>
   <string name="select_all">Выбрать все</string>
   <string name="select_new_photo_from_photo_package">Выберите фотографию из пакета фотографий</string>
-  <string name="select_none">Выберите хотя бы 1 контакт</string>
+  <string name="select_none">Выберите хотя бы один контакт</string>
   <string name="select_photo_from_photo_package">Выберите фотографию из пакета фотографий</string>
   <string name="select_show_contacts">Отображение контактов</string>
   <string name="select_vcard_title">Выбор файла vCard</string>

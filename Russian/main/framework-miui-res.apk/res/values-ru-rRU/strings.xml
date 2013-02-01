@@ -50,6 +50,7 @@
     <string name="lockscreen_unlock_sim_via_puk">Используйте PUK чтобы разблокировать SIM-карту</string>
     <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
     <string name="miui_copyright_title">Авторское право</string>
+	<string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
     <string name="miui_user_agreement_title">Пользовательское соглашение</string>
     <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>

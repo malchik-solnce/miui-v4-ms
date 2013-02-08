@@ -76,13 +76,13 @@
   <string name="callrecordview_item_op_time_short_incoming">" | "</string>
   <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
   <string name="callrecordview_menu_delete">Удалить вызов</string>
-  <string name="callrecordview_menu_delete_accepted">Очистить журнал отвеченных звонков</string>
-  <string name="callrecordview_menu_delete_all">Очистить все звонки</string>
+  <string name="callrecordview_menu_delete_accepted">Очистить журнал принятых вызовов</string>
+  <string name="callrecordview_menu_delete_all">Очистить журнал вызовов</string>
   <string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
-  <string name="callrecordview_menu_delete_confirm">Журнал звонков будет очищен</string>
+  <string name="callrecordview_menu_delete_confirm">Журнал вызовов будет очищен</string>
   <string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
   <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
-  <string name="callrecordview_menu_delete_stranger">Открыть непринятые звонки</string>
+  <string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
   <string name="callrecordview_menu_paste">Вставить</string>
   <string name="callrecordview_menu_settings">Настройки</string>
   <string name="callrecordview_menu_show">Фильтр</string>
@@ -198,7 +198,7 @@
   <string name="deselect_all">Снять выделение</string>
   <string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
   <string name="dialer_empty_text_loading">Загрузка...</string>
-  <string name="dialer_empty_text_no_call_log">Нет звонков</string>
+  <string name="dialer_empty_text_no_call_log">Журнал вызовов пуст</string>
   <string name="dialer_empty_text_no_search_result">Контакты не найдены</string>
   <string name="dialog_import_export">Импорт/экспорт контактов</string>
   <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
@@ -528,8 +528,8 @@
   <string name="preference_displayOptions">Варианты отображения</string>
   <string name="preference_export">Экспорт</string>
   <string name="preference_import">Импорт</string>
-  <string name="preference_import_export">Импорт/Экспорт</string>
-  <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
+  <string name="preference_import_export">Импорт/экспорт</string>
+  <string name="preference_import_export_title">Импорт/экспорт контактов</string>
   <string name="preference_others">Другие</string>
   <string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
   <string name="preference_sim">SIM-карта</string>
@@ -605,7 +605,7 @@
   <string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
   <string name="simContacts_title">Контакты на SIM-карте</string>
   <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
-  <string name="sim_card_no_free_space_title">SIM-карта полная!</string>
+  <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
   <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
   <string name="sim_contacts">Контакты на SIM</string>
   <string name="sim_contacts_invisiable">Скрывать</string>

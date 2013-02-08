@@ -326,9 +326,9 @@
   <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке</string>
   <string name="pref_lab_title">Лаборатория Google</string>
   <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-  <string name="pref_link_prefetch_dialogtitle">Предзагрузка веб-страниц</string>
-  <string name="pref_link_prefetch_summary">Разрешить браузеру предварительную загрузку веб-страниц в фоновом режиме</string>
-  <string name="pref_link_prefetch_title">Предзагрузка веб-страниц</string>
+  <string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
+  <string name="pref_link_prefetch_summary">Разрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
+  <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
   <string name="pref_link_prefetch_value_always">ALWAYS</string>
   <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -374,6 +374,9 @@
   <string name="pref_ua_title">Настройки UA</string>
   <string name="pref_use_instant_search">Google Живой поиск</string>
   <string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
+  <string name="pref_video_preload_dialogtitle">Загрузка видео файлов</string>
+  <string name="pref_video_preload_summary">Разрешить браузеру предварительно загружать видео файлы, если это возможно</string>
+  <string name="pref_video_preload_title">Загрузка видео файлов</string>
   <string name="pref_volume_key_enabled">Кнопки громкости</string>
   <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
   <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>

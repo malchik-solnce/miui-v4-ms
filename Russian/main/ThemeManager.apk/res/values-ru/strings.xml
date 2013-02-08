@@ -34,7 +34,7 @@
   <string name="live_wallpaper">Живые обои</string>
   <string name="lockscreen_wallpaper">Обои блокировки</string>
   <string name="lockstyle_personal_settings">Настроить</string>
-  <string name="long_ringtone_resource">Длинные(&gt;5сек)</string>
+  <string name="long_ringtone_resource">Длинные</string>
   <string name="menu_refresh">Обновить</string>
   <string name="play_all_audio_effect">Воспроизведение аудио (всего: %1$s)</string>
   <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
@@ -60,12 +60,12 @@
   <string name="resource_comment_version_name">(Версия: %1$s)</string>
   <string name="resource_fail_to_show">Тема не содержит соответствующий ресурс</string>
   <string name="resource_preview">Просмотр</string>
-  <string name="short_ringtone_resource">Короткие(&lt;5сек)</string>
+  <string name="short_ringtone_resource">Короткие</string>
   <string name="theme_activity_label">Темы</string>
   <string name="theme_activity_lable">Темы</string>
   <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже</string>
   <string name="theme_changed_failed_message">Установка темы не удалась!</string>
-  <string name="theme_changed_message">Тема успешно применена!</string>
+  <string name="theme_changed_message">Успешно применено!</string>
   <string name="theme_changing_dialog_title">Применение новой темы, подождите…</string>
   <string name="theme_component_title_alarm">Будильник</string>
   <string name="theme_component_title_all">Темы</string>
@@ -132,7 +132,7 @@
   <string name="wallpaper_decoded_error">Не удалось декодировать</string>
   <string name="wallpaper_loading_text">Загрузка...</string>
   <string name="wallpaper_set_as_both">Применить на обои и локскрин</string>
-  <string name="wallpaper_set_as_destop">Применить как обои</string>
+  <string name="wallpaper_set_as_destop">Применить на обои</string>
   <string name="wallpaper_set_as_lockscreen">Применить на локскрин</string>
   <string name="wallpaper_settings">Обои</string>
   <string name="wrong_title">Ошибка</string>

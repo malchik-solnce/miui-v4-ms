@@ -198,7 +198,7 @@
 Скорость передачи данных снижена до %2$d кбит/с."</string>
     <string name="throttle_time_frame_subtext">"%1$s превышен максимум.
 Частота данных уменьшена до %2$d кБ/с"</string>
-    <string name="tone_miui">Тон</string>
+    <string name="tone_miui">Звук клавиш</string>
     <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
     <string name="cdma_cell_broadcast_sms">Широковещательные SMS-службы</string>
@@ -274,7 +274,7 @@
     <string name="gsm_umts_network_preferences_title">Параметры сети GSM/UMTS</string>
     <string name="gsm_umts_network_preferneces_summary">Еще не реализовано!</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Настройки сети GSM/UMTS</string>
-    <string name="prefer_2g">Только 2G сети</string>
+    <string name="prefer_2g">Только 2G</string>
     <string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
@@ -383,7 +383,7 @@
     <string name="card_title_call_ended">Вызов завершен</string>
     <string name="card_title_on_hold">Ждет ответа</string>
     <string name="card_title_hanging_up">Завершение разговора</string>
-    <string name="card_title_in_call">Поступающий вызов</string>
+    <string name="card_title_in_call">Входящий вызов</string>
     <string name="card_title_my_phone_number">Мой номер: %s</string>
     <string name="notification_missedCallTitle">Пропущенный вызов</string>
     <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
@@ -493,14 +493,14 @@
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="dial_button_label">Набор номера</string>
     <string name="calling_via_template">Звонок через %s</string>
-    <string name="slide_to_answer">Перетащите вкладку вправо, чтобы ответить</string>
-    <string name="slide_to_silence">Перетащите вкладку влево, чтобы отключить звук</string>
-    <string name="slide_to_decline">Перетащите вкладку влево, чтобы отклонить вызов</string>
-    <string name="slide_to_answer_and_hold">"Перетащите вкладку вправо, чтобы ответить,
+    <string name="slide_to_answer">Сдвиньте вправо, чтобы ответить</string>
+    <string name="slide_to_silence">Сдвиньте влево, чтобы отключить звук</string>
+    <string name="slide_to_decline">Сдвиньте влево, чтобы отклонить вызов</string>
+    <string name="slide_to_answer_and_hold">"Сдвиньте вправо, чтобы ответить,
 удерживая активный вызов"</string>
-    <string name="slide_to_answer_and_end_active">"Перетащите вкладку вправо, чтобы ответить,
+    <string name="slide_to_answer_and_end_active">"Сдвиньте вправо, чтобы ответить,
 завершив активный вызов"</string>
-    <string name="slide_to_answer_and_end_onhold">"Перетащите вкладку вправо, чтобы ответить,
+    <string name="slide_to_answer_and_end_onhold">"Сдвиньте вправо, чтобы ответить,
 завершив удерживаемый вызов"</string>
     <string name="slide_to_answer_hint">Ответить</string>
     <string name="slide_to_decline_hint">Отклонить</string>
@@ -665,12 +665,12 @@
     <string name="auto_answer_delay_entries_delay_5s_miui">5 сек.</string>
     <string name="auto_answer_delay_entries_immediately_miui">0 сек.</string>
     <string name="auto_answer_delay_title_miui">Задержка при автоответе</string>
-    <string name="auto_answer_pref_summary_miui">Включить автоматический ответ на вызовы, но не автоматически отвечать на входящие вызовы</string>
+    <string name="auto_answer_pref_summary_miui">Автоматический ответ на вызовы</string>
     <string name="auto_answer_pref_title_miui">Автоответ</string>
     <string name="auto_answer_scenario_enteries_always_miui">Всегда</string>
-    <string name="auto_answer_scenario_enteries_bluetooth_only_miui">При подключении Bluetooth</string>
-    <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">При гарнитуре или Bluetooth</string>
-    <string name="auto_answer_scenario_enteries_headset_only_miui">При подключении гарнитуры</string>
+    <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth</string>
+    <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Гарнитура/Bluetooth</string>
+    <string name="auto_answer_scenario_enteries_headset_only_miui">Гарнитура</string>
     <string name="auto_answer_scenario_title_miui">Автоответ</string>
     <string name="auto_answer_setting_title_miui">Настройки автоответа</string>
     <string name="auto_country_code_miui">Автоматический код города</string>
@@ -680,7 +680,7 @@
     <string name="auto_ip_setting_miui">Интеллектуальный IP</string>
     <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
 	<string name="back_miui">Назад</string>
-    <string name="auto_ip_exception_miui">Номера, которым не нужен IP префикс</string>
+    <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
     <string name="auto_ip_no_exceptions_miui">Добавьте номера, которым не нужен IP префикс</string>
     <string name="auto_ip_add_exception_numbers_miui">Добавить номер</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>
@@ -845,7 +845,7 @@
     <string name="invalid_pin_miui">Неверный PIN-код, пожалуйста, введите PIN-код, содержащий от 4 до 8 цифр</string>
     <string name="invalid_puk2_miui">Недопустимый PUK2, пожалуйста, введите PUK2, состоящий из 8 цифр</string>
     <string name="invalid_puk_miui">Недопустимый PUK, пожалуйста, введите PUK2, состоящий из 8 цифр</string>
-    <string name="ip_prefix_miui">Авто-Префикс</string>
+    <string name="ip_prefix_miui">Авто-префикс</string>
     <string name="ip_prefix_required_miui">Вводить свой префикс номера IP</string>
     <string name="ip_prefix_sum_miui">Префикс оператора: %s</string>
     <string name="jituan_number_format_error_message_miui">%s поддерживает только цифры и символы</string>
@@ -991,7 +991,7 @@
     <string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
     <string name="turn_off_auto_select_title_miui">Отключить автовыбор сети</string>
     <string name="turn_off_auto_select_warning_message_miui">После отключения этой опции, будет использоваться сеть выбранная вручную, без регистрации в других сетях</string>
-    <string name="turn_off_auto_select_confirm_message_miui">Сигнал и сеть могут быть недоступны, вы уверены, что хотите отключить эту опцию?</string>
+    <string name="turn_off_auto_select_confirm_message_miui">Сигнал и сеть могут быть недоступны. Вы уверены, что хотите отключить эту опцию?</string>
     <string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>
     <string name="sum_select_automatically_option_miui">Автом. выбор предпочтительной сети, %s</string>
     <string name="register_network_failed_title_miui">Услуга не предоставляется</string>

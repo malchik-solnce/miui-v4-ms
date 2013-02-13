@@ -102,7 +102,7 @@
     <string name="labelCW">Удержание вызова</string>
     <string name="sum_cw_enabled">Извещать меня о входящих вызовах во время разговора</string>
     <string name="sum_cw_disabled">Извещать меня о входящих вызовах во время разговора</string>
-    <string name="call_forwarding_settings">Настройки переадресации вызова</string>
+    <string name="call_forwarding_settings">Переадресация вызовов</string>
     <string name="labelCF">Переадресация вызова</string>
     <string name="labelCFU">Всегда на номер</string>
     <string name="messageCFU">Всегда переадресовывать вызов на этот номер</string>
@@ -422,7 +422,7 @@
     <string name="dial_pad_touch_tone_human_miui">Голос человека</string>
     <string name="dial_pad_touch_tone_miui">Сенсорная панель</string>
     <string name="dial_pad_touch_tone_piano_miui">Фортепианный звук</string>
-    <string name="dial_pad_touch_tone_setting_miui">Настройки тона набора</string>
+    <string name="dial_pad_touch_tone_setting_miui">Тон набора</string>
     <string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
     <string name="dtmfDialpadHintText">Тональная клавиатура</string>
     <string name="onscreenHoldText">Удерживать</string>
@@ -508,7 +508,7 @@
     <string name="goPrivate">приватная конференция</string>
     <string name="selectContact">выбрать контакт</string>
     <string name="sip_settings">Настройки интернет-телефонии</string>
-    <string name="sip_accounts">Аккаунты интернет-телефонии (SIP)</string>
+    <string name="sip_accounts">Аккаунты интернет-телефонии</string>
     <string name="sip_accounts_title">Аккаунты</string>
     <string name="sip_accounts_summary">Управление аккаунтами и состоянием интернет-вызовов (SIP)</string>
     <string name="sip_receive_calls">Принимать входящие</string>
@@ -653,9 +653,9 @@
     <string name="answer_widget_sliding_horizontal_miui">Горизонтальный</string>
     <string name="answer_widget_sliding_vertical_miui">Вертикальный</string>
     <string name="answer_widget_title_miui">Жест ответа</string>
-    <string name="answer_state_setting_title">Настройка входящих вызовов</string>
+    <string name="answer_state_setting_title">Входящие вызовы</string>
     <string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
-    <string name="answer_state_setting_title_miui">Настройка входящих вызовов</string>
+    <string name="answer_state_setting_title_miui">Входящие вызовы</string>
     <string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
     <string name="areacode_required_miui">Вводить свой код города</string>
     <string name="auto_answer_summary_not_enabled">Отключено</string>
@@ -706,10 +706,10 @@
     <string name="bad_puk_miui">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
     <string name="call_assistant_miui">Упрощение вызова</string>
     <string name="caller_id_sum_miui">Скрыть/показать свой номер для исходящих звонков (если поддерживается сетью)</string>
-    <string name="caller_id_title_miui">АОН (Автоопределение номера)</string>
+    <string name="caller_id_title_miui">Автоопределение номера</string>
     <string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
     <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
-    <string name="call_forwarding_settings_miui">Настройки переадресации вызова</string>
+    <string name="call_forwarding_settings_miui">Переадресация вызовов</string>
     <string name="calling_via_template_miui">"Звонок через ^1
 "<b>^2</b></string>
     <string name="call_log_number_limit_miui">Ограничение списка вызова</string>
@@ -720,7 +720,7 @@
     <string name="call_log_number_limit_key_title">Максимально</string>
     <string name="call_log_number_limit_title">Количество записей</string>
     <string name="call_log_number_limit_subsummary">%d записей</string>
-	<string name="call_record_setting_miui">Параметры записи</string>
+	<string name="call_record_setting_miui">Запись звонков</string>
     <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
     <string name="call_recording_notification_title_miui">Уведомление записи разговоров</string>
     <string name="call_recording_prompt_miui">Идет запись...</string>
@@ -732,7 +732,7 @@
     <string name="call_record_sample_prefix_miui">MIUI_Recording</string>
     <string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
     <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
-    <string name="call_settings_category_miui">Настройка вызова</string>
+    <string name="call_settings_category_miui">Настройки вызова</string>
     <string name="call_settings_miui">Вызовы</string>
     <string name="call_title_redialing_with_times_miui">Повторный набор: попытка № %d</string>
     <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>
@@ -933,7 +933,7 @@
     <string name="sim_lock_title_miui">Блокировка SIM-карты</string>
     <string name="sim_pin_change_miui">Изменение PIN-кода SIM</string>
     <string name="sim_pin_toggle_miui">Блокировка SIM-карты</string>
-    <string name="sip_settings_miui">Настройки телефонии</string>
+    <string name="sip_settings_miui">Интернет телефония</string>
     <string name="sip_add_account_tip_text">Добавьте аккаунт для интернет-телефонии</string>
     <string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
     <string name="sliding_target_hint_miui">Сдвиньте вверх, для отклонения/отправки смс</string>
@@ -944,8 +944,8 @@
     <string name="telocation_show_settings_miui">Настройки отображения</string>
     <string name="telocation_setting_summary_teloc_on">Показывать местоположение</string>
     <string name="telocation_setting_summary_teloc_off">Скрывать местоположение</string>
-    <string name="telocation_setting_summary_countrycode_on">Добавлять код страны</string>
-    <string name="telocation_setting_summary_countrycode_off">Не добавлять код страны</string>
+    <string name="telocation_setting_summary_countrycode_on">добавлять код страны</string>
+    <string name="telocation_setting_summary_countrycode_off">не добавлять код страны</string>
     <string name="tty_mode_entries_full_miui">TTY Full</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
     <string name="tty_mode_entries_off_miui">TTY Off</string>
@@ -957,7 +957,7 @@
     <string name="voicemail_miui">Голосовая почта</string>
     <string name="voicemail_provider_miui">Служба голосовой почты</string>
     <string name="voicemail_provider_sum_miui">Выберите услугу голосовой почты</string>
-    <string name="voicemail_settings_miui">Настройки голосовой почты</string>
+    <string name="voicemail_settings_miui">Голосовая почта</string>
     <string name="voicemail_settings_number_hint_miui">Введите номер автоответчика</string>
     <string name="voicemail_settings_number_title_miui">Номер голосовой почты</string>
     <string name="voice_privacy_miui">Конфиденциальность разговоров</string>
@@ -1066,7 +1066,7 @@
     <string name="vibrate_on_ring_title">Вибрация при звонке</string>
     <string name="voicemail_notification_ringtone_title">Мелодия</string>
     <string name="t9_indexing_method_pinyin">Пиньинь</string>
-    <string name="t9_indexing_method_title_miui">Настройки поиска T9</string>
+    <string name="t9_indexing_method_title_miui">Поиск T9</string>
     <string name="t9_indexing_method_zhuyin">Жуинь</string>
     <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
 

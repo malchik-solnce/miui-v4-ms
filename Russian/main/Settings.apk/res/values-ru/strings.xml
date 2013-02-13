@@ -41,7 +41,7 @@
   <string name="accessibility_service_state_off">Отключено</string>
   <string name="accessibility_service_state_on">Включено</string>
   <string name="accessibility_services_title">Службы</string>
-  <string name="accessibility_settings">Спец. возможности</string>
+  <string name="accessibility_settings">Специальные возможности</string>
   <string name="accessibility_settings_title">Настройки специальных возможностей</string>
   <string name="accessibility_speak_password_title">Озвучивать пароли</string>
   <string name="accessibility_sync_disabled">Синхронизация отключена</string>
@@ -261,7 +261,7 @@
   <string name="battery_stats_screen_on_label">Экран включен</string>
   <string name="battery_stats_wake_lock_label">Режим бодрствования</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
-  <string name="battery_status_title">Состояние батареи</string>
+  <string name="battery_status_title">Батарея</string>
   <string name="battery_sugg_apps_gps">Включайте и выключайте GPS вручную, чтобы приложения не могли использовать эту функцию</string>
   <string name="battery_sugg_apps_info">Остановите или удалите приложение</string>
   <string name="battery_sugg_apps_settings">В программе могут быть настройки режима энергосбережения</string>
@@ -652,7 +652,7 @@
   <string name="device_admin_status">Администратор активирован и разрешает приложению %1$s выполнять следующие операции:</string>
   <string name="device_admin_title">Администрирование устройства</string>
   <string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
-  <string name="device_cpu">Частота процессора:</string>
+  <string name="device_cpu">Процессор:</string>
   <string name="device_cpu2_info">"2 ядра "</string>
   <string name="device_cpu4_info">"4 ядра "</string>
   <string name="device_info_default">Неизвестно</string>
@@ -663,7 +663,7 @@
   <string name="device_internal_memory">Внутренняя память:</string>
   <string name="device_internal_partition">Данные/SD-карта:</string>
   <string name="device_memory">RAM:</string>
-  <string name="device_miui_version">Версия MIUI:</string>
+  <string name="device_miui_version">MIUI:</string>
   <string name="device_picker">Выбор устройства Bluetooth</string>
   <string name="device_sd_memory">SD-карта:</string>
   <string name="device_status">Общая информация</string>
@@ -681,8 +681,8 @@
   <string name="display_font_size_label">Размер шрифта:</string>
   <string name="display_label">Экран</string>
   <string name="display_order_text">Упорядочить по:</string>
-  <string name="display_preview_label">Предвпросмотр:</string>
-  <string name="display_settings">Параметры экрана</string>
+  <string name="display_preview_label">Предпросмотр:</string>
+  <string name="display_settings">Экран</string>
   <string name="display_settings_title">Экран</string>
   <string name="dlg_cancel">Отмена</string>
   <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
@@ -806,7 +806,7 @@
   <string name="filter_apps_third_party">Сторонние</string>
   <string name="filter_dlg_title">Выберите параметры фильтра</string>
   <string name="finish_button_label">Готово</string>
-  <string name="firmware_version">Версия Android:</string>
+  <string name="firmware_version">Android:</string>
   <string name="font_size_huge">Огромный</string>
   <string name="font_size_large">Большой</string>
   <string name="font_size_medium">Средний</string>
@@ -895,7 +895,7 @@
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
   <string name="kernel_version">Версия ядра</string>
   <string name="key_settings">Кнопки управления</string>
-  <string name="key_settings_title">Настройки кнопок</string>
+  <string name="key_settings_title">Кнопки</string>
   <string name="keyboard_layout_default_label">По умолчанию</string>
   <string name="keyboard_layout_dialog_setup_button">Настройка раскладок клавиатуры</string>
   <string name="keyboard_layout_dialog_switch_hint">Для переключения нажмите Control-Пробел</string>
@@ -905,12 +905,12 @@
   <string name="keyboard_settings_title">Клавиатура Android</string>
   <string name="language_keyboard_settings_title">Язык и ввод</string>
   <string name="language_picker_title">Язык телефона</string>
-  <string name="language_settings">Язык телефона и ввода</string>
+  <string name="language_settings">Языки телефона и ввода</string>
   <string name="language_settings_category">Языковые настройки</string>
   <string name="large_font">Большой</string>
   <string name="last_synced">Последняя синхронизация %1$s</string>
   <string name="launch_count_label">Подсчет</string>
-  <string name="launcher_settings_title">Настройки лаунчера</string>
+  <string name="launcher_settings_title">Лаунчер</string>
   <string name="led_colors_summary">Цвет уведомлений</string>
   <string name="led_frequence_summary">Интервал между миганиями</string>
   <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
@@ -1293,8 +1293,8 @@
   <string name="reset_app_preferences_button">Сброс приложений</string>
   <string name="reset_app_preferences_desc">"Это сбросит все настройки для: "</string>
   <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
-  <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
-  <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
+  <string name="restore_default_apn">Восстановление настроек APN по умолчанию</string>
+  <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
   <string name="ring_volume_title">Громкость звонка</string>
   <string name="ringtone_summary" />
   <string name="ringtone_title">Мелодия телефона</string>
@@ -1479,7 +1479,7 @@
   <string name="sound_category_sound_title">Общие</string>
   <string name="sound_category_system_title">Системные звуки</string>
   <string name="sound_effects_enable_title">Звук нажатия на экран</string>
-  <string name="sound_settings">Настройки звука</string>
+  <string name="sound_settings">Звук</string>
   <string name="spellchecker_language">Язык</string>
   <string name="spellchecker_quick_settings">Настройки</string>
   <string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
@@ -1512,7 +1512,7 @@
   <string name="storage_low_summary">Некоторые функции, например, синхронизация, могут работать некорректно. Попробуйте освободить место путем удаления приложений или медиа файлов</string>
   <string name="storage_low_title">Заканчивается свободное место</string>
   <string name="storage_menu_usb">USB-подключение к компьютеру</string>
-  <string name="storage_settings">Состояние памяти</string>
+  <string name="storage_settings">Память</string>
   <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
   <string name="storage_settings_title">Настройки хранилища</string>
   <string name="storage_title_usb">USB-подключение к компьютеру</string>
@@ -1545,7 +1545,7 @@
 %1$s"</string>
   <string name="sync_plug">"Добро пожаловать в Google Sync! 
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства."</string>
-  <string name="sync_settings">Мои аккаунты</string>
+  <string name="sync_settings">Аккаунты</string>
   <string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
   <string name="system">Система</string>
   <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
@@ -1738,8 +1738,8 @@
   <string name="verifier_device_identifier_not_available">Информация об устройстве недоступна</string>
   <string name="version_text">Версия %1$s</string>
   <string name="vibrate_category_title">Вибрация</string>
-  <string name="vibrate_in_normal_title">Вибрация в Обычном режиме</string>
-  <string name="vibrate_in_silent_title">Вибрация в режиме Без звука</string>
+  <string name="vibrate_in_normal_title">В \"Обычном режиме\"</string>
+  <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
   <string name="vibrate_input_devices">Использовать вибро</string>
   <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
   <string name="vibrate_on_ring_title">Вибросигнал и рингтон</string>

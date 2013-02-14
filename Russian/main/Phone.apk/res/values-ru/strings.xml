@@ -989,7 +989,7 @@
     <string name="cdma_display_precise_call_state_summary_miui">CDMA таймер вызова ограничен оператором сотовой сети. Если местный оператор поддерживает, состояние может быть показано точно.</string>
     <string name="cdma_display_precise_call_state_message_miui">Если ваш оператор не поддерживает это, состояние вызова будет неправильно, если включен этот пункт. Продолжить?</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
-    <string name="turn_off_auto_select_title_miui">Отключить автовыбор сети</string>
+    <string name="turn_off_auto_select_title_miui">Отключение автомат. выбора сети</string>
     <string name="turn_off_auto_select_warning_message_miui">После отключения этой опции, будет использоваться сеть выбранная вручную, без регистрации в других сетях</string>
     <string name="turn_off_auto_select_confirm_message_miui">Сигнал и сеть могут быть недоступны. Вы уверены, что хотите отключить эту опцию?</string>
     <string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>

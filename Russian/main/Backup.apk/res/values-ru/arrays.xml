@@ -24,7 +24,7 @@
         <item>Настройки будильника</item>
         <item>Заметки</item>
         <item>Черный список</item>
-		<item>Текущая тема</item>
+		<item>Аккаунт</item>
         <item>Суперпользователь</item>
     </string-array>
     <string-array name="app_type_desc">

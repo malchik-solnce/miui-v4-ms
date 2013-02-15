@@ -36,7 +36,7 @@
   <string name="backup_recently">(Последний)</string>
   <string name="backup_report">Отчет</string>
   <string name="backup_update">Обновить</string>
-  <string name="batch_delete_backup_confirm">Резервные копии будут удалены</string>
+  <string name="batch_delete_backup_confirm">Удалить выбранные резервные копии?</string>
   <string name="button_backup">Создать резервную копию</string>
   <string name="button_cancel">Отмена</string>
   <string name="button_finish">Закрыть</string>
@@ -77,7 +77,7 @@
   <string name="disable_encrypt_title">Отключить шифрование</string>
   <string name="enable_encrypt">Включить сейчас</string>
   <string name="enable_encrypt_fail">Включение шифрования не удалось</string>
-  <string name="enable_encrypt_indicator">Резервные копировании не зашифрованы, нажмите кнопку для включения шифрования</string>
+  <string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование.</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">"Система зашифрует ваш локальный бэкап на основе аккаунта Xiaomi,
  Вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использованияс других устройств для восстановления резервной копии"</string>
@@ -93,7 +93,7 @@
   <string name="guarded_mode_dialog_title">Режим защиты</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Включите телефон с контактами
   
-2.\u0009Установите MiTalk и войдите в него.
+2.\u0009Установите MiTalk и войдите в него
 \u0009http://www.miliao.com
  
 3.\u0009Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>

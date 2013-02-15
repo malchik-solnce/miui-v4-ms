@@ -56,10 +56,10 @@
   <string name="image_edit_action_view">Просмотр</string>
   <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
   <string name="menu_alert">Напомнить мне</string>
-  <string name="menu_create_folder">Создать папку</string>
+  <string name="menu_create_folder">Новая папка</string>
   <string name="menu_delete">Удалить</string>
   <string name="menu_deselect_all">Очистить выделение</string>
-  <string name="menu_edit">Редактировать</string>
+  <string name="menu_edit">Редактирование</string>
   <string name="menu_export_text">Экспорт текста</string>
   <string name="menu_folder_change_name">Переименовать папку</string>
   <string name="menu_folder_delete">Удалить папку</string>
@@ -78,10 +78,10 @@
   <string name="menu_search">Поиск</string>
   <string name="menu_select_all">Выбрать все</string>
   <string name="menu_select_none">Ничего не выбрано</string>
-  <string name="menu_select_title">Выделено: %d</string>
+  <string name="menu_select_title">Выбранно: %d</string>
   <string name="menu_send_to_desktop">На рабочий стол</string>
   <string name="menu_setting">Настройки</string>
-  <string name="menu_share">Отправить</string>
+  <string name="menu_share">Поделиться</string>
   <string name="menu_sync">Синхронизация</string>
   <string name="menu_sync_cancel">Отмена синхронизации</string>
   <string name="menu_title_select_folder">Выберите папку</string>
@@ -95,7 +95,7 @@
   <string name="notealert_enter">Посмотреть</string>
   <string name="notealert_ok">Готово</string>
   <string name="noteedit_use_alert_time_error">Неудалось установить время</string>
-  <string name="notelist_menu_new">Создать заметку</string>
+  <string name="notelist_menu_new">Новая заметка</string>
   <string name="notelist_string_info">...</string>
   <string name="preferences_account_summary">Синхронизация с Google Task</string>
   <string name="preferences_account_title">Настройки аккаунта</string>
@@ -116,7 +116,7 @@
   <string name="preferences_set_password_title">Задать пароль</string>
   <string name="preferences_title">Настройки</string>
   <string name="preferences_toast_cannot_change_account">Не удается сменить аккаунт</string>
-  <string name="preferences_toast_success_set_accout">%1$s был установлен в качестве синхронизации аккаунта</string>
+  <string name="preferences_toast_success_set_accout">%1$s установлен в качестве синхронизации</string>
   <string name="search">Заметки</string>
   <string name="search_empty">Не найдено</string>
   <string name="search_hint">Поиск заметок</string>

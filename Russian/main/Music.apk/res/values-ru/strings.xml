@@ -156,7 +156,7 @@
   <string name="modify_meta">Изменить</string>
   <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
   <string name="music_browser_label">Музыка</string>
-  <string name="music_filter">Фильтр размера музыкальных файлов</string>
+  <string name="music_filter">Фильтрация музыкальных файлов</string>
   <string name="music_filter_helper">Скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800K применяется, чтобы скрыть эти файлы от отображения. Порог можно настроить в меню Настройки/Файловый фильтр</string>
   <string name="music_picker_title">Выберите трек</string>
   <string name="music_settings">Настройки</string>
@@ -188,7 +188,7 @@
   <string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
   <string name="playback_failed_no_title_by_network">Невозможно проиграть трэк, проверьте сетевое подключение</string>
   <string name="player_display_settings">ПРОИГРЫВАТЕЛЬ</string>
-  <string name="playlist_custom">Мой плейлист</string>
+  <string name="playlist_custom">Мои плейлисты</string>
   <string name="playlist_deleted_message">Плейлист удален</string>
   <string name="playlist_favorite">Избранное</string>
   <string name="playlist_frequently_played">Часто воспроизводимые</string>
@@ -197,7 +197,7 @@
   <string name="playlist_recently_added">Недавно добавленные</string>
   <string name="playlist_recently_played">Недавно играющие</string>
   <string name="playlist_renamed_message">Плейлист переименован</string>
-  <string name="playlist_system">Системный плейлист</string>
+  <string name="playlist_system">Системные плейлисты</string>
   <string name="playlists_title">Плейлисты</string>
   <string name="queue">В очередь</string>
   <string name="quit_player">Выйти</string>
@@ -216,7 +216,7 @@
   <string name="rename_playlist_menu">Переименовать</string>
   <string name="ringtone_menu">Как рингтон</string>
   <string name="ringtone_menu_short">Как рингтон</string>
-  <string name="ringtone_set">Трек %s установлен как рингтон</string>
+  <string name="ringtone_set">%s установлена как рингтон</string>
   <string name="save">Добавить</string>
   <string name="scanning">Сканирование SD-карты…</string>
   <string name="scanning_nosdcard">Сканирование SD-карты…</string>
@@ -228,7 +228,7 @@
   <string name="sdcard_error_message_nosdcard">Ошибка на вашем накопителе</string>
   <string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
   <string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон</string>
-  <string name="search_failed">Поиск не удался, проверьте подключение к сети</string>
+  <string name="search_failed">Поиск не удался. Проверьте подключение к сети.</string>
   <string name="search_hint">Поиск музыки</string>
   <string name="search_history">История поиска</string>
   <string name="search_in_process">Поиск</string>

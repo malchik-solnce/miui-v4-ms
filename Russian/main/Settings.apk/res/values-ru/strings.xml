@@ -194,7 +194,7 @@
   <string name="band_mode_set">Настроить</string>
   <string name="band_mode_succeeded">Успешно</string>
   <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
-  <string name="baseband_version">Прошивка модуля связи</string>
+  <string name="baseband_version">Модем</string>
   <string name="battery_action_app_details">О приложении</string>
   <string name="battery_action_app_settings">Настройки приложения</string>
   <string name="battery_action_bluetooth">Настройки Bluetooth</string>
@@ -435,7 +435,7 @@
   <string name="brightness">Яркость экрана</string>
   <string name="brightness_summary">Настроить яркость экрана</string>
   <string name="bssid_label">"BSSID: "</string>
-  <string name="build_number">Номер сборки</string>
+  <string name="build_number">Сборка</string>
   <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
   <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
   <string name="cache_header_label">Кэш</string>
@@ -874,7 +874,7 @@
   <string name="intent_sender_action_label">Действие:</string>
   <string name="intent_sender_data_label">Данные:</string>
   <string name="intent_sender_resource_label">Ресурс:</string>
-  <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
+  <string name="intent_sender_sendbroadcast_text">Отправить запрос</string>
   <string name="intent_sender_startactivity_text">Начать действие</string>
   <string name="internal_format">Форматирование внутреннего хранилища</string>
   <string name="internal_format_summary">После форматирования внутреннего хранилища, будут удалены все файлы, такие как музыка, фотографии, игры и т.д.</string>
@@ -884,7 +884,7 @@
   <string name="internal_media_format_title">Очистка внутреннего хранилища</string>
   <string name="internal_memory">Внутренний накопитель</string>
   <string name="internal_storage">Внутренний накопитель</string>
-  <string name="invalid_location">Недопустимое место установки.</string>
+  <string name="invalid_location">Недопустимое место установки</string>
   <string name="invalid_size_value">Не удалось вычислить размер пакета</string>
   <string name="ipaddr_label">"IP адрес: "</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
@@ -893,7 +893,7 @@
   <string name="join_two_items">%1$s и %2$s</string>
   <string name="keep_screen_on">Оставить включенным</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
-  <string name="kernel_version">Версия ядра</string>
+  <string name="kernel_version">Ядро</string>
   <string name="key_settings">Кнопки управления</string>
   <string name="key_settings_title">Кнопки</string>
   <string name="keyboard_layout_default_label">По умолчанию</string>
@@ -1107,7 +1107,7 @@
   <string name="multi_sim_settings_title">Настройка нескольких сим</string>
   <string name="multi_touch_points_category_title">Точки мултитач</string>
   <string name="multi_touch_points_preference">Перезагрузить для применения</string>
-  <string name="musicfx_title">Звуковые эффекты</string>
+  <string name="musicfx_title">Эквалайзер</string>
   <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
   <string name="network_detail">Свойства сети %s</string>
   <string name="network_settings_title">Мобильная сеть</string>

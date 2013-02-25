@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cpu_zram_size_entries">
-        <item>Отключить</item>
+        <item>Отключено</item>
         <item>10%</item>
         <item>18%</item>
         <item>26%</item>
     </string-array>
     <string-array name="entries_animations">
-        <item>Отключена</item>
-        <item>Быстрая</item>
-        <item>Обычная</item>
-        <item>Медленная</item>
-        <item>Еще медленнее</item>
-        <item>Очень медленная</item>
-        <item>Самая медленная</item>
+        <item>Отключено</item>
+        <item>Быстро</item>
+        <item>Нормально</item>
+        <item>Медленно</item>
+        <item>Ещё медленнее</item>
+        <item>Очень медленно</item>
+        <item>Максимально медленно</item>
     </string-array>
     <string-array name="entries_overscroll_type">
         <item>Никакая</item>
@@ -22,15 +22,15 @@
         <item>Отскок и свет</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
-        <item>Extra Heavy</item>
-        <item>Heavy</item>
+        <item>Очень тяжелая</item>
+        <item>Тяжелая</item>
         <item>Средняя</item>
         <item>Легкая</item>
         <item>Очень легкая</item>
     </string-array>
     <string-array name="entries_status_styles">
-        <item>В центре</item>
         <item>Справа</item>
-        <item>Слева</item>
+        <item>По центру</item>
+        <item>По центру (сдвиг иконок)</item>
     </string-array>
 </resources>
